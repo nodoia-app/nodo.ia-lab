@@ -1,19 +1,5 @@
 {
-  "articles": [
-    {
-      "id": "ai-healthcare-innovation",
-      "categoryId": "health",
-      "title": "AI in Healthcare: The Future is Now",
-      "titleEs": "IA en Salud: El Futuro es Ahora",
-      "summary": "Exploring how artificial intelligence is revolutionizing medical diagnostics",
-      "summaryEs": "Explorando cómo la inteligencia artificial está revolucionando el diagnóstico médico",
-      "author": "Nodo Labs",
-      "publishedAt": "2024-01-20T14:30:00Z",
-      "readTimeMinutes": 4,
-      "content": "Artificial Intelligence is reshaping healthcare delivery in unprecedented ways.\n\n## Current Applications\n\n### Diagnostics\n- **Medical imaging**: AI can detect cancers with 95% accuracy\n- **Pathology**: Automated analysis of tissue samples\n- **Radiology**: Faster and more accurate X-ray interpretation\n\n### Treatment Planning\n- Personalized medicine based on genetic profiles\n- Drug discovery accelerated by 10x\n- Predictive analytics for patient outcomes\n\n## Challenges Ahead\n\nDespite the promise, several challenges remain:\n\n1. **Data privacy**: Protecting sensitive patient information\n2. **Bias in algorithms**: Ensuring fair treatment across demographics\n3. **Integration**: Connecting AI with existing hospital systems\n\n## Real-World Impact\n\nHospitals implementing AI have seen:\n- 30% reduction in diagnostic errors\n- 40% faster treatment planning\n- Improved patient satisfaction scores\n\n```python\n# Example: Simple diagnostic algorithm\ndef predict_risk(symptoms, history):\n    model = load_trained_model()\n    risk_score = model.predict([symptoms, history])\n    return risk_score\n```\n\n## Conclusion\n\nAI is not replacing doctors—it's empowering them to make better, faster decisions and ultimately save more lives.",
-      "contentEs": "La Inteligencia Artificial está transformando la prestación de servicios de salud de maneras sin precedentes.\n\n## Aplicaciones Actuales\n\n### Diagnósticos\n- **Imágenes médicas**: La IA puede detectar cánceres con 95% de precisión\n- **Patología**: Análisis automatizado de muestras de tejido\n- **Radiología**: Interpretación de rayos X más rápida y precisa\n\n### Planificación de Tratamiento\n- Medicina personalizada basada en perfiles genéticos\n- Descubrimiento de medicamentos acelerado por 10x\n- Análisis predictivo de resultados de pacientes\n\n## Desafíos por Delante\n\nA pesar de la promesa, varios desafíos permanecen:\n\n1. **Privacidad de datos**: Protección de información sensible del paciente\n2. **Sesgo en algoritmos**: Garantizar tratamiento justo entre demografías\n3. **Integración**: Conectar IA con sistemas hospitalarios existentes\n\n## Impacto en el Mundo Real\n\nHospitales implementando IA han visto:\n- 30% de reducción en errores diagnósticos\n- 40% más rápida planificación de tratamiento\n- Puntuaciones de satisfacción del paciente mejoradas\n\n```python\n# Ejemplo: Algoritmo de diagnóstico simple\ndef predecir_riesgo(sintomas, historial):\n    modelo = cargar_modelo_entrenado()\n    puntaje_riesgo = modelo.predecir([sintomas, historial])\n    return puntaje_riesgo\n```\n\n## Conclusión\n\nLa IA no está reemplazando a los médicos—los está empoderando para tomar decisiones mejores y más rápidas y, en última instancia, salvar más vidas."
-    },
-    
+  "articles": [  
 {
   "id": "renewable-energy-dominican-republic-2025",
   "categoryId": "energy",
