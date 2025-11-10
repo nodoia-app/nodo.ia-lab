@@ -69,6 +69,13 @@
       "nameEs": "Entretenimiento",
       "emoji": "🎬",
       "color": "#a855f7"
-    }
+    },
+    {
+      "id": "energy",
+      "name": "Energy",
+      "nameEs": "Energía",
+      "emoji": "⚡",
+      "color": "#facc15"
+   }
   ]
 }
