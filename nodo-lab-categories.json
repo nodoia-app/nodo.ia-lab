@@ -1,11 +1,39 @@
 {
   "categories": [
+     {
+      "id": "energy",
+      "name": "Energy",
+      "nameEs": "Energía",
+      "emoji": "⚡",
+      "color": "#facc15"
+    },
     {
-      "id": "finance",
-      "name": "Finance",
-      "nameEs": "Finanzas",
-      "emoji": "💰",
-      "color": "#10b981"
+      "id": "urban",
+      "name": "Urban Life",
+      "nameEs": "Vida Urbana",
+      "emoji": "🏙️",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "economy",
+      "name": "Economy",
+      "nameEs": "Economía",
+      "emoji": "💵",
+      "color": "#0d9488"
+    },
+    {
+      "id": "society",
+      "name": "Society",
+      "nameEs": "Sociedad",
+      "emoji": "🤝",
+      "color": "#f43f5e"
+    },
+    {
+      "id": "environment",
+      "name": "Environment",
+      "nameEs": "Medio Ambiente",
+      "emoji": "🌿",
+      "color": "#22c55e"
     },
     {
       "id": "technology",
@@ -69,43 +97,7 @@
       "nameEs": "Entretenimiento",
       "emoji": "🎬",
       "color": "#a855f7"
-    },
-    {
-  "id": "energy",
-  "name": "Energy",
-  "nameEs": "Energía",
-  "emoji": "⚡",
-  "color": "#facc15"
-},
-{
-  "id": "urban",
-  "name": "Urban Life",
-  "nameEs": "Vida Urbana",
-  "emoji": "🏙️",
-  "color": "#60a5fa"
-},
-{
-  "id": "economy",
-  "name": "Economy",
-  "nameEs": "Economía",
-  "emoji": "💵",
-  "color": "#0d9488"
-},
-{
-  "id": "society",
-  "name": "Society",
-  "nameEs": "Sociedad",
-  "emoji": "🤝",
-  "color": "#f43f5e"
-},
-{
-  "id": "environment",
-  "name": "Environment",
-  "nameEs": "Medio Ambiente",
-  "emoji": "🌿",
-  "color": "#22c55e"
-}
-
+    }
 
     
   ]
