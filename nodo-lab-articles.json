@@ -226,7 +226,7 @@
 
    {
   "id": "public-transport-vs-motors-dominican-republic",
-  "categoryId": "urban",
+  "categoryId": "environment",
   "title": "Public Transport vs. Motorcycles: The Dominican Dilemma",
   "titleEs": "Transporte Público vs Pasolas: El Dilema Dominicano",
   "summary": "Why most Dominicans choose a motorcycle instead of public transport — and what that says about our cities.",
@@ -240,7 +240,7 @@
 
   {
   "id": "motorcycle-delivery-economy-dominican-republic",
-  "categoryId": "urban",
+  "categoryId": "environment",
   "title": "Motorcycles and Delivery: Good for the Economy, Bad for Order",
   "titleEs": "Motores y Delivery: Buenos para la Economía, Malos para el Orden",
   "summary": "How motorcycles and delivery apps became an economic lifeline for thousands — and a challenge for safety and urban order.",
@@ -408,7 +408,7 @@
 
  {
   "id": "education-repetition-vs-thinking",
-  "categoryId": "education",
+  "categoryId": "society",
   "title": "Why We Leave School Repeating, Not Thinking",
   "titleEs": "Por Qué Salimos del Colegio Repitiendo, No Pensando",
   "summary": "Dominican schools often teach students to memorize, not to question or create — an education model that kills curiosity and innovation.",
@@ -422,7 +422,7 @@
 
  {
   "id": "citizenship-and-real-life-education",
-  "categoryId": "education",
+  "categoryId": "society",
   "title": "What Schools Should Teach About Citizenship and Real Life",
   "titleEs": "Lo Que la Escuela Debería Enseñar Sobre Ciudadanía y Vida Real",
   "summary": "Dominican students learn formulas and dates, but not how to be active citizens or manage real life — a missing link between education and society.",
@@ -436,7 +436,7 @@
 
 {
   "id": "pressure-to-appear-dominican-republic",
-  "categoryId": "lifestyle",
+  "categoryId": "society",
   "title": "The Pressure to Appear in the Dominican Republic",
   "titleEs": "La Presión de Aparentar en RD",
   "summary": "In Dominican society, success is often measured by what you show, not what you have — a culture that fuels debt, anxiety, and empty competition.",
@@ -450,7 +450,7 @@
 
  {
   "id": "credit-freedom-or-chain",
-  "categoryId": "lifestyle",
+  "categoryId": "society",
   "title": "Credit: Freedom or Chain?",
   "titleEs": "Crédito: ¿Libertad o Cadena?",
   "summary": "Credit can build dreams or destroy them — in the Dominican Republic, it often traps people in endless debt due to lack of education and transparency.",
@@ -464,7 +464,7 @@
 
 {
   "id": "real-domestic-tourism-dominican-republic",
-  "categoryId": "travel",
+  "categoryId": "entertainment",
   "title": "Real Domestic Tourism in the Dominican Republic",
   "titleEs": "Turismo Interno Real en República Dominicana",
   "summary": "Beyond Punta Cana — exploring Constanza, Barahona, Pedernales, and other destinations that show the real beauty and culture of the Dominican Republic.",
@@ -478,7 +478,7 @@
 
  {
   "id": "food-safety-dominican-republic",
-  "categoryId": "food",
+  "categoryId": "entertainment",
   "title": "Do We Really Know What We Eat?",
   "titleEs": "¿Sabemos lo que Comemos?",
   "summary": "Food safety in the Dominican Republic remains a silent issue — from pesticides and additives to imported products of unknown origin.",
@@ -492,7 +492,7 @@
 
  {
   "id": "food-education-dominican-republic",
-  "categoryId": "food",
+  "categoryId": "entertainment",
   "title": "Food Education: Eating Healthy and Understanding Nutrition",
   "titleEs": "Educación Alimentaria: Comer Sano y Entender la Nutrición",
   "summary": "Many Dominicans eat what’s cheap or convenient, not what’s healthy. Food education could change lives and save millions in healthcare costs.",
@@ -506,7 +506,7 @@
 
  {
   "id": "dominican-baseball-and-other-sports",
-  "categoryId": "sports",
+  "categoryId": "entertainment",
   "title": "Why Dominicans Excel in Baseball — But Not in Other Sports",
   "titleEs": "Por Qué Somos Buenos en Béisbol y No en Otros Deportes",
   "summary": "Baseball is in our DNA — but our obsession with it may be limiting the rise of other sports that could also bring pride and opportunity to the country.",
