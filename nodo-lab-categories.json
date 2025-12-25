@@ -29,13 +29,6 @@
       "color": "#f43f5e"
     },
     {
-      "id": "environment",
-      "name": "Environment",
-      "nameEs": "Medio Ambiente",
-      "emoji": "🌿",
-      "color": "#22c55e"
-    },
-    {
       "id": "technology",
       "name": "Technology",
       "nameEs": "Tecnología",
@@ -48,42 +41,6 @@
       "nameEs": "Salud",
       "emoji": "🏥",
       "color": "#ef4444"
-    },
-    
-    {
-      "id": "education",
-      "name": "Education",
-      "nameEs": "Educación",
-      "emoji": "📚",
-      "color": "#8b5cf6"
-    },
-    {
-      "id": "lifestyle",
-      "name": "Lifestyle",
-      "nameEs": "Estilo de Vida",
-      "emoji": "✨",
-      "color": "#ec4899"
-    },
-    {
-      "id": "travel",
-      "name": "Travel",
-      "nameEs": "Viajes",
-      "emoji": "✈️",
-      "color": "#06b6d4"
-    },
-    {
-      "id": "food",
-      "name": "Food",
-      "nameEs": "Comida",
-      "emoji": "🍽️",
-      "color": "#f97316"
-    },
-    {
-      "id": "sports",
-      "name": "Sports",
-      "nameEs": "Deportes",
-      "emoji": "⚽",
-      "color": "#14b8a6"
     },
     {
       "id": "entertainment",
