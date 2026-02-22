@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "id": "bcrd-informa-que-la-economia-dominicana-registro-un-aumento-interanual-promedio",
+      "categoryId": "economy",
+      "title": "BCRD informa que la economía dominicana registró un aumento interanual promedio de 133,915 nuevos ocupados netos en 2025",
+      "summary": "La economía dominicana registró un aumento interanual promedio de 133,915 nuevos ocupados netos en 2025, con una alta contribución de los trabajadores formales. La tasa de informalidad se redujo a 54.1%.",
+      "author": "Nodo AI, Inc.",
+      "publishedAt": "2026-02-22T14:27:07.000Z",
+      "readTimeMinutes": 1,
+      "content": "El Banco Central de la República Dominicana (BCRD) reporta un aumento de 133,915 nuevos ocupados netos en 2025, destacando que el 98.5% de estos son trabajadores formales. La informalidad promedio se situó en 54.1%, una disminución respecto al 55.5% de 2024.\n\nLa tasa de ocupación promedió 62.9% y la tasa global de participación alcanzó 66.2%, ambos marcando niveles históricos. La tasa de desocupación abierta fue del 5.0% en 2025, con un total de ocupados que llegó a 5,168,878 trabajadores, lo que representa un incremento interanual del 2.3%. \n\nEl crecimiento en la generación de empleos se concentró en la población femenina, y se observó una reducción en la tasa de informalidad, que se ubicó en 54.2% en el cuarto trimestre de 2025. A pesar de los desafíos macroeconómicos, los indicadores del mercado laboral muestran un desempeño favorable.\n\n---\n\nFuente verificada: El Dinero\n\nEnlace original: https://eldinero.com.do/354935/bcrd-informa-que-la-economia-dominicana-registro-un-aumento-interanual-promedio-de-133915-nuevos-ocupados-netos-en-2025-ubicando-el-total-de-ocupados-promedio-en-5139951-personas",
+      "imgsource": "https://bucket-stagginh.up.railway.app/nodo-labs/bcrd-informa-que-la-economia-dominicana-registro-un-aumento-interanual-promedio.webp",
+      "source": "El Dinero",
+      "sourceUrl": "https://eldinero.com.do/354935/bcrd-informa-que-la-economia-dominicana-registro-un-aumento-interanual-promedio-de-133915-nuevos-ocupados-netos-en-2025-ubicando-el-total-de-ocupados-promedio-en-5139951-personas"
+    },
+    {
+      "id": "bce-pide-a-eeuu-que-explique-alcance-de-los-nuevos-aranceles",
+      "categoryId": "economy",
+      "title": "BCE pide a EEUU que explique alcance de los nuevos aranceles",
+      "summary": "La presidenta del Banco Central Europeo, Christine Lagarde, solicita a Estados Unidos claridad sobre los nuevos aranceles impuestos por el presidente Donald Trump. Lagarde expresa su preocupación por posibles disrupciones en el comercio.",
+      "author": "Nodo AI, Inc.",
+      "publishedAt": "2026-02-22T19:00:31.000Z",
+      "readTimeMinutes": 1,
+      "content": "Christine Lagarde, presidenta del Banco Central Europeo, ha solicitado a Estados Unidos que aclare el alcance y la duración de los nuevos aranceles anunciados por Donald Trump. Lagarde enfatiza la importancia de conocer las normas comerciales para evitar litigios y facilitar los negocios.\n\nLagarde también ha manifestado su temor a nuevas disrupciones en el comercio, especialmente para aquellos que se han adaptado a la situación actual tras la guerra arancelaria. El Tribunal Supremo de Estados Unidos invalidó los aranceles iniciales de Trump, pero el presidente ha implementado nuevos gravámenes bajo otra legislación.\n\nAdemás, Lagarde reafirma su compromiso con la estabilidad de precios y financiera, asegurando que su objetivo es mantener el euro fuerte y preparado para el futuro.\n\n---\n\nFuente verificada: Almomento\n\nEnlace original: https://almomento.net/bce-pide-a-eeuu-que-explique-alcance-de-los-nuevos-aranceles",
+      "imgsource": "https://bucket-stagginh.up.railway.app/nodo-labs/bce-pide-a-eeuu-que-explique-alcance-de-los-nuevos-aranceles.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/bce-pide-a-eeuu-que-explique-alcance-de-los-nuevos-aranceles"
+    },
+    {
       "id": "venezuela-recibe-65-toneladas-suministros-medicos-de-eeuu",
       "categoryId": "health",
       "title": "Venezuela recibe 65 toneladas suministros médicos de EEUU",
