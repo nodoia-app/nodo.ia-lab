@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "que-busca-la-gente-en-tu-ciudad-esta-semana-2",
+      "categoryId": "economy",
+      "title": "Que busca la gente en tu ciudad esta semana",
+      "summary": "Esta semana hemos analizado las búsquedas reales realizadas por los ciudadanos de Pune a través de Nodo.",
+      "author": null,
+      "publishedAt": "2026-02-23T06:30:29.934Z",
+      "readTimeMinutes": 1,
+      "content": "## Panorama semanal\n\nEsta semana hemos analizado las búsquedas reales realizadas por los ciudadanos de Pune a través de Nodo. Los datos reflejan claramente las tendencias emergentes en la demanda local, así como las oportunidades que se presentan para los negocios en la región.\n\n## Lo que mas crecio\n\nEn los últimos días, las categorías que han mostrado un notable interés son Vehículos y Electrónica. Los términos más buscados incluyen \"bebida refrescante\" y \"SUV familiar de siete pasajeros\", lo que indica un cambio en las preferencias de los consumidores y su interés por productos específicos.\n\n## Busquedas destacadas\n\nEste análisis no solo revela qué es lo que la gente está buscando, sino que también proporciona una visión sobre cómo los comerciantes pueden adaptar sus ofertas para satisfacer estas demandas. Con el acceso a Nodo Insights Pro, es posible profundizar en el análisis por ciudad, categoría y tendencia, permitiendo a los negocios estar un paso adelante en el mercado local.\n\n## Proxima accion\n\nMantente al tanto de estas tendencias y aprovecha la información para mejorar tu estrategia comercial. La demanda local está en constante evolución y entenderla es clave para el éxito en el entorno competitivo actual.",
+      "imgsource": "https://bucket-stagginh.up.railway.app/nodo-labs/que-busca-la-gente-en-tu-ciudad-esta-semana-2.webp",
+      "source": "Nodo AI, Inc",
+      "sourceUrl": "http://localhost:3001/analytics"
+    },
+    {
       "id": "que-busca-la-gente-en-tu-ciudad-esta-semana",
       "categoryId": "economy",
       "title": "Que busca la gente en tu ciudad esta semana",
