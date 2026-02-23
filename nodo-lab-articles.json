@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "que-busca-la-gente-en-tu-ciudad-esta-semana-3",
+      "categoryId": "economy",
+      "title": "Que busca la gente en tu ciudad esta semana",
+      "summary": "Esta semana revisamos la actividad de busqueda en **Pune** con datos reales de Nodo para detectar cambios de interes y oportunidades comerciales.",
+      "author": null,
+      "publishedAt": "2026-02-23T07:21:04.216Z",
+      "readTimeMinutes": 1,
+      "content": "Esta semana revisamos la actividad de busqueda en **Pune** con datos reales de Nodo para detectar cambios de interes y oportunidades comerciales.\n\n## Tendencias clave\n- **Categorias con mayor impulso:** Vehicles y Electronics.\n- **Busquedas destacadas:** \"bebida refrescante\" y \"suv familiar pasajeros\".\n- **Lectura general:** la demanda se esta moviendo hacia decisiones de compra mas especificas y orientadas a valor.\n\n## Que significa para los comercios\nEstos patrones muestran que los usuarios estan comparando opciones con mayor intencion antes de decidir. Ajustar catalogo, mensajes y posicionamiento a estas señales puede mejorar conversion y relevancia local.\n\n## Proxima accion\n- Revisa por ciudad las categorias con mayor interes.\n- Identifica productos con mejor traccion en busquedas recientes.\n- Prioriza ofertas y contenido segun intencion de compra.\n\n> \"Los datos no adivinan el mercado: lo describen a tiempo para actuar.\" - Nodo Labs\n\n---\n\n*Primero entiende la demanda. Luego escala la oferta.*",
+      "imgsource": "https://bucket-stagginh.up.railway.app/nodo-labs/que-busca-la-gente-en-tu-ciudad-esta-semana-3.webp",
+      "source": "Nodo AI, Inc",
+      "sourceUrl": "http://localhost:3001/analytics"
+    },
+    {
       "id": "que-busca-la-gente-en-tu-ciudad-esta-semana-2",
       "categoryId": "economy",
       "title": "Que busca la gente en tu ciudad esta semana",
