@@ -1,5 +1,44 @@
 {
   "articles": [
+        {
+      "id": "gobierno-resalta-el-crecimiento-del-empleo-en-la-r-dominicana",
+      "categoryId": "economy",
+      "title": "Gobierno resalta el crecimiento del empleo en la R. Dominicana",
+      "summary": "El Gobierno destacó el aumento en el empleo formal en la República Dominicana durante 2025, según el Banco Central. La tasa de informalidad ha disminuido, reflejando una mayor integración de la mujer al mercado laboral.",
+      "author": "Nodo AI, Inc.",
+      "publishedAt": "2026-02-23T06:30:34.000Z",
+      "readTimeMinutes": 1,
+      "content": "El Banco Central de la República Dominicana presentó los resultados de la Encuesta Nacional Continua de Fuerza de Trabajo, que indican un incremento en el empleo durante 2025. Se registraron 133,915 personas más trabajando en comparación con el año anterior, alcanzando un total de 5,139,951 trabajadores.\n\nEl crecimiento del empleo fue impulsado principalmente por la creación de puestos formales, que representaron el 98.5% del total de nuevos empleos. La tasa de informalidad promedio descendió a 54.1%, una reducción respecto al 55.5% de 2024. Al cierre del cuarto trimestre de 2025, el total de ocupados llegó a 5,168,878, con un 72.7% de estos siendo trabajadores formales.\n\nLos indicadores del mercado laboral también mostraron mejoras, con una tasa de ocupación del 62.9% y una tasa de participación del 66.2%, ambas cifras históricas. La tasa de desocupación se mantuvo en 5.0%, mostrando una ligera disminución en comparación con el año anterior. El crecimiento del empleo formal ha contribuido a reducir la informalidad desde un máximo histórico durante la pandemia.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/gobierno-resalta-el-crecimiento-del-empleo-en-la-r-dominicana.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/gobierno-resalta-el-crecimiento-del-empleo-en-la-r-dominicana"
+    },
+    {
+      "id": "fp-reitera-rechazo-a-la-idea-de-fusionar-minerd-y-el-mescyt",
+      "categoryId": "technology",
+      "title": "FP reitera rechazo a la idea de fusionar MINERD y el MESCyT",
+      "summary": "El partido Fuerza del Pueblo se opone a la fusión de los ministerios de Educación y de Educación Superior, Ciencia y Tecnología. Consideran que esta medida representa un retroceso para la educación del país.",
+      "author": "Nodo AI, Inc.",
+      "publishedAt": "2026-02-23T06:40:51.000Z",
+      "readTimeMinutes": 1,
+      "content": "Fuerza del Pueblo (FP) expresó su rechazo a un proyecto de ley que busca fusionar los ministerios de Educación y de Educación Superior, Ciencia y Tecnología. La entidad argumenta que esta fusión es un retroceso para la educación en el país y destaca la falta de continuidad en proyectos anteriores.\n\nEl partido señala que el nuevo ministro de Educación Superior, Ciencia y Tecnología, Rafael Santos Badía, había mencionado que se enfocaría en una 'reforma integral' en lugar de una fusión. FP critica que el proyecto de ley no evalúa adecuadamente los programas existentes antes de su supresión, lo que consideran un grave error.\n\nFP también recuerda que la Ley 139-01 fue un avance significativo para el sistema nacional de educación superior y que la fusión podría debilitar la calidad y pertinencia de los servicios educativos. La organización aboga por un plan que transforme el sistema educativo manteniendo ambos ministerios.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/fp-reitera-rechazo-a-la-idea-de-fusionar-minerd-y-el-mescyt.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/fp-reitera-rechazo-a-la-idea-de-fusionar-minerd-y-el-mescyt"
+    },
+    {
+      "id": "gobierno-destaca-creacion-de-133915-empleos-en-2025-segun-datos-del-banco-centra",
+      "categoryId": "economy",
+      "title": "Gobierno destaca creación de 133,915 empleos en 2025, según datos del Banco Central",
+      "summary": "El Gobierno resaltó la creación de 133,915 nuevos empleos en 2025, según el Banco Central. La tasa de informalidad se redujo a 54.1%.",
+      "author": "Nodo AI, Inc.",
+      "publishedAt": "2026-02-22T22:43:24.000Z",
+      "readTimeMinutes": 1,
+      "content": "El Gobierno de la República Dominicana informó que la economía generó 133,915 nuevos empleos en promedio interanual durante 2025, alcanzando un total de 5,139,951 trabajadores. La mayoría de estos nuevos empleos fueron formales, lo que contribuyó a una disminución en la tasa de informalidad.\n\nAl final del cuarto trimestre de 2025, el número de ocupados llegó a 5,168,878, con un aumento interanual de 117,948 empleos netos. La generación de empleo se concentró en la población femenina, evidenciando una mayor integración de las mujeres al mercado laboral.\n\nLas tasas de ocupación y participación laboral alcanzaron niveles históricos, con un promedio de 62.9% y 66.2%, respectivamente. La tasa de desocupación abierta fue de 5.0% y la tasa de subutilización ampliada descendió a 9.2%.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/gobierno-destaca-creacion-de-133915-empleos-en-2025-segun-datos-del-banco-centra.webp",
+      "source": "N Digital",
+      "sourceUrl": "https://n.com.do/2026/02/22/crecimiento-empleo-republica-dominicana-2025-banco-central"
+    },
     {
       "id": "bcrd-informa-que-la-economia-dominicana-registro-un-aumento-interanual-promedio",
       "categoryId": "economy",
