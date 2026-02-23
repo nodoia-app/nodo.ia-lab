@@ -1,6 +1,20 @@
 {
   "articles": [
     {
+      "id": "nodo-weekly-trends-what-people-searched-for-this-week-in-your-city-2",
+      "categoryId": "economy",
+      "title": "Nodo Weekly Trends: What People Searched for This Week in Your City",
+      "summary": "Resumen semanal de Nodo AI con tendencias de busqueda reales. Las categorias con mayor actividad fueron Vehicles y Electronics.",
+      "author": "Nodo AI, Inc.",
+      "publishedAt": "2026-02-23T03:26:54.469Z",
+      "readTimeMinutes": 1,
+      "content": "*Resumen:* Esta semana se activo la demanda en *Vehicles y Electronics*.\n📍 *Zonas con mas actividad:* Pune.\n\n---\n\n## 📈 Categorias en tendencia\n- *Vehicles*\n- *Electronics*\n\n---\n\n## 🔎 Busquedas destacadas\n- *\"bebida refrescante\"*\n- *\"suv familiar 7 pasajeros\"*\n\n---\n\n## 💡 Que esta pasando\n- En *Vehicles*, la intencion es de compra directa (modelos especificos).\n- En *Electronica*, la gente esta comparando opciones.\n\n---\n\n## 🚀 Oportunidad para comercios\nPublica y optimiza tus listings esta semana en *Vehicles*.\n\n¡Suscríbete ahora!",
+      "imgsource": "https://bucket-stagginh.up.railway.app/nodo-labs/nodo-weekly-trends-what-people-searched-for-this-week-in-your-city-2.webp",
+      "source": "Nodo Analytics",
+      "sourceUrl": "http://localhost:3001/analytics",
+      "ctaLabel": "¡Suscríbete ahora!"
+    },
+    {
       "id": "nodo-weekly-trends-what-people-searched-for-this-week-in-your-city",
       "categoryId": "economy",
       "title": "Nodo Weekly Trends: What People Searched for This Week in Your City",
