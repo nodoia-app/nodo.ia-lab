@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "que-esta-buscando-la-gente-en-tu-ciudad-esta-semana",
+      "categoryId": "economy",
+      "title": "Qué está buscando la gente en tu ciudad esta semana",
+      "summary": "Esta semana analizamos las búsquedas reales hechas por personas en tu ciudad dentro de Nodo.",
+      "author": null,
+      "publishedAt": "2026-02-24T19:45:15.936Z",
+      "readTimeMinutes": 1,
+      "content": "Esta semana analizamos las búsquedas reales hechas por personas en tu ciudad dentro de Nodo. Los datos muestran con claridad hacia dónde se está moviendo la demanda local y qué oportunidades están apareciendo para los comercios.\n\nEn los últimos 7 días, las categorías con mayor crecimiento de interés fueron **Vehicles** y **Electronics**. Esto indica un aumento de intención de compra en productos de alto valor, especialmente en transporte familiar y dispositivos personales.\n\nEntre las búsquedas que más se repitieron destacan términos como **\"suv familiar 7 pasajeros\"** y **\"bebida refrescante\"**, lo que sugiere una combinación interesante entre consumo inmediato y decisiones de compra relevantes.\n\nAccede al análisis completo por ciudad, categoría y tendencia en **Nodo Insights Pro**.",
+      "imgsource": "https://bucket-stagginh.up.railway.app/nodo-labs/que-esta-buscando-la-gente-en-tu-ciudad-esta-semana.webp",
+      "source": "Nodo AI, Inc",
+      "sourceUrl": "http://localhost:3001/analytics"
+    },
+    {
       "id": "espana-invirtio-un-217-mas-en-republica-dominicana-en-5-anos-con-el-foco-en-ener",
       "categoryId": "economy",
       "title": "España invirtió un 217% más en República Dominicana en 5 años con el foco en energía y conectividad",
