@@ -1,17 +1,56 @@
 {
   "articles": [
     {
-      "id": "lo-que-la-gente-esta-buscando-en-tu-ciudad-esta-semana-2",
-      "categoryId": "economy",
-      "title": "Lo que la gente esta buscando en tu ciudad esta semana",
-      "summary": "Esta semana analizamos busquedas reales hechas por personas en tu ciudad dentro de Nodo.",
-      "author": null,
-      "publishedAt": "2026-02-24T11:07:14.593Z",
+      "id": "propone-una-auditoria-tecnica-internacional-a-sistema-electrico",
+      "categoryId": "energy",
+      "title": "Propone una auditoría técnica internacional a sistema eléctrico",
+      "summary": "Se sugiere la contratación de una auditoría técnica internacional para evaluar el sistema eléctrico dominicano tras un apagón general. La propuesta incluye la participación de organismos multilaterales.",
+      "author": "Nodo AI, Inc.",
+      "publishedAt": "2026-02-24T07:00:58.000Z",
       "readTimeMinutes": 1,
-      "content": "Esta semana analizamos busquedas reales hechas por personas en tu ciudad dentro de Nodo. Los datos muestran hacia donde se mueve la demanda local y que oportunidades estan apareciendo para los comercios.\n\nEn los ultimos 7 dias, las categorias con mayor crecimiento fueron **Vehicles** y **Electronics**. Esto sugiere una intencion activa en categorias de mayor valor y decisiones de compra mas comparadas.\n\nEntre las consultas mas repetidas estuvieron **\"suv familiar 7 pasajeros\"** y **\"bebida refrescante\"**, una combinacion que refleja consumo inmediato y compras de mayor consideracion.\n\nAccede al analisis completo por ciudad, categoria y tendencia en **Nodo Insights Pro**.",
-      "imgsource": "https://bucket-stagginh.up.railway.app/nodo-labs/lo-que-la-gente-esta-buscando-en-tu-ciudad-esta-semana-2.webp",
-      "source": "Nodo AI, Inc",
-      "sourceUrl": "http://localhost:3001/analytics"
+      "content": "Un ingeniero industrial ha propuesto la necesidad de una auditoría técnica internacional independiente para determinar la situación del sistema eléctrico en la República Dominicana. Esta sugerencia surge tras un apagón que afectó al país, y se plantea que la auditoría sea acompañada por organismos multilaterales como el PNUD, BID y el Banco Mundial.\n\nLa propuesta incluye la evaluación del estado de la red de transmisión y distribución, así como un análisis de las reservas estratégicas y la capacidad de respaldo. Se busca garantizar la transparencia y la estabilidad económica del país, enfatizando que la modernización energética es crucial para el desarrollo sostenible.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/propone-una-auditoria-tecnica-internacional-a-sistema-electrico.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/propone-una-auditoria-tecnica-internacional-sistema-electrico"
+    },
+    {
+      "id": "sistema-financiero-dominicano-crece-con-equilibrio-en-medio-de-la-turbulencia-gl",
+      "categoryId": "economy",
+      "title": "Sistema financiero dominicano crece con equilibrio en medio de la turbulencia global, según el BCRD",
+      "summary": "El sistema financiero dominicano ha mostrado un crecimiento estable a pesar de la incertidumbre global. Los activos totales de las entidades de intermediación financiera crecieron 7.9% a diciembre de 2025.",
+      "author": "Nodo AI, Inc.",
+      "publishedAt": "2026-02-23T20:56:04.000Z",
+      "readTimeMinutes": 1,
+      "content": "El sistema financiero de la República Dominicana ha mantenido un crecimiento equilibrado y estable, influenciado por políticas monetarias y financieras del Banco Central. A diciembre de 2025, los activos totales de las entidades de intermediación financiera alcanzaron un crecimiento del 7.9%, representando el 52.2% del PIB.\n\nLas captaciones del público también mostraron un aumento, alcanzando el 40.1% del PIB con un crecimiento interanual del 10.6%. Además, el patrimonio neto de las entidades creció en un 11.5%, y los indicadores de rentabilidad se mantuvieron por encima de los mínimos regulatorios.\n\nEl Banco Central ha implementado medidas para gestionar el riesgo cambiario y crediticio, estableciendo límites para la concesión de créditos en moneda extranjera. También se autorizó la implementación de una nueva metodología contable para reflejar el valor económico de las inversiones en tiempo real, lo que fortalecerá la gestión de riesgos en el sistema financiero.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/sistema-financiero-dominicano-crece-con-equilibrio-en-medio-de-la-turbulencia-gl.webp",
+      "source": "El Dinero",
+      "sourceUrl": "https://eldinero.com.do/355114/sistema-financiero-dominicano-crece-con-equilibrio-en-medio-de-la-turbulencia-global-segun-el-bcrd"
+    },
+    {
+      "id": "se-acaba-la-espera-abinader-finalmente-inaugura-la-linea-2c-del-metro-en-los-alc",
+      "categoryId": "urban",
+      "title": "Se acaba la espera; Abinader finalmente inaugura la Línea 2C del Metro en Los Alcarrizos",
+      "summary": "El presidente Luis Abinader inaugurará la Línea 2C del Metro de Santo Domingo, una obra esperada por los residentes de Los Alcarrizos. La línea comenzará a operar el 25 de febrero y ofrecerá transporte gratuito hasta Semana Santa.",
+      "author": "Nodo AI, Inc.",
+      "publishedAt": "2026-02-24T09:50:55.000Z",
+      "readTimeMinutes": 1,
+      "content": "La Línea 2C del Metro de Santo Domingo será inaugurada por el presidente Luis Abinader. Esta nueva línea, que conecta el kilómetro 9 de la autopista Duarte con la entrada de Los Alcarrizos, tiene una longitud de 7.3 kilómetros y cuenta con cinco estaciones y un túnel.\n\nA partir del 25 de febrero, los usuarios podrán utilizar esta línea de manera gratuita hasta la Semana Santa. Se espera que beneficie a más de un millón de personas de Santo Domingo Oeste, mejorando la rapidez y seguridad en el transporte hacia el Distrito Nacional y otros puntos de la capital.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/se-acaba-la-espera-abinader-finalmente-inaugura-la-linea-2c-del-metro-en-los-alc.webp",
+      "source": "N Digital",
+      "sourceUrl": "https://n.com.do/2026/02/24/se-acaba-la-espera-abinader-finalmente-inaugura-la-linea-2c-del-metro-en-los-alcarrizos"
+    },
+    {
+      "id": "servicio-electrico-de-rd-ha-sido-recuperado-en-un-100-por-ciento",
+      "categoryId": "energy",
+      "title": "Servicio eléctrico de RD ha sido recuperado en un 100 por ciento",
+      "summary": "El Sistema Eléctrico Nacional Interconectado (SENI) fue restablecido completamente tras una incidencia. Las autoridades iniciarán una investigación técnica para determinar las causas del evento.",
+      "author": "Nodo AI, Inc.",
+      "publishedAt": "2026-02-24T09:00:12.000Z",
+      "readTimeMinutes": 1,
+      "content": "Las autoridades del sector eléctrico informaron que el Sistema Eléctrico Nacional Interconectado (SENI) quedó restablecido en un 100 % a las 11:53 de la noche del lunes. El ministro de Energía y Minas, Joel Santos, indicó que se activarán procedimientos de investigación técnica para determinar las causas del evento inicial.\n\nEl proceso de recuperación se realizó bajo estrictos criterios técnicos, garantizando la estabilidad del sistema. Santos se mantuvo en el Centro de Control, coordinando acciones con líderes del sector eléctrico para supervisar cada maniobra operativa y proteger la integridad de las instalaciones del sistema.\n\nEl objetivo fue recuperar el servicio de manera segura y responsable, y Santos reafirmó el compromiso de las autoridades con la confiabilidad del sistema eléctrico nacional.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/servicio-electrico-de-rd-ha-sido-recuperado-en-un-100-por-ciento.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/servicio-electrico-de-rd-ha-sidorecuperado-en-un-30-por-ciento"
     },
     {
       "id": "senales-de-demanda-local-lo-que-la-gente-esta-buscando",
