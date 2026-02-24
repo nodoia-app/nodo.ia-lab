@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "lo-que-la-gente-esta-buscando-en-tu-ciudad-esta-semana-2",
+      "categoryId": "economy",
+      "title": "Lo que la gente esta buscando en tu ciudad esta semana",
+      "summary": "Esta semana analizamos busquedas reales hechas por personas en tu ciudad dentro de Nodo.",
+      "author": null,
+      "publishedAt": "2026-02-24T11:07:14.593Z",
+      "readTimeMinutes": 1,
+      "content": "Esta semana analizamos busquedas reales hechas por personas en tu ciudad dentro de Nodo. Los datos muestran hacia donde se mueve la demanda local y que oportunidades estan apareciendo para los comercios.\n\nEn los ultimos 7 dias, las categorias con mayor crecimiento fueron **Vehicles** y **Electronics**. Esto sugiere una intencion activa en categorias de mayor valor y decisiones de compra mas comparadas.\n\nEntre las consultas mas repetidas estuvieron **\"suv familiar 7 pasajeros\"** y **\"bebida refrescante\"**, una combinacion que refleja consumo inmediato y compras de mayor consideracion.\n\nAccede al analisis completo por ciudad, categoria y tendencia en **Nodo Insights Pro**.",
+      "imgsource": "https://bucket-stagginh.up.railway.app/nodo-labs/lo-que-la-gente-esta-buscando-en-tu-ciudad-esta-semana-2.webp",
+      "source": "Nodo AI, Inc",
+      "sourceUrl": "http://localhost:3001/analytics"
+    },
+    {
       "id": "senales-de-demanda-local-lo-que-la-gente-esta-buscando",
       "categoryId": "economy",
       "title": "Senales de demanda local: lo que la gente esta buscando",
