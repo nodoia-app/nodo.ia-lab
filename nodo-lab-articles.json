@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "tarifa-del-metro-de-santo-domingo-costaria-rd4188-con-ajuste-por-inflacion",
+      "categoryId": "urban",
+      "title": "Tarifa del Metro de Santo Domingo costaría RD$41.88 con ajuste por inflación",
+      "summary": "La tarifa del Metro de Santo Domingo se mantiene en RD$20, a pesar de que, ajustada por inflación, debería costar RD$41.88. La extensión de la Línea 2C agrega 7.3 kilómetros al sistema.",
+      "author": null,
+      "publishedAt": "2026-02-26T05:05:01.000Z",
+      "readTimeMinutes": 1,
+      "content": "La tarifa del Metro de Santo Domingo, que se inauguró en 2009 a RD$20, no ha cambiado en casi dos décadas, a pesar de la inflación acumulada que, de haberse aplicado, llevaría el costo a RD$41.88. La reciente extensión de la Línea 2C, inaugurada el 24 de febrero de 2026, añade 7.3 kilómetros al sistema de transporte, pero la tarifa se mantiene igual.\n\nDesde su apertura, el sistema ha movilizado más de mil millones de pasajeros. Aunque la tarifa nominal no ha variado, el costo en dólares ha disminuido, pasando de aproximadamente US$0.56 en 2009 a US$0.32 en 2025. Esto refleja una reducción del 43% en términos internacionales.\n\nEl sistema también ofrece una tarifa integrada de RD$35 para quienes necesiten realizar transbordos entre diferentes modalidades de transporte. A pesar del crecimiento del sistema y el aumento en el volumen de pasajeros, el Gobierno ha mantenido un subsidio significativo para evitar ajustes en el precio del pasaje.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/tarifa-del-metro-de-santo-domingo-costaria-rd4188-con-ajuste-por-inflacion.webp",
+      "source": "El Dinero",
+      "sourceUrl": "https://eldinero.com.do/355527/tarifa-del-metro-de-santo-domingo-costaria-rd41-88-con-ajuste-por-inflacion"
+    },
+    {
+      "id": "en-2025-se-crearon-117948-empleos-segun-datos-del-banco-central",
+      "categoryId": "economy",
+      "title": "En 2025 se crearon 117,948 empleos, según datos del Banco Central",
+      "summary": "El mercado laboral en República Dominicana mostró un crecimiento en 2025 con la creación de 117,948 nuevos empleos. La mayoría de estos empleos fueron formales, contribuyendo a una reducción de la informalidad laboral.",
+      "author": null,
+      "publishedAt": "2026-02-26T05:04:42.000Z",
+      "readTimeMinutes": 1,
+      "content": "En el cuarto trimestre de 2025, la cantidad total de ocupados en República Dominicana alcanzó 5,168,878, lo que representa un incremento de 117,948 trabajadores en comparación con el mismo período de 2024. De este total, el 98.5% de los nuevos empleos fueron en el sector formal, con un aumento de 85,764 ocupados formales y 32,184 informales.\n\nLa tasa de informalidad laboral disminuyó de 55% a 54.1% entre 2024 y 2025. En el cuarto trimestre de 2024 había 2,247,664 trabajadores formales, cifra que aumentó a 2,372,525 en 2025. Además, la tasa de desocupación abierta se situó en 5% durante el mismo período, con una tasa de subutilización de la fuerza de trabajo de 9.2%.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/en-2025-se-crearon-117948-empleos-segun-datos-del-banco-central.webp",
+      "source": "El Dinero",
+      "sourceUrl": "https://eldinero.com.do/355515/en-2025-se-crearon-117948-empleos-segun-datos-del-banco-central"
+    },
+    {
+      "id": "la-economia-plateada-un-activo-invisible",
+      "categoryId": "economy",
+      "title": "La economía plateada: un activo invisible",
+      "summary": "La economía plateada se refiere a la parte de la economía global relacionada con el envejecimiento de la población y las necesidades de los adultos mayores. Este fenómeno presenta oportunidades laborales y de emprendimiento en diversas regiones, incluida América Latina y el Caribe.",
+      "author": null,
+      "publishedAt": "2026-02-26T04:10:17.000Z",
+      "readTimeMinutes": 1,
+      "content": "La economía plateada, definida por un estudio del Grupo del Banco Interamericano de Desarrollo, se centra en las necesidades de las personas mayores de 60 años. Aunque el envejecimiento se ha visto como una carga, también se han identificado oportunidades para crear nuevos emprendimientos y generar empleo.\n\nEn América Latina y el Caribe, se estima que para 2050, más de una de cada cuatro personas será mayor de 60 años. Esto plantea desafíos para los países, que deben adaptar sus economías y sistemas de protección social. En República Dominicana, se considera esencial implementar una estrategia nacional de economía plateada para mejorar la competitividad y sostenibilidad fiscal hacia 2030.\n\nPara que esta economía tenga éxito en el país, es crucial que el Estado y el sector privado enfrenten el “edadismo”, ya que la exclusión de los adultos mayores del mercado laboral limita su potencial como consumidores y emprendedores.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/la-economia-plateada-un-activo-invisible.webp",
+      "source": "El Dinero",
+      "sourceUrl": "https://eldinero.com.do/355493/la-economia-plateada-un-activo-invisible"
+    },
+    {
+      "id": "energia-de-contrato-en-la-actual-gestion-es-la-de-mayor-costo",
+      "categoryId": "energy",
+      "title": "Energía de contrato en la actual gestión es la de mayor costo",
+      "summary": "Los contratos de generación de energía en la actual gestión son significativamente más costosos. SIBA Energy y KarPowerShip tienen precios que superan hasta diez veces el promedio de otras generadoras.",
+      "author": null,
+      "publishedAt": "2026-02-26T04:58:08.000Z",
+      "readTimeMinutes": 1,
+      "content": "El costo de generación de energía ha aumentado debido a la contratación de SIBA Energy y KarPowerShip, cuyas tarifas son considerablemente más altas que las de otras generadoras. En 2025, SIBA Energy vendió energía a 67.66 cUS$/Kwh, mientras que KarPowerShip lo hizo a 168.06 cUS$/Kwh.\n\nEste incremento en los costos se refleja en las pérdidas acumuladas de las empresas distribuidoras de electricidad, que alcanzaron un 37.2% en 2025. Las EDE solo facturan alrededor de dos tercios de la energía que suministran y cobran un 94% de lo facturado, lo que contribuye a sus pérdidas.\n\nA pesar de que la matriz energética ha cambiado hacia fuentes menos costosas, la actual gestión ha revertido esta tendencia al basar nuevos contratos en precios elevados. Esto ha llevado a un aumento en el costo promedio de generación, que asciende a 27.50 cUS$/Kwh al incluir a SIBA Energy y KarPowerShip.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/energia-de-contrato-en-la-actual-gestion-es-la-de-mayor-costo.webp",
+      "source": "El Dinero",
+      "sourceUrl": "https://eldinero.com.do/355521/energia-de-contrato-en-la-actual-gestion-es-la-de-mayor-costo"
+    },
+    {
       "id": "crespo-en-tema-de-electricidad-el-gobierno-se-ha-electrocutado",
       "categoryId": "energy",
       "title": "Crespo: En tema de electricidad el Gobierno se ha electrocutado",
