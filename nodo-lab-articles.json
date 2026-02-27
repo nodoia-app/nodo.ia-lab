@@ -1,6 +1,71 @@
 {
   "articles": [
     {
+      "id": "detectan-anomalias-graves-en-alcaldias-de-sde-y-jarabacoa",
+      "categoryId": "urban",
+      "title": "Detectan anomalías «graves» en alcaldías de SDE y Jarabacoa",
+      "summary": "La Dirección General de Contrataciones Públicas informó sobre irregularidades en los procedimientos de compras de los ayuntamientos de Santo Domingo Este y Jarabacoa. Se remitió la documentación a la Procuraduría Especializada de Prevención de la Corrupción.",
+      "author": null,
+      "publishedAt": "2026-02-27T09:00:09.000Z",
+      "readTimeMinutes": 1,
+      "content": "La Dirección General de Contrataciones Públicas (DGCP) ha identificado irregularidades graves en los procedimientos de compras de los ayuntamientos de Santo Domingo Este y Jarabacoa. Se ha declarado la nulidad de un procedimiento de compra de lámparas led en Santo Domingo Este debido a que la empresa adjudicada no cumplió con los requisitos establecidos.\n\nAdemás, en el Ayuntamiento de Jarabacoa, se anuló un procedimiento de remodelación del centro comunal por violaciones a los principios de transparencia y publicidad. La DGCP constató que no se utilizaron los canales adecuados para la publicación de documentos y que se vulneraron los plazos legales para la recepción de ofertas.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/detectan-anomalias-graves-en-alcaldias-de-sde-y-jarabacoa.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/detectan-anomalias-graves-en-alcaldias-de-sde-y-jarabacoa"
+    },
+    {
+      "id": "corte-ratifica-accion-penal-por-corrupcion-contra-adan-caceres",
+      "categoryId": "society",
+      "title": "Corte ratifica acción penal por corrupción contra Adán Cáceres",
+      "summary": "La Corte de Apelación del Distrito Nacional confirmó la acción penal contra Adán Cáceres por corrupción administrativa. Se rechazó su solicitud de extinción del juicio por vencimiento de plazo.",
+      "author": null,
+      "publishedAt": "2026-02-27T08:00:26.000Z",
+      "readTimeMinutes": 1,
+      "content": "La Segunda Sala de la Cámara Penal de la Corte de Apelación del Distrito Nacional ratificó la sentencia que rechaza la pretensión de Adán Cáceres de evadir el juicio penal por presunta corrupción. El tribunal confirmó la Resolución Penal dictada el 5 de agosto del año anterior, argumentando que no se verificaron los vicios alegados por el procesado.\n\nEl Ministerio Público, representado por el procurador general y un fiscal, indicó que el tribunal rechazó el pedimento de extinción de la acción penal. La decisión se fundamentó en precedentes del Tribunal Constitucional y en la extensión de plazos para proteger el derecho de defensa en un proceso de gran magnitud.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/corte-ratifica-accion-penal-por-corrupcion-contra-adan-caceres.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/ratifican-accion-penal-por-corrupcion-contra-adan-caceres"
+    },
+    {
+      "id": "pld-pide-revision-de-modelo-de-desarrollo-de-dominicana",
+      "categoryId": "economy",
+      "title": "PLD pide revisión de modelo de desarrollo de Dominicana",
+      "summary": "El PLD solicita una revisión del modelo de desarrollo del país debido a las limitaciones en la inversión pública. Luis Reyes destaca que la política fiscal actual no favorece el crecimiento económico.",
+      "author": null,
+      "publishedAt": "2026-02-27T10:00:18.000Z",
+      "readTimeMinutes": 1,
+      "content": "El Partido de la Liberación Dominicana (PLD) ha solicitado una revisión del modelo de desarrollo de la República Dominicana. Luis Reyes, de la Secretaría de Asuntos Económicos del PLD, indicó que las recaudaciones del Presupuesto Nacional alcanzaron 202 mil millones de pesos, de los cuales 65 mil millones se destinan al pago de intereses de la deuda.\n\nReyes enfatizó que, con solo 13 mil millones de pesos disponibles para inversión, es difícil estimular la economía. Además, mencionó que la política fiscal actual no ayuda a cumplir con el plan de inversión debido a los vencimientos de la deuda. Propuso reorientar los incentivos gubernamentales, especialmente en los sectores productivos, alineándolos con los objetivos de desarrollo del país.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/pld-pide-revision-de-modelo-de-desarrollo-de-dominicana.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/pld-pide-revision-de-modelo-de-desarrollo-de-dominicana"
+    },
+    {
+      "id": "eu-autoriza-oficialmente-cable-electrico-entre-r-dom-y-p-rico",
+      "categoryId": "energy",
+      "title": "EU autoriza oficialmente cable eléctrico entre R. Dom. y P. Rico",
+      "summary": "El Departamento de Energía de Estados Unidos ha otorgado el permiso para el desarrollo de un cable eléctrico submarino entre Puerto Rico y la República Dominicana. Este proyecto busca interconectar los sistemas eléctricos de ambas islas.",
+      "author": null,
+      "publishedAt": "2026-02-27T05:00:59.000Z",
+      "readTimeMinutes": 1,
+      "content": "El Departamento de Energía de Estados Unidos ha emitido el permiso presidencial que autoriza la construcción de un cable eléctrico submarino entre Puerto Rico y la República Dominicana. Este enlace energético se extenderá aproximadamente 91 millas bajo el mar.\n\nLa evaluación federal concluyó que no hay objeciones relacionadas con la seguridad nacional ni impactos negativos sobre el sistema eléctrico de Puerto Rico. El permiso es un paso clave para el proyecto, que busca facilitar el intercambio energético entre ambas islas.\n\nEl cable permitirá la transmisión de energía de alta capacidad, lo que posibilitará la exportación o importación de energía según las necesidades. La finalización del proyecto está prevista para 2031 y ha generado debate en Puerto Rico sobre su viabilidad económica y su impacto en el sistema eléctrico local.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/eu-autoriza-oficialmente-cable-electrico-entre-r-dom-y-p-rico.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/eu-autoriza-oficialmente-cable-electrico-entre-r-dom-y-p-rico"
+    },
+    {
+      "id": "que-esta-buscando-la-gente-en-tu-ciudad-esta-semana",
+      "categoryId": "economy",
+      "title": "Qué está buscando la gente en tu ciudad esta semana",
+      "summary": "Esta semana analizamos las búsquedas reales hechas por personas en tu ciudad dentro de Nodo.",
+      "author": null,
+      "publishedAt": "2026-02-27T10:19:19.720Z",
+      "readTimeMinutes": 1,
+      "content": "Esta semana analizamos las búsquedas reales hechas por personas en tu ciudad dentro de Nodo. Los datos muestran con claridad hacia dónde se está moviendo la demanda local y qué oportunidades están apareciendo para los comercios.\n\nEn los últimos 7 días, las categorías con mayor crecimiento de interés fueron **Vehicles** y **Electronics**. Esto indica un aumento de intención de compra en productos de alto valor, especialmente en transporte familiar y dispositivos personales.\n\nEntre las búsquedas que más se repitieron destacan términos como **\"honda\"** y **\"mercedes\"**, lo que sugiere una combinación interesante entre consumo inmediato y decisiones de compra relevantes.\n\nAccede al análisis completo por ciudad, categoría y tendencia en **Nodo Insights Pro**.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/que-esta-buscando-la-gente-en-tu-ciudad-esta-semana.webp",
+      "source": "Nodo AI, Inc",
+      "sourceUrl": "http://localhost:3001/analytics"
+    },
+    {
       "id": "tarifa-del-metro-de-santo-domingo-costaria-rd4188-con-ajuste-por-inflacion",
       "categoryId": "urban",
       "title": "Tarifa del Metro de Santo Domingo costaría RD$41.88 con ajuste por inflación",
