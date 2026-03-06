@@ -60,7 +60,7 @@
       "author": null,
       "publishedAt": "2026-03-06T10:19:48.986Z",
       "readTimeMinutes": 1,
-      "content": "Esta semana analizamos las búsquedas reales hechas por personas en tu ciudad dentro de Nodo. Los datos muestran con claridad hacia dónde se está moviendo la demanda local y qué oportunidades están apareciendo para los comercios.\n\nEn los últimos 7 días, las categorías con mayor crecimiento de interés fueron **Vehicles** y **Real Estate**. Esto indica un aumento de intención de compra en productos de alto valor, especialmente en transporte familiar y dispositivos personales.\n\nEntre las búsquedas que más se repitieron destacan términos como **\"honda accord automatico buen\"** y **\"toyota corolla usado 2020\"**, lo que sugiere una combinación interesante entre consumo inmediato y decisiones de compra relevantes.\n\nAccede al análisis completo por ciudad, categoría y tendencia en **Nodo Insights Pro**.",
+      "content": "Esta semana analizamos las búsquedas reales hechas por personas en tu ciudad dentro de Nodo. Los datos muestran con claridad hacia dónde se está moviendo la demanda local y qué oportunidades están apareciendo para los comercios.\n\nEn los últimos 7 días, las categorías con mayor crecimiento de interés fueron **Vehicles** y **Real Estate**. \n\nEntre las búsquedas que más se repitieron destacan términos como **\"honda accord automatico buen\"** y **\"toyota corolla usado 2020\"**.\n\nAccede al análisis completo por ciudad, categoría y tendencia en **Nodo Insights Pro**.",
       "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/senales-de-demanda-local-lo-que-la-gente-esta-buscando.webp",
       "source": "Nodo AI, Inc",
       "sourceUrl": "http://localhost:3001/analytics"
