@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "el-popular-impulsa-educacion-financiera-en-ninos-y-jovenes",
+      "categoryId": "society",
+      "title": "El Popular impulsa educación financiera en niños y jóvenes",
+      "summary": "El Banco Popular Dominicano participará en la Semana Económica y Financiera 2026 con actividades educativas para niños y jóvenes. Se ofrecerán charlas y talleres sobre ahorro y finanzas responsables.",
+      "author": null,
+      "publishedAt": "2026-03-15T05:00:52.000Z",
+      "readTimeMinutes": 1,
+      "content": "El Banco Popular Dominicano (BPD) participará en la Semana Económica y Financiera 2026, que se llevará a cabo del 16 al 20 de marzo. Esta iniciativa busca fomentar una cultura de ahorro y decisiones financieras responsables entre niños y jóvenes.\n\nLa agenda incluye la charla \"Finanzas con propósito\" para jóvenes de 15 a 18 años y el taller \"Ahorrar nos hace bien\" para niños de 9 a 11 años. Las actividades se realizarán en Santo Domingo, Santiago y Baní, en colaboración con el Banco Central de la República Dominicana y Ciencia Divertida.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/el-popular-impulsa-educacion-financiera-en-ninos-y-jovenes.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/el-popular-impulsa-educacion-financiera-en-ninos-y-jovenes"
+    },
+    {
+      "id": "bhd-realiza-taller-de-finanzas-digitales-para-adultos-mayores",
+      "categoryId": "economy",
+      "title": "BHD realiza taller de finanzas digitales para adultos mayores",
+      "summary": "El Banco BHD llevó a cabo un taller sobre el uso seguro de canales digitales bancarios dirigido a adultos mayores. Esta actividad forma parte de la iniciativa Finanzas Plateadas del banco.",
+      "author": null,
+      "publishedAt": "2026-03-15T05:00:01.000Z",
+      "readTimeMinutes": 1,
+      "content": "El Banco BHD realizó un taller enfocado en la educación financiera para clientes mayores de 65 años, en el marco de su programa Finanzas Plateadas. El taller abordó el uso seguro de canales digitales y recomendaciones de ciberseguridad.\n\nLa iniciativa busca facilitar el acceso a herramientas financieras simples y accesibles para el bienestar económico de los adultos mayores. Josefina Navarro, del banco, destacó la importancia de esta estrategia para cerrar brechas en el acceso a la banca formal.\n\nEl taller incluyó la participación de Alberto Mencía, quien reafirmó el compromiso del banco con la educación financiera. La capacitación fue impartida por Daiby Polanco, como parte del Voluntariado BHD.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/bhd-realiza-taller-de-finanzas-digitales-para-adultos-mayores.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/bhd-realiza-taller-de-finanzas-digitales-para-adultos-mayores"
+    },
+    {
+      "id": "anecdotas-de-gobernantes",
+      "categoryId": "society",
+      "title": "Anécdotas de gobernantes",
+      "summary": "Las anécdotas sobre gobernantes son comunes y bien recibidas, especialmente si provienen de testigos directos. Se mencionan relatos sobre Rafael L. Trujillo y Joaquín Balaguer.",
+      "author": null,
+      "publishedAt": "2026-03-15T09:00:46.000Z",
+      "readTimeMinutes": 1,
+      "content": "Las anécdotas de los gobernantes son abundantes y generan interés. Un relato destaca cómo Rafael L. Trujillo recetaba medicamentos a los trabajadores de su hacienda, lo que llevó a que algunos pidieran aprobación a un médico sobre las pastillas recomendadas por él. Este médico, Héctor Mateo, confirmaba las recetas por razones de seguridad personal.\n\nAdemás, se menciona un libro inédito sobre Joaquín Balaguer que contiene historias sobre su vida y su relación con el periodismo. En una anécdota, Balaguer se dirige a un conocido pidiendo trabajo, recordando un episodio relacionado con su pasado y su implicación en un caso judicial. Estas historias reflejan la complejidad de la política dominicana y sus personajes.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/anecdotas-de-gobernantes.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/anecdotas-de-gobernantes"
+    },
+    {
+      "id": "odalis-castillo-directora-de-la-escuela-comunicacion-de-ucsd",
+      "categoryId": "society",
+      "title": "Odalis Castillo directora de la Escuela Comunicación de UCSD",
+      "summary": "Odalis Castillo ha sido designada como directora de la Escuela de Comunicación Social de la Universidad Católica Santo Domingo. Con 25 años de experiencia en periodismo, se enfocará en la conducción académica y el acompañamiento de los estudiantes.",
+      "author": null,
+      "publishedAt": "2026-03-15T05:00:28.000Z",
+      "readTimeMinutes": 1,
+      "content": "Odalis Castillo ha sido nombrada directora de la Escuela de Comunicación Social de la Universidad Católica Santo Domingo, donde asumirá la conducción académica y estratégica de la carrera. Su trayectoria de 25 años en el periodismo, especialmente en investigación, la ha llevado a desarrollar un compromiso con el servicio público y la producción de contenidos de interés social.\n\nCastillo inició su carrera en el periódico Hoy y trabajó en el programa Nuria, donde participó en investigaciones periodísticas. Actualmente, es productora y conductora de programas de investigación en televisión y radio, y fundadora del portal Caso a Caso, dedicado al periodismo de investigación. También es autora de libros que promueven la conciencia ambiental.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/odalis-castillo-directora-de-la-escuela-comunicacion-de-ucsd.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/odalis-castillo-directora-de-la-escuela-comunicacion-de-ucsd"
+    },
+    {
       "id": "resaltabajo-crecimiento-de-la-economia-de-rep-dominicana",
       "categoryId": "economy",
       "title": "Resalta”bajo crecimiento” de la economía de Rep. Dominicana",
