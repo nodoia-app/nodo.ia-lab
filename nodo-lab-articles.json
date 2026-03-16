@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "santiago-de-los-caballeros-tienda-y-almacen",
+      "categoryId": "urban",
+      "title": "Santiago de los Caballeros: tienda y almacén",
+      "summary": "Santiago de los Caballeros se presenta como un centro comercial y de almacenamiento en la región norte de la República Dominicana. La vida nocturna ha disminuido, y muchas casas están abandonadas.",
+      "author": null,
+      "publishedAt": "2026-03-16T08:00:04.000Z",
+      "readTimeMinutes": 1,
+      "content": "Santiago de los Caballeros, en el centro histórico, alberga cientos de negocios formales y micro negocios. Desde temprano, el comercio de vegetales inicia el día, y la ciudad se convierte en un punto de encuentro para realizar compras y diligencias.\n\nEl centro histórico se caracteriza por la presencia de grandes almacenes y centros de distribución. Sin embargo, la vida nocturna ha decaído, y muchas casas de familia están desocupadas, lo que afecta la socialización en la comunidad.\n\nLa falta de mantenimiento en las casas y el abandono de muchas de ellas se deben a diversas razones, incluyendo la cultura de las familias que fundaron la ciudad. Se sugiere que las instituciones locales trabajen en la recuperación de estos espacios culturales y en la vigilancia de las edificaciones deterioradas.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/santiago-de-los-caballeros-tienda-y-almacen.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/santiago-de-los-caballeros-tienda-y-almacen"
+    },
+    {
+      "id": "unicaribe-otorga-doctor-honoris-causa-a-garcia-fermin",
+      "categoryId": "society",
+      "title": "UNICARIBE otorga Doctor Honoris Causa a García Fermín",
+      "summary": "La Universidad del Caribe otorgó el título de Doctor Honoris Causa a Franklin García Fermín durante su graduación. Este reconocimiento destaca su trayectoria en la educación universitaria dominicana.",
+      "author": null,
+      "publishedAt": "2026-03-16T06:00:07.000Z",
+      "readTimeMinutes": 1,
+      "content": "La Universidad del Caribe (UNICARIBE) entregó el título de Doctor Honoris Causa a Franklin García Fermín en la Quincuagésima Novena Graduación Ordinaria (LIX), donde 281 nuevos profesionales finalizaron su formación. Este reconocimiento se da en virtud de su trayectoria intelectual y sus aportes al sistema educativo dominicano, especialmente durante su gestión como ministro de Educación Superior, Ciencia y Tecnología.\n\nDurante el acto, el canciller de UNICARIBE y el actual ministro de Educación Superior resaltaron el compromiso de García Fermín con la formación académica en el país. Al recibir el reconocimiento, García Fermín expresó que este título implica una responsabilidad hacia el futuro de la educación superior y reflexionó sobre el papel crítico de las universidades en la sociedad actual, enfatizando su rol como centros de conocimiento y guía ética.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/unicaribe-otorga-doctor-honoris-causa-a-garcia-fermin.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/unicaribe-otorga-doctor-honoris-causa-a-garcia-fermin"
+    },
+    {
+      "id": "cuantas-variables-coincidieron-para-que-ocurriera-el-blackout-de-febrero-23",
+      "categoryId": "economy",
+      "title": "¿Cuántas variables coincidieron para que ocurriera el blackout de febrero 23?",
+      "summary": "Un informe del OC-SENI detalla las vulnerabilidades del sistema eléctrico dominicano tras el apagón del 23 de febrero. Se identifican múltiples factores que contribuyeron al evento.",
+      "author": null,
+      "publishedAt": "2026-03-16T10:01:31.000Z",
+      "readTimeMinutes": 1,
+      "content": "El informe del OC-SENI sobre el apagón del 23 de febrero destaca que el sistema eléctrico dominicano presenta debilidades estructurales que comprometen su estabilidad. Aunque se reconocen avances en la diversificación de la matriz energética, se señala la falta de inversión y supervisión en áreas críticas.\n\nEl apagón fue causado por una combinación de variables, incluyendo una falla monofásica en la línea a 138 kilovoltios Hainamosa - Villa Duarte. Esta falla provocó daños en un interruptor y resultó en múltiples disparos de interruptores en las líneas de transmisión. A pesar de que el sistema operaba normalmente antes del evento, la falta de coordinación en los sistemas de protección contribuyó a la magnitud del apagón.\n\nEl informe también sugiere ajustes en los sistemas de control y operación de las plantas para prevenir futuros eventos similares. Se recomienda mantener el monitoreo de las protecciones de las subestaciones y aprovechar la nueva tecnología en generación para mejorar la respuesta del sistema.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/cuantas-variables-coincidieron-para-que-ocurriera-el-blackout-de-febrero-23.webp",
+      "source": "El Dinero",
+      "sourceUrl": "https://eldinero.com.do/358009/cuantas-variables-coincidieron-para-que-ocurriera-el-blackout-de-febrero-23"
+    },
+    {
+      "id": "cesar-iglesias-vs-bono-soberano-que-dicen-los-datos-hoy-y-que-debe-hacer-la-empr",
+      "categoryId": "economy",
+      "title": "César Iglesias vs. bono soberano: qué dicen los datos hoy y qué debe hacer la empresa",
+      "summary": "Los resultados financieros de César Iglesias muestran un crecimiento en ventas, pero una caída en el Ebitda en el primer trimestre de 2025. Se discuten decisiones estratégicas para mejorar la rentabilidad de la empresa.",
+      "author": null,
+      "publishedAt": "2026-03-16T10:00:18.000Z",
+      "readTimeMinutes": 1,
+      "content": "Los resultados auditados de 2024 indican que César Iglesias tiene una operación sólida, con ventas de RD$22,489 millones y un Ebitda de RD$2,268 millones. Sin embargo, los datos preliminares de 2025 muestran una caída del Ebitda del 17% interanual y una contracción en el margen.\n\nEl bono soberano dominicano ha demostrado ser una referencia de riesgo, con una alta demanda en su emisión de febrero de 2026. La política monetaria ha tenido un impacto positivo en los rendimientos de los bonos.\n\nCésar Iglesias debe enfocarse en tres decisiones clave: realizar inversiones selectivas en marca y diferenciación de producto, continuar el desapalancamiento hasta una razón deuda/Ebitda menor a 2 veces, y aumentar su política de dividendos para ser más competitiva frente al bono soberano.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/cesar-iglesias-vs-bono-soberano-que-dicen-los-datos-hoy-y-que-debe-hacer-la-empr.webp",
+      "source": "El Dinero",
+      "sourceUrl": "https://eldinero.com.do/357925/cesar-iglesias-vs-bono-soberano-que-dicen-los-datos-hoy-y-que-debe-hacer-la-empresa"
+    },
+    {
       "id": "resaltabajo-crecimiento-de-la-economia-de-rep-dominicana",
       "categoryId": "economy",
       "title": "Resalta”bajo crecimiento” de la economía de Rep. Dominicana",
