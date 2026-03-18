@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "rd-anuncia-un-puerto-espacial-con-inversion-de-us600-mm",
+      "categoryId": "economy",
+      "title": "RD anuncia un “puerto espacial” con inversión de US$600 MM",
+      "summary": "El Gobierno dominicano presentó un proyecto para desarrollar el primer puerto espacial comercial del país, con una inversión de 600 millones de dólares. La empresa Launch On Demand Holdings será la encargada de ejecutar el proyecto en el municipio de Oviedo.",
+      "author": null,
+      "publishedAt": "2026-03-18T09:00:01.000Z",
+      "readTimeMinutes": 1,
+      "content": "El Gobierno de la República Dominicana ha anunciado un proyecto para la construcción del primer puerto espacial comercial en el país, que contará con una inversión de 600 millones de dólares. Este proyecto será llevado a cabo por la empresa estadounidense Launch On Demand Holdings en el municipio de Oviedo, provincia de Pedernales.\n\nEl proyecto incluye la creación de un centro energético integrado con una capacidad estimada de 200 megavatios, que apoyará tanto las operaciones aeroespaciales como la red eléctrica nacional. También se desarrollará infraestructura logística, hídrica y tecnológica, incluyendo una planta desalinizadora y sistemas para la mitigación acústica durante los lanzamientos.\n\nSe implementará un marco legal adaptado a las mejores prácticas internacionales para garantizar operaciones seguras y competitivas. La elección del lugar se basa en su baja densidad poblacional y condiciones geográficas favorables, y se utilizará tecnología avanzada para cumplir con las normativas ambientales.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/rd-anuncia-un-puerto-espacial-con-inversion-de-us600-mm.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/rd-anuncia-un-puerto-espacialcon-inversion-de-us600-mm"
+    },
+    {
+      "id": "crespo-acusa-obras-publicas-y-alcaldia-de-mutilar-areas-verdes",
+      "categoryId": "urban",
+      "title": "Crespo acusa Obras Publicas y Alcaldía de mutilar áreas verdes",
+      "summary": "Tobías Crespo, diputado del partido Fuerza del Pueblo, acusó al Ministerio de Obras Públicas y al Ayuntamiento de mutilar áreas verdes en Los Jardines del Norte. Esto se haría para una posible ampliación de la avenida Los Próceres sin consultar a los moradores.",
+      "author": null,
+      "publishedAt": "2026-03-18T07:00:25.000Z",
+      "readTimeMinutes": 1,
+      "content": "El diputado Tobías Crespo denunció que el Ministerio de Obras Públicas y el Ayuntamiento de Santo Domingo están mutilando áreas verdes y parques en Los Jardines del Norte. Según Crespo, esta acción se realiza para una posible ampliación de la avenida Los Próceres, sin consultar a los residentes de la zona.\n\nCrespo también mencionó que se está ignorando una resolución que él propuso, la cual solicita declarar como \"área protegida municipal\" todas las áreas verdes y parques de esa área. Esta resolución fue aprobada por unanimidad por los diputados de la Circunscripción No. 2 del Distrito Nacional.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/crespo-acusa-obras-publicas-y-alcaldia-de-mutilar-areas-verdes.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/crespo-acusa-obras-publicas-y-alcaldia-de-mutilar-areas-verdes"
+    },
+    {
+      "id": "migracion-deporto-a-casi-mil-haitianos-ilegales-en-24-horas",
+      "categoryId": "society",
+      "title": "Migración deportó a casi mil haitianos ilegales en 24 horas",
+      "summary": "La Dirección General de Migración deportó a 997 extranjeros indocumentados en un periodo de 24 horas y detuvo a 941 personas en la misma situación. Las operaciones se llevaron a cabo en varias provincias del país.",
+      "author": null,
+      "publishedAt": "2026-03-18T06:00:14.000Z",
+      "readTimeMinutes": 1,
+      "content": "La Dirección General de Migración (DGM) reportó la deportación de 997 extranjeros indocumentados en las últimas 24 horas, además de 941 detenciones. Estas acciones fueron apoyadas por fuerzas militares y policiales.\n\nLas detenciones se realizaron en el Gran Santo Domingo, San Cristóbal y Monte Plata, con un total de 105 arrestos en estas áreas. También se llevaron a cabo operativos en otras provincias, incluyendo Dajabón e Independencia, donde se registraron 68 y 64 detenciones, respectivamente.\n\nAunque no se especificó la nacionalidad de los deportados, se indicó que fueron devueltos a su \"país\" a través de los puntos fronterizos con Haití. La DGM ha implementado una política de deportación masiva de haitianos en condición migratoria irregular desde octubre de 2024.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/migracion-deporto-a-casi-mil-haitianos-ilegales-en-24-horas.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/migracion-deporto-a-casi-mil-haitianos-ilegales-en-24-horas"
+    },
+    {
+      "id": "doctrina-para-un-pais-vulnerable-en-un-mundo-incierto",
+      "categoryId": "energy",
+      "title": "Doctrina para un país vulnerable en un mundo incierto",
+      "summary": "La República Dominicana enfrenta desafíos en su política energética, con altos subsidios que no corrigen fallas estructurales. Se propone una doctrina nacional que priorice la seguridad energética, la soberanía alimentaria y la fortaleza institucional.",
+      "author": null,
+      "publishedAt": "2026-03-18T08:00:40.000Z",
+      "readTimeMinutes": 1,
+      "content": "La República Dominicana no puede continuar financiando su vulnerabilidad energética como una política transitoria. En 2025, el subsidio al sector eléctrico fue significativo, y se sumó un aumento en el subsidio a los combustibles. Esto revela un modelo insostenible que no ha corregido las fallas del sistema eléctrico.\n\nLos subsidios no focalizados generan ineficiencia y riesgo de desvío de fondos públicos. Se sugiere sustituir subsidios generalizados por apoyos directos y transparentes, manteniendo un subsidio focalizado al GLP doméstico para hogares de bajos ingresos.\n\nLa seguridad energética es crucial, ya que persistir en subsidios generalizados sería una temeridad fiscal. Además, la soberanía alimentaria y la fortaleza institucional son prioridades que deben abordarse para garantizar la estabilidad del país en un contexto global incierto.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/doctrina-para-un-pais-vulnerable-en-un-mundo-incierto.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/doctrina-para-un-pais-vulnerable-en-un-mundo-incierto"
+    },
+    {
       "id": "resaltabajo-crecimiento-de-la-economia-de-rep-dominicana",
       "categoryId": "economy",
       "title": "Resalta”bajo crecimiento” de la economía de Rep. Dominicana",
