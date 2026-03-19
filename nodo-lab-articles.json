@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "mujeres-dominicanas-ocupan-7-de-cada-10-nuevos-empleos-en-6-anos",
+      "categoryId": "economy",
+      "title": "Mujeres dominicanas ocupan 7 de cada 10 nuevos empleos en 6 años",
+      "summary": "La participación de las mujeres en el mercado laboral formal en República Dominicana ha crecido significativamente en los últimos seis años. Actualmente, ellas ocupan el 70.5% de los nuevos empleos generados.",
+      "author": null,
+      "publishedAt": "2026-03-19T05:30:18.000Z",
+      "readTimeMinutes": 1,
+      "content": "La participación de las mujeres en el mercado laboral formal en República Dominicana ha aumentado, alcanzando el 47.7% de los empleados. En los últimos seis años, las mujeres han ocupado 199,687 nuevos empleos, lo que representa el 70.5% de los nuevos puestos generados.\n\nEn cuanto a los salarios, las mujeres tienen un ingreso promedio ligeramente superior al de los hombres, aunque esta ventaja se observa principalmente en el sector público. En el sector privado, los hombres representan el 56% de los trabajadores y tienen un salario promedio mayor al de las mujeres.\n\nEl sector público, donde las mujeres son mayoría, representa el 30.4% del total de empleos formales. Esto indica que, aunque las mujeres tienen un salario promedio superior en el sector estatal, la mayor parte de la fuerza laboral se encuentra en el sector privado, donde los hombres predominan.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/mujeres-dominicanas-ocupan-7-de-cada-10-nuevos-empleos-en-6-anos.webp",
+      "source": "El Dinero",
+      "sourceUrl": "https://eldinero.com.do/358596/mujeres-dominicanas-ocupan-7-de-cada-10-nuevos-empleos-en-6-anos"
+    },
+    {
+      "id": "evergo-inaugura-estacion-de-carga-junto-a-totalenergies-en-santo-domingo",
+      "categoryId": "economy",
+      "title": "Evergo inaugura estación de carga junto a TotalEnergies en Santo Domingo",
+      "summary": "Evergo, filial de InterEnergy Group, ha inaugurado una estación de carga ultrarrápida en Santo Domingo, en colaboración con TotalEnergies. Esta estación forma parte de la estrategia de expansión de infraestructura para la movilidad eléctrica en el país.",
+      "author": null,
+      "publishedAt": "2026-03-19T05:23:13.000Z",
+      "readTimeMinutes": 1,
+      "content": "Evergo ha inaugurado una estación de carga ultrarrápida en Santo Domingo, con una inversión cercana a US$1 millón. La estación cuenta con cuatro cargadores de 300 kW, permitiendo la carga simultánea de hasta ocho vehículos. Esta infraestructura tiene una potencia total de 1.2 megavatios, posicionándose entre las de mayor capacidad en la red local.\n\nEl desarrollo se realizó en alianza con TotalEnergies, que proporcionó el espacio físico, mientras Evergo se encargó de la infraestructura eléctrica y la instalación de los cargadores. La apertura de esta estación es parte de una red que supera los 500 puntos de carga en el país y servirá como piloto para evaluar su desempeño y posibles ampliaciones futuras.\n\nDesde TotalEnergies, se destacó que este proyecto responde a un modelo de transición energética, donde se busca avanzar hacia nuevas soluciones mientras se continúa proveyendo combustibles tradicionales. La movilidad eléctrica en el país ha crecido, superando los 20,000 vehículos, y se espera que la infraestructura de carga continúe expandiéndose.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/evergo-inaugura-estacion-de-carga-junto-a-totalenergies-en-santo-domingo.webp",
+      "source": "El Dinero",
+      "sourceUrl": "https://eldinero.com.do/358632/evergo-inaugura-estacion-de-carga-junto-a-totalenergies-en-santo-domingo"
+    },
+    {
+      "id": "mujeres-son-el-53-de-los-inversionistas-en-el-mercado-de-valores",
+      "categoryId": "economy",
+      "title": "Mujeres son el 53% de los inversionistas en el mercado de valores",
+      "summary": "Las mujeres representan el 53% de los inversionistas en el mercado de valores dominicano. Este grupo ha mostrado un crecimiento significativo en su participación en los últimos años.",
+      "author": null,
+      "publishedAt": "2026-03-19T05:28:47.000Z",
+      "readTimeMinutes": 1,
+      "content": "La participación de las mujeres en el mercado de valores dominicano ha aumentado, alcanzando el 53% de los inversionistas. Este crecimiento ha contribuido a cambiar la percepción de que el mercado es solo para hombres o personas adineradas.\n\nA pesar de que las mujeres son más del 50% de los inversionistas, solo el 32% de las cuentas de corretaje pertenecen a ellas. En 2025, el sector bursátil local creció un 12.5%, con un aumento de 19,926 nuevas cuentas de corretaje.\n\nLas estadísticas indican que la mayoría de los inversionistas son personas físicas, con un 96% de las cuentas. La concentración de inversionistas es alta en el Distrito Nacional y Santo Domingo, que tienen la mayor cantidad de participantes en el mercado.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/mujeres-son-el-53-de-los-inversionistas-en-el-mercado-de-valores.webp",
+      "source": "El Dinero",
+      "sourceUrl": "https://eldinero.com.do/358581/mujeres-son-el-53-de-los-inversionistas-en-el-mercado-de-valores-dominicano"
+    },
+    {
+      "id": "ahorrista-como-empezar-a-invertir-en-el-mercado-de-valores",
+      "categoryId": "economy",
+      "title": "Ahorrista: ¿Cómo empezar a invertir en el mercado de valores?",
+      "summary": "Los principiantes en el mercado de valores dominicano deben comenzar a invertir de manera gradual, considerando su perfil de riesgo y metas financieras. Existen dos vías principales para ingresar: puestos de bolsa y sociedades administradoras de fondos de inversión.",
+      "author": null,
+      "publishedAt": "2026-03-19T05:27:49.000Z",
+      "readTimeMinutes": 1,
+      "content": "Invertir en el mercado de valores se ha vuelto una herramienta esencial para la salud financiera. Este sector permite maximizar rendimientos, proteger el capital y diversificar ingresos. La guía \"Cómo invertir: Guía básica para empezar a invertir en el mercado de valores\" destaca que no se necesita un gran patrimonio para comenzar a invertir.\n\nLos inversionistas pueden elegir entre dos tipos de cuentas: la de corretaje y la de aportantes en una AFI. Para abrir una cuenta, se requiere una cédula de identidad o pasaporte, una cuenta bancaria y justificación de fondos. Además, es importante conocer el perfil de inversionista, que puede ser conservador, moderado o arriesgado.\n\nLa guía también menciona que existen instrumentos de renta fija y variable, y que el mercado está regulado por la SIMV, lo que garantiza transparencia y protección al inversionista. Se aconseja a los nuevos inversionistas informarse sobre los instrumentos y evaluar su tolerancia al riesgo antes de invertir.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/ahorrista-como-empezar-a-invertir-en-el-mercado-de-valores.webp",
+      "source": "El Dinero",
+      "sourceUrl": "https://eldinero.com.do/358587/ahorrista-como-empezar-a-invertir-en-el-mercado-de-valores"
+    },
+    {
       "id": "quien-arregla-la-economia-que-dana-la-guerra",
       "categoryId": "economy",
       "title": "¿Quién arregla la economía que daña la guerra?",
