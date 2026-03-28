@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "rep-dominicana-se-consolida-como-potencia-minera-regional",
+      "categoryId": "economy",
+      "title": "Rep. Dominicana se consolida como potencia minera regional",
+      "summary": "La República Dominicana proyecta ingresos fiscales superiores a RD$50 mil millones por exportaciones de minerales en 2026. Se espera que las exportaciones de oro y plata superen las 700 mil y 2.5 millones de onzas, respectivamente.",
+      "author": null,
+      "publishedAt": "2026-03-28T09:20:23.000Z",
+      "readTimeMinutes": 1,
+      "content": "La República Dominicana se posiciona como una potencia minera regional con proyecciones de ingresos fiscales que superan los RD$50 mil millones por exportaciones de oro y plata en 2026. Además, se suman aportes de otros minerales como cobre, zinc y no metálicos como yeso y mármol.\n\nSe estima que las exportaciones de oro superen las 700 mil onzas y las de plata 2.5 millones de onzas, generando más de RD$41 mil millones. La Compañía Minera Dominicana proyecta exportar US$300 millones en cobre y zinc, y más de US$100 millones en cemento.\n\nEl director general de Minería, Rolando Muñoz Mejía, destacó que los recursos mineros garantizan que el país seguirá siendo un importante exportador. Se han otorgado más de 50 concesiones de exploración para identificar nuevos yacimientos.\n\nEn Pueblo Viejo, las mineras Barrick Gold y Newmont están trabajando en la nueva presa de colas, y se espera que la mina continúe produciendo a un ritmo superior a las 800 mil onzas de oro hasta 2044. Además, se avanza en la exploración de tierras raras en Pedernales, lo que podría elevar la condición minera del país.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/rep-dominicana-se-consolida-como-potencia-minera-regional.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/rep-dominicana-se-consolida-como-potencia-minera-regional"
+    },
+    {
+      "id": "alemania-pone-freno-a-alzas-constantes-del-combustible",
+      "categoryId": "economy",
+      "title": "Alemania pone freno a alzas constantes del combustible",
+      "summary": "El gobierno de Alemania aprobó una regulación que restringe el aumento de precios de combustibles a una vez al día. La medida busca frenar el impacto inflacionario y garantizar estabilidad en los precios.",
+      "author": null,
+      "publishedAt": "2026-03-28T00:53:16.000Z",
+      "readTimeMinutes": 1,
+      "content": "El gobierno alemán ha implementado una nueva regulación que limita el aumento de precios de combustibles en las estaciones de servicio a una sola vez por día. Esta medida es parte de un paquete para mitigar el impacto inflacionario y entrará en vigor antes de la festividad de Pascua.\n\nLa normativa, aprobada por el Bundesrat, establece que los precios solo podrán incrementarse en un horario específico, mientras que las reducciones podrán hacerse en cualquier momento. Además, se contemplan multas de hasta 100,000 euros para las estaciones que no cumplan con la regulación.\n\nEl aumento en los precios de los combustibles ha afectado la economía alemana, elevando las previsiones de inflación a cerca del 3% anual. Sectores como el transporte y las pequeñas y medianas empresas han sido particularmente impactados por el encarecimiento del diésel, lo que ha llevado al gobierno a buscar medidas adicionales para proteger la actividad económica.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/alemania-pone-freno-a-alzas-constantes-del-combustible.webp",
+      "source": "N Digital",
+      "sourceUrl": "https://n.com.do/2026/03/27/alemania-limita-aumento-combustible-inflacion"
+    },
+    {
+      "id": "el-dolo-eventual-en-el-crimen",
+      "categoryId": "society",
+      "title": "El dolo eventual en el crimen",
+      "summary": "El dolo eventual es un concepto clave en el derecho penal que implica actuar con conocimiento del riesgo de causar daño. Este tipo de dolo se considera grave y puede llevar a sanciones penales.",
+      "author": null,
+      "publishedAt": "2026-03-28T05:03:38.000Z",
+      "readTimeMinutes": 1,
+      "content": "El dolo eventual se refiere a la acción de realizar un acto sabiendo que puede causar daño, aceptando el riesgo de que este se materialice. En el derecho penal, se distingue entre dolo directo, dolo indirecto y dolo eventual, siendo este último el que implica una conciencia del riesgo.\n\nUn caso notable en Europa involucró a la empresa Thyssenkrupp, donde se condenó a sus representantes por homicidio doloso debido a la muerte de obreros, considerando que el incumplimiento de normas de seguridad era un dolo eventual. Este concepto también se aplica en situaciones como la manipulación del mercado, donde se generan riesgos que pueden afectar a patrimonios y empresas.\n\nEs fundamental entender el dolo eventual para evitar que se tomen riesgos innecesarios, lo que contribuye a mejorar el Estado de Derecho y garantizar una convivencia pacífica en la sociedad.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/el-dolo-eventual-en-el-crimen.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/el-dolo-eventual-en-el-crimen"
+    },
+    {
+      "id": "estudiantes-destacan-en-feria-de-innovacion-con-competencias-de-robotica",
+      "categoryId": "technology",
+      "title": "Estudiantes destacan en feria de innovación con competencias de robótica",
+      "summary": "La V Feria de Innovación Industrial y Emprendimiento se llevó a cabo en Santiago, enfocándose en innovación y tecnología. El evento incluyó conferencias sobre temas como transformación digital y ciberseguridad.",
+      "author": null,
+      "publishedAt": "2026-03-27T23:43:45.000Z",
+      "readTimeMinutes": 1,
+      "content": "La V Feria de Innovación Industrial y Emprendimiento (FIEI) se celebró en el Parque Central de Santiago, concluyendo su tercer día con un enfoque en la innovación y la formación de talento joven. El evento reunió a estudiantes y profesionales del ecosistema industrial, superando las expectativas con más de 3,000 visitantes.\n\nDurante la jornada final, se llevaron a cabo conferencias sobre transformación digital, marketing digital, Big Data, inteligencia artificial y propiedad intelectual. También se realizó un taller práctico de ciberseguridad, centrado en la protección de la información en entornos digitales.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/estudiantes-destacan-en-feria-de-innovacion-con-competencias-de-robotica.webp",
+      "source": "N Digital",
+      "sourceUrl": "https://n.com.do/2026/03/27/feria-innovacion-industrial-santiago-proindustria-2026"
+    },
+    {
       "id": "camara-de-comercio-de-espana-aborda-inversion-energetica-rd",
       "categoryId": "economy",
       "title": "Cámara de Comercio de España aborda inversión energética RD",
