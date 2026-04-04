@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "miguel-alexis-gana-grandes-absolutos-copa-fisiculturismo",
+      "categoryId": "energy",
+      "title": "Miguel Alexis gana grandes absolutos Copa Fisiculturismo",
+      "summary": "Miguel Alexis, del team La Máquina, se destacó en la XXXII Copa Independencia de Fisiculturismo y Fitness, ganando los grandes absolutos en fisiculturismo y classic physique. La competencia se llevó a cabo en el teatro La Fiesta del hotel Jaragua.",
+      "author": null,
+      "publishedAt": "2026-04-04T05:00:57.000Z",
+      "readTimeMinutes": 1,
+      "content": "Miguel Alexis ganó los grandes absolutos de fisiculturismo y classic physique en la XXXII Copa Independencia de Fisiculturismo y Fitness. La competencia tuvo lugar en el teatro La Fiesta, donde su actuación fue muy aclamada por el público.\n\nOtros ganadores absolutos incluyeron a Elisabeth Jiménez en bikini, Angélica Torres en wellness, y Luís Junior Hernández en men’s physique. Se premiaron también a los primeros lugares en diversas categorías de fisiculturismo y physique.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/miguel-alexis-gana-grandes-absolutos-copa-fisiculturismo.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/miguel-alexis-gana-grandes-absolutos-copa-fisiculturismo"
+    },
+    {
+      "id": "msp-reporta-56-casos-de-dengue-en-lo-que-va-del-2026-y-enfermedad-sigue-tendenci",
+      "categoryId": "health",
+      "title": "MSP reporta 56 casos de dengue en lo que va del 2026 y enfermedad sigue tendencia a la baja",
+      "summary": "El Ministerio de Salud Pública reporta 56 casos de dengue en lo que va del 2026, con una tendencia a la baja en la incidencia de esta enfermedad. También se observan reducciones en malaria y leptospirosis.",
+      "author": null,
+      "publishedAt": "2026-04-03T23:30:26.000Z",
+      "readTimeMinutes": 1,
+      "content": "El reporte de la Semana Epidemiológica SE-11 del Ministerio de Salud Pública indica que el dengue presenta una tendencia descendente, con un caso confirmado esta semana y un total de 56 casos acumulados en el año. La incidencia de dengue se sitúa en 2.40.\n\nAdemás, se reportan tres casos de malaria esta semana, acumulando un total de 74 casos, lo que representa una reducción significativa en comparación con el año anterior. En cuanto a la leptospirosis, no se notifican casos esta semana, manteniendo un total de 38 casos acumulados en el año.\n\nEl informe también menciona cinco muertes maternas esta semana, con un total de 23 defunciones en lo que va del año. La mortalidad infantil registra 15 defunciones esta semana, acumulando 328 en el año, lo que muestra una reducción en comparación con el año anterior.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/msp-reporta-56-casos-de-dengue-en-lo-que-va-del-2026-y-enfermedad-sigue-tendenci.webp",
+      "source": "N Digital",
+      "sourceUrl": "https://n.com.do/2026/04/03/msp-reporta-56-casos-de-dengue-en-lo-que-va-del-2026-y-enfermedad-sigue-tendencia-a-la-baja"
+    },
+    {
+      "id": "pitcher-dominicano-dominguez-impulsa-triunfo-medias-blancas",
+      "categoryId": "energy",
+      "title": "Pitcher dominicano Domínguez impulsa triunfo Medias Blancas",
+      "summary": "Seranthony Domínguez contribuyó al triunfo de los Medias Blancas de Chicago en un emocionante juego contra los Azulejos de Toronto. El equipo logró una victoria de 5-4 en la décima entrada.",
+      "author": null,
+      "publishedAt": "2026-04-04T06:00:07.000Z",
+      "readTimeMinutes": 1,
+      "content": "En un emocionante juego inaugural en casa, los Medias Blancas de Chicago vencieron 5-4 a los Azulejos de Toronto. Tristan Peters fue clave al conectar un sencillo impulsor en la décima entrada, lo que permitió que el equipo empatara y luego ganara el partido.\n\nEl dominicano Seranthony Domínguez entró en la novena entrada con dos outs y un corredor en segunda, ponchando a Kazuma Okamoto y luego trabajando en la décima. Los Medias Blancas lograron su segunda victoria en siete juegos esta temporada.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/pitcher-dominicano-dominguez-impulsa-triunfo-medias-blancas.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/pitcher-dominicano-dominguez-impulsa-triunfo-medias-blancas"
+    },
+    {
+      "id": "llama-a-prudencia-y-proteger-familia-en-esta-semana-santa",
+      "categoryId": "society",
+      "title": "Llama a prudencia y proteger familia en esta Semana Santa",
+      "summary": "Francisco Javier García exhortó a la población a actuar con responsabilidad durante la Semana Santa. Hizo énfasis en la prevención de tragedias evitables en este período.",
+      "author": null,
+      "publishedAt": "2026-04-04T05:05:38.000Z",
+      "readTimeMinutes": 1,
+      "content": "Francisco Javier García, aspirante presidencial del PLD, hizo un llamado a la población dominicana para que actúe con responsabilidad y prudencia durante la Semana Santa. Destacó la importancia de compartir en familia y disfrutar de las tradiciones, pero también subrayó la necesidad de prevenir tragedias que ocurren cada año.\n\nGarcía instó a evitar conductas de riesgo, especialmente al conducir o consumir alcohol. Enfatizó que cuidarse es un acto de amor hacia uno mismo y hacia los seres queridos, y pidió a los dominicanos vivir estos días con fe y esperanza.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/llama-a-prudencia-y-proteger-familia-en-esta-semana-santa.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/llama-a-prudencia-y-proteger-familia-en-esta-semana-santa"
+    },
+    {
       "id": "abinader-encabeza-primera-graduacion-del-recinto-sur-de-la-universidad-isa-provi",
       "categoryId": "technology",
       "title": "Abinader encabeza primera graduación del recinto sur de la Universidad ISA, provincia San Juan",
