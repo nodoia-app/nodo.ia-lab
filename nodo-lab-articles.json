@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "la-digesett-realizara-carreteo-para-garantizar-retorno-seguro",
+      "categoryId": "urban",
+      "title": "La DIGESETT realizará carreteo para garantizar retorno seguro",
+      "summary": "La DIGESETT llevará a cabo un carreteo en las principales vías del país para asegurar un retorno seguro durante Semana Santa. Los agentes estarán presentes para orientar a los conductores y prevenir accidentes.",
+      "author": null,
+      "publishedAt": "2026-04-05T09:00:57.000Z",
+      "readTimeMinutes": 1,
+      "content": "La Dirección General de Seguridad de Tránsito y Transporte Terrestre (DIGESETT) anunció que este Domingo de Resurrección, a partir de las 2:00 de la tarde, se realizará un carreteo simultáneo en las principales vías de la República Dominicana. Esta acción forma parte del operativo “Retorno Seguro” de Semana Santa.\n\nLos agentes de la DIGESETT estarán desplegados desde la mañana, orientando a los conductores para prevenir siniestros viales. El carreteo se llevará a cabo en tramos estratégicos de alto flujo vehicular en las regiones Este, Norte y Sur del país.\n\nDurante el evento, las unidades de la DIGESETT encabezarán el desplazamiento vehicular, estableciendo una velocidad controlada para reducir riesgos. La institución también hizo un llamado a los ciudadanos a conducir con prudencia y respetar las señales de tránsito.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/la-digesett-realizara-carreteo-para-garantizar-retorno-seguro.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/la-digesett-realizara-carreteo-para-garantizar-retorno-seguro"
+    },
+    {
+      "id": "impuestos-a-combustibles-y-mito-del-subsidio-opinion",
+      "categoryId": "economy",
+      "title": "Impuestos a combustibles y mito del subsidio (OPINION)",
+      "summary": "La Ley No. 112-00 regula los precios de los combustibles en el país. A pesar de los subsidios, los impuestos han aumentado significativamente, lo que afecta el precio final al consumidor.",
+      "author": null,
+      "publishedAt": "2026-04-05T05:00:56.000Z",
+      "readTimeMinutes": 1,
+      "content": "La Ley No. 112-00 establece el marco para la regulación del negocio de los hidrocarburos en el país, incluyendo la fijación de precios y la distribución de combustibles. El Ministerio de Industria, Comercio y Mipymes emite resoluciones para establecer los precios oficiales de venta.\n\nEl precio final de los combustibles incluye varios componentes, como el costo del producto y los impuestos. A pesar de los subsidios al precio interno de los combustibles, los impuestos han contribuido a mantener precios elevados para los consumidores.\n\nEn 2020, el subsidio fue de RD$756.0 millones, mientras que los impuestos alcanzaron RD$58,228.4 millones. En 2021, el subsidio subió a RD$12,644.0 millones y los impuestos a RD$79,214.9 millones. Para 2023, el subsidio cayó a RD$11,614.0 millones, pero los impuestos aumentaron a RD$90,839.9 millones.\n\nSe concluye que el subsidio no representa un sacrificio fiscal para el Estado, ya que los impuestos cobrados superan varias veces el monto del subsidio. Se sugiere una reforma a la Ley de Hidrocarburos para reflejar mejor el precio internacional del petróleo.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/impuestos-a-combustibles-y-mito-del-subsidio-opinion.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/impuestos-a-combustibles-y-mito-del-subsidio-opinion"
+    },
+    {
+      "id": "gobierno-dice-transito-rd-en-semana-santa-ha-roto-record",
+      "categoryId": "urban",
+      "title": "Gobierno dice tránsito RD en Semana Santa ha roto récord",
+      "summary": "La Semana Santa 2026 ha registrado el mayor flujo vehicular en la historia de los peajes en la República Dominicana. Se contabilizaron 891,601 vehículos entre el 1 y el 3 de abril.",
+      "author": null,
+      "publishedAt": "2026-04-05T08:00:42.000Z",
+      "readTimeMinutes": 1,
+      "content": "Durante la Semana Santa 2026, se observó un récord histórico en el tránsito vehicular en los peajes administrados por el Fideicomiso RD Vial. Entre el 1 y el 3 de abril, un total de 891,601 vehículos transitaron por las estaciones de peaje del país, superando significativamente la cifra del año anterior.\n\nEl día de mayor concentración fue el jueves 2 de abril, con 366,871 vehículos. El viernes, al ser exonerados los peajes, se sumaron 166,868 vehículos adicionales. El director ejecutivo de RD Vial destacó que este incremento se dio en el marco del operativo \"Conciencia por la Vida 2026\", que contó con una amplia asistencia vial.\n\nPara manejar el flujo, RD Vial incorporó 30 nuevas unidades y desplegó más de 3,600 efectivos en las carreteras. Además, el sistema Paso Rápido ayudó a mantener la fluidez en los peajes, reduciendo los tiempos de espera a pesar del volumen histórico de vehículos.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/gobierno-dice-transito-rd-en-semana-santa-ha-roto-record.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/gobierno-dice-semana-santa-rompe-record-historico-transito"
+    },
+    {
+      "id": "iran-lanza-advertencia-de-otro-estrecho-clave-en-oriente-medio",
+      "categoryId": "energy",
+      "title": "Irán lanza advertencia de otro estrecho clave en Oriente Medio",
+      "summary": "Irán ha insinuado que podría bloquear el estrecho de Bab el Mandeb, aumentando las tensiones en Oriente Medio. Esta advertencia se produce tras el bloqueo del estrecho de Ormuz por parte de Irán.",
+      "author": null,
+      "publishedAt": "2026-04-05T08:00:02.000Z",
+      "readTimeMinutes": 1,
+      "content": "El presidente del Parlamento iraní, Mohammad Bagher Ghalibaf, ha insinuado que el estrecho de Bab el Mandeb podría ser bloqueado debido a la escalada de tensiones en la región. Ghalibaf destacó la importancia estratégica de esta vía marítima en una publicación en la red social X.\n\nA finales de marzo, los rebeldes hutíes de Yemen amenazaron con cerrar el estrecho si Estados Unidos e Israel intensifican su agresión militar contra Irán. El estrecho de Bab el Mandeb es crucial para el comercio marítimo, con un tránsito significativo de buques y petróleo.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/iran-lanza-advertencia-de-otro-estrecho-clave-en-oriente-medio.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/iran-lanza-advertencia-de-otro-estrecho-clave-en-oriente-medio"
+    },
+    {
       "id": "abinader-encabeza-primera-graduacion-del-recinto-sur-de-la-universidad-isa-provi",
       "categoryId": "technology",
       "title": "Abinader encabeza primera graduación del recinto sur de la Universidad ISA, provincia San Juan",
