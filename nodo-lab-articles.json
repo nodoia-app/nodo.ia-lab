@@ -1,6 +1,71 @@
 {
   "articles": [
     {
+      "id": "carreteras-cambian-el-mapa-inmobiliario-del-pais",
+      "categoryId": "urban",
+      "title": "Carreteras cambian el mapa inmobiliario del país",
+      "summary": "Las nuevas infraestructuras viales están transformando el mercado inmobiliario en la República Dominicana. La mejora en la conectividad de diversas zonas ha incrementado el interés de compradores e inversionistas.",
+      "author": null,
+      "publishedAt": "2026-04-10T05:00:22.000Z",
+      "readTimeMinutes": 1,
+      "content": "La construcción de nuevas carreteras y sistemas de transporte en la República Dominicana está impactando el valor de las propiedades. A medida que las zonas mejoran su acceso, se vuelven más atractivas para vivir e invertir.\n\nLas inversiones en infraestructura vial generan un aumento en la demanda de viviendas y terrenos, así como un desarrollo comercial en las áreas conectadas. Un ejemplo claro es el Metro de Santo Domingo, que ha cambiado la dinámica de movilidad y ha impulsado el desarrollo de nuevas torres residenciales y comerciales.\n\nLas zonas turísticas también se benefician de estas mejoras, con destinos como Punta Cana y La Romana experimentando un crecimiento significativo. La construcción de nuevas vías de acceso está reduciendo tiempos de desplazamiento y abriendo oportunidades para el desarrollo inmobiliario, atrayendo a inversionistas locales e internacionales.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/carreteras-cambian-el-mapa-inmobiliario-del-pais.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/carreteras-cambian-el-mapa-inmobiliario-del-pais"
+    },
+    {
+      "id": "ministro-dominicano-niega-explotacion-minera-en-santiago",
+      "categoryId": "energy",
+      "title": "Ministro dominicano niega explotación minera en Santiago",
+      "summary": "El ministro de Energía y Minas, Joel Santos, afirmó que no hay intenciones de desarrollar explotación minera en la cordillera Septentrional. El proceso actual se limita a fases de exploración científica.",
+      "author": null,
+      "publishedAt": "2026-04-10T05:00:12.000Z",
+      "readTimeMinutes": 1,
+      "content": "El ministro de Energía y Minas, Joel Santos, reiteró que el Gobierno no planea desarrollar explotación minera en la cordillera Septentrional, en Santiago. Aclaró que las actividades actuales son solo de exploración científica para determinar el potencial geológico, sin carácter extractivo.\n\nSantos destacó que no hay contratos ni solicitudes para pasar de exploración a explotación. Las concesiones vigentes fueron otorgadas conforme a la Constitución y las leyes, permitiendo solo derechos de exploración limitados y sujetos a control estatal.\n\nCualquier transición hacia la explotación requeriría un nuevo proceso administrativo y la aprobación del presidente. Santos también mencionó que el Gobierno está comprometido a mantener un diálogo transparente con la comunidad para evitar desinformación.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/ministro-dominicano-niega-explotacion-minera-en-santiago.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/ministro-dominicano-niega-explotacion-minera-en-santiago"
+    },
+    {
+      "id": "nueva-jersey-dominicano-aspira-a-la-alcaldia-de-paterson",
+      "categoryId": "urban",
+      "title": "NUEVA JERSEY: Dominicano aspira a la alcaldía de Paterson",
+      "summary": "Alex Méndez, concejal de origen dominicano, anunció su candidatura para la alcaldía de Paterson. Su experiencia incluye roles en la Junta de Educación y como concejal.",
+      "author": null,
+      "publishedAt": "2026-04-10T05:00:52.000Z",
+      "readTimeMinutes": 1,
+      "content": "Alex Méndez, concejal de origen dominicano, ha declarado su intención de postularse para la alcaldía de Paterson. Resalta que su candidatura cuenta con el apoyo de líderes de la comunidad hispana y más de diez años de experiencia en el servicio público local.\n\nMéndez ha ocupado cargos como comisionado de la Junta de Educación de Paterson y concejal At-Large. Las elecciones municipales están programadas para el 12 de mayo de 2026.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/nueva-jersey-dominicano-aspira-a-la-alcaldia-de-paterson.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/nueva-jersey-dominicano-aspira-a-la-alcaldia-de-paterson"
+    },
+    {
+      "id": "museo-recuerda-el-legado-del-periodista-silvio-herasme",
+      "categoryId": "society",
+      "title": "Museo recuerda el legado del periodista Silvio Herasme",
+      "summary": "El Museo Memorial de la Resistencia Dominicana homenajeó al periodista Silvio Herasme Peña, dedicándole la Pieza del Mes. Familiares y colegas recordaron su compromiso con la libertad de prensa.",
+      "author": null,
+      "publishedAt": "2026-04-10T05:00:30.000Z",
+      "readTimeMinutes": 1,
+      "content": "El Museo Memorial de la Resistencia Dominicana realizó un homenaje a Silvio Herasme Peña, destacando su legado en el periodismo. Durante el evento, familiares y amigos compartieron anécdotas sobre su vida y su dedicación a la profesión.\n\nHerasme Peña fue reconocido por su valentía en la defensa de los derechos ciudadanos y la libertad de prensa. Fundó el periódico La Noticia y trabajó en medios como Listín Diario y El Nacional. Su compromiso con el periodismo libre fue resaltado por colegas que asistieron al homenaje.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/museo-recuerda-el-legado-del-periodista-silvio-herasme.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/museo-recuerda-el-legado-del-periodista-silvio-herasme"
+    },
+    {
+      "id": "tendencias-reales-de-busqueda-en-tu-ciudad-nodo-insights",
+      "categoryId": "economy",
+      "title": "Tendencias reales de búsqueda en tu ciudad (Nodo Insights)",
+      "summary": "Esta semana analizamos las búsquedas reales hechas por personas en tu ciudad dentro de Nodo.",
+      "author": null,
+      "publishedAt": "2026-04-10T10:20:54.773Z",
+      "readTimeMinutes": 1,
+      "content": "Esta semana analizamos las búsquedas reales hechas por personas en tu ciudad dentro de Nodo. Los datos muestran con claridad hacia dónde se está moviendo la demanda local y qué oportunidades están apareciendo para los comercios.\n\nEn los últimos 7 días, las categorías con mayor crecimiento de interés fueron **Vehicles** y **Real Estate**. Esto indica un aumento de intención de compra en productos de alto valor, especialmente en transporte familiar y dispositivos personales.\n\nEntre las búsquedas que más se repitieron destacan términos como **\"toyota\"** y **\"casa renta\"**, lo que sugiere una combinación interesante entre consumo inmediato y decisiones de compra relevantes.\n\nAccede al análisis completo por ciudad, categoría y tendencia en **Nodo Insights Pro**.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/tendencias-reales-de-busqueda-en-tu-ciudad-nodo-insights.webp",
+      "source": "Nodo AI, Inc",
+      "sourceUrl": "http://localhost:3001/analytics"
+    },
+    {
       "id": "abinader-encabeza-primera-graduacion-del-recinto-sur-de-la-universidad-isa-provi",
       "categoryId": "technology",
       "title": "Abinader encabeza primera graduación del recinto sur de la Universidad ISA, provincia San Juan",
