@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "superintendencia-de-seguros-insta-a-verificar-alcance-polizas",
+      "categoryId": "society",
+      "title": "Superintendencia de Seguros insta a verificar alcance pólizas",
+      "summary": "La Superintendencia de Seguros de la República Dominicana recomienda a la ciudadanía revisar sus pólizas ante la posible ocurrencia de lluvias. Se advierte que muchas coberturas no incluyen protección automática para daños por inundaciones.",
+      "author": null,
+      "publishedAt": "2026-04-11T05:07:31.000Z",
+      "readTimeMinutes": 1,
+      "content": "La Superintendencia de Seguros (SIS) exhortó a la población a verificar el alcance de sus pólizas debido a la posible incidencia de lluvias en el país. Se destacó que muchas personas asumen erróneamente que están automáticamente cubiertas ante fenómenos atmosféricos como inundaciones.\n\nLa SIS recordó que la protección depende de las coberturas acordadas en cada contrato de seguro. Se recomendó revisar las pólizas, especialmente en lo que respecta a inundaciones y daños por agua.\n\nAdemás, se aclaró que no todos los seguros de vehículos cubren daños por inundación, y que en el caso de viviendas y negocios, puede ser necesario contar con respaldos adicionales en zonas de mayor riesgo. La rapidez en la notificación y la adecuada documentación son claves para los procesos de reclamación.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/superintendencia-de-seguros-insta-a-verificar-alcance-polizas.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/superintendencia-de-seguros-insta-a-verificar-alcance-polizas"
+    },
+    {
+      "id": "economistas-de-intec-advierten-sobre-riesgos-y-oportunidades-con-la-crisis-en-el",
+      "categoryId": "economy",
+      "title": "Economistas de Intec advierten sobre riesgos y oportunidades con la crisis en el Estrecho de Ormuz para la estabilidad económica de RD",
+      "summary": "Economistas de Intec analizan el impacto de la crisis en el Estrecho de Ormuz sobre la economía dominicana, destacando tanto riesgos como oportunidades. El encarecimiento del petróleo podría afectar la inflación y las finanzas públicas, pero también se presentan oportunidades en energías renovables y logística.",
+      "author": null,
+      "publishedAt": "2026-04-10T15:08:55.000Z",
+      "readTimeMinutes": 1,
+      "content": "Un análisis del Área de Economía y Negocios del Instituto Tecnológico de Santo Domingo (Intec) señala que la inestabilidad en el Estrecho de Ormuz podría impactar significativamente la economía de República Dominicana. El aumento del precio del petróleo y los costos logísticos podrían presionar la inflación y las finanzas públicas del país.\n\nEl informe indica que la economía dominicana, dependiente de importaciones energéticas, podría experimentar efectos rápidos debido a estos eventos externos. Se menciona que un aumento en el precio del petróleo podría generar incrementos en la inflación y un deterioro de la cuenta corriente.\n\nA pesar de los riesgos, el análisis también identifica oportunidades para el país, especialmente en el desarrollo de energías renovables y en su posición como plataforma logística regional. Se enfatiza la necesidad de fortalecer la planificación estratégica y diversificar la matriz energética para gestionar mejor los choques externos.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/economistas-de-intec-advierten-sobre-riesgos-y-oportunidades-con-la-crisis-en-el.webp",
+      "source": "El Dinero",
+      "sourceUrl": "https://eldinero.com.do/361361/economistas-de-intec-advierten-sobre-riesgos-y-oportunidades-con-la-crisis-en-el-estrecho-de-ormuz-para-la-estabilidad-economica-de-rd"
+    },
+    {
+      "id": "comerciantes-detallistas-de-la-rd-piden-viabilizar-soluciones",
+      "categoryId": "urban",
+      "title": "Comerciantes Detallistas de la RD piden viabilizar soluciones",
+      "summary": "La Central Nacional de Detallistas Unidos (CNDU) respalda el diálogo convocado por el presidente para abordar problemas del país. Se planea una convención de negocios detallistas en mayo de 2026.",
+      "author": null,
+      "publishedAt": "2026-04-11T09:00:05.000Z",
+      "readTimeMinutes": 1,
+      "content": "La Central Nacional de Detallistas Unidos (CNDU) ha expresado su apoyo al diálogo convocado por el presidente dominicano. La entidad considera que este es un momento crucial para buscar soluciones a los problemas que afectan al país, destacando la importancia de priorizar el interés nacional.\n\nRicardo Rosario, presidente de la CNDU, propuso un gran acuerdo nacional que incluya a líderes políticos y gremios para abordar temas como la Ley de Residuos Sólidos y la reforma del Código Laboral. Además, se mencionó la necesidad de discutir el futuro de las Mipymes en el contexto de la reforma fiscal.\n\nEn otro aspecto, se anunció la II Convención de Negocios Detallistas, que se llevará a cabo los días 2 y 3 de mayo de 2026. Este evento reunirá a autoridades, expertos y comerciantes, y contará con paneles y espacios de comercialización de productos agropecuarios.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/comerciantes-detallistas-de-la-rd-piden-viabilizar-soluciones.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/comerciantes-detallistas-de-la-rd-piden-viabilizar-soluciones"
+    },
+    {
+      "id": "la-industria-del-bienestar-y-la-posicion-de-la-rd",
+      "categoryId": "economy",
+      "title": "La industria del bienestar y la posición de la RD",
+      "summary": "La economía del bienestar está en expansión global, integrando sectores como el turismo de salud y la alimentación saludable. La República Dominicana tiene potencial para convertirse en un hub de bienestar en la región, pero necesita una estrategia integral.",
+      "author": null,
+      "publishedAt": "2026-04-11T05:06:52.000Z",
+      "readTimeMinutes": 1,
+      "content": "La economía del bienestar ha evolucionado a ser una industria multimillonaria que abarca el turismo de salud, la alimentación saludable, el fitness y más. Este crecimiento se debe a un cambio en el comportamiento del consumidor hacia una mayor conciencia de la salud física y mental.\n\nLa República Dominicana ha hecho avances en turismo de salud y bienestar, destacándose en cirugías estéticas y odontología. Sin embargo, aún no cuenta con una estrategia consolidada para aprovechar completamente esta tendencia global.\n\nEl país tiene condiciones favorables, como un clima tropical y una infraestructura hotelera robusta, que podrían posicionarlo como un referente en el Caribe. No obstante, el principal desafío radica en la falta de articulación estratégica y políticas públicas que integren los sectores clave para el desarrollo de la wellness economy.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/la-industria-del-bienestar-y-la-posicion-de-la-rd.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/la-industria-del-bienestar-y-la-posicion-de-la-rd"
+    },
+    {
       "id": "abinader-encabeza-primera-graduacion-del-recinto-sur-de-la-universidad-isa-provi",
       "categoryId": "technology",
       "title": "Abinader encabeza primera graduación del recinto sur de la Universidad ISA, provincia San Juan",
