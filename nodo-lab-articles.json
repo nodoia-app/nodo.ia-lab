@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "el-despilfarro-educativo-fabrica-ciudadanos-vulnerables",
+      "categoryId": "society",
+      "title": "El despilfarro educativo fabrica ciudadanos vulnerables",
+      "summary": "La educación en República Dominicana enfrenta serios desafíos a pesar de la inversión asignada. La ineficiencia estructural y la falta de formación adecuada de docentes perpetúan la vulnerabilidad educativa.",
+      "author": null,
+      "publishedAt": "2026-04-12T04:00:09.000Z",
+      "readTimeMinutes": 1,
+      "content": "La educación en República Dominicana presenta un panorama preocupante, a pesar de la asignación de recursos que se aproxima al 4 % del PIB. La ineficiencia en el uso de estos recursos ha llevado a resultados alarmantemente bajos en competencias educativas. Aunque se invierte una cantidad significativa por estudiante, los aprendizajes no reflejan esa inversión, evidenciando que el problema radica en cómo se gasta el dinero.\n\nEl rol del docente es crucial, pero la formación inicial universitaria presenta deficiencias que afectan la calidad educativa. Además, la dependencia de métodos tradicionales en un contexto digital limita el desarrollo de habilidades críticas en los jóvenes. La falta de infraestructura adecuada y la adicción a las redes sociales agravan la situación, dejando a los estudiantes vulnerables ante la manipulación y la desinformación.\n\nPara revertir esta tendencia, se requieren acciones concretas, como la transparencia en la ejecución presupuestaria, una reforma profunda de la carrera docente y una actualización del currículo que priorice habilidades del siglo XXI. La vigilancia ciudadana es esencial para asegurar que la inversión en educación cumpla con su propósito de formar ciudadanos críticos y capaces.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/el-despilfarro-educativo-fabrica-ciudadanos-vulnerables.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/el-despilfarro-educativo-fabrica-ciudadanos-vulnerables"
+    },
+    {
+      "id": "abril-mes-de-concienciacion-sobre-tumores-cabeza-y-cuello",
+      "categoryId": "health",
+      "title": "Abril, mes de Concienciación sobre Tumores Cabeza y Cuello",
+      "summary": "El cáncer de cabeza y cuello puede iniciar de forma silenciosa y presenta síntomas que a menudo son ignorados. La oncóloga Alcestis Salazar Polanco advierte sobre la importancia de la detección temprana.",
+      "author": null,
+      "publishedAt": "2026-04-12T06:00:35.000Z",
+      "readTimeMinutes": 1,
+      "content": "Durante el mes de abril se conmemora la Concienciación sobre Tumores de Cabeza y Cuello. La oncóloga Alcestis Salazar Polanco señala que este tipo de cáncer puede comenzar con síntomas como heridas en la boca que no sanan, ronquera persistente o dificultad para tragar. Estos síntomas suelen ser pasados por alto, lo que puede llevar a complicaciones graves si no se detectan a tiempo.\n\nLos tumores de cabeza y cuello representan entre el 4 % y el 5 % de todos los casos de cáncer a nivel mundial, con un aumento notable en pacientes jóvenes y mujeres, especialmente aquellos relacionados con el virus del papiloma humano (VPH). La especialista menciona que los principales factores de riesgo incluyen el tabaquismo y el consumo excesivo de alcohol, así como factores infecciosos como el VPH y el virus de Epstein-Barr.\n\nPolanco también advierte sobre señales de alerta como masas en el cuello o sangrados sin causa aparente. Recomienda que cualquier síntoma que persista más de dos a tres semanas debe ser evaluado por un especialista. El tratamiento de estos tumores varía según cada caso y puede incluir cirugía, radioterapia, quimioterapia y terapias dirigidas.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/abril-mes-de-concienciacion-sobre-tumores-cabeza-y-cuello.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/abril-mes-de-concienciacion-sobre-tumores-cabeza-y-cuello"
+    },
+    {
+      "id": "jpmorgan-afirma-que-la-ia-transformara-la-sociedad-mas-rapido-que-internet",
+      "categoryId": "technology",
+      "title": "JPMorgan afirma que la IA transformará la sociedad más rápido que internet",
+      "summary": "JPMorgan Chase considera que la inteligencia artificial tendrá un impacto significativo en la economía y el empleo, comparándolo con la electricidad y el internet. La adopción de esta tecnología será más rápida que en revoluciones tecnológicas anteriores.",
+      "author": null,
+      "publishedAt": "2026-04-11T14:00:25.000Z",
+      "readTimeMinutes": 1,
+      "content": "Jamie Dimon, consejero delegado de JPMorgan Chase, ha afirmado que la inteligencia artificial (IA) transformará la sociedad más rápidamente que internet. En su carta anual a los accionistas, destacó que la inversión en IA no es una burbuja especulativa, sino una herramienta que ofrecerá beneficios significativos.\n\nDimon mencionó que la IA podría curar tipos de cáncer, crear nuevos materiales y reducir muertes accidentales. Además, indicó que JPMorgan implementará la IA en casi todas las funciones de la empresa para mejorar el servicio a clientes y empleados. Sin embargo, advirtió que la velocidad de esta transformación podría superar la capacidad de adaptación de la fuerza laboral, por lo que el banco planea apoyar y reubicar a los empleados afectados.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/jpmorgan-afirma-que-la-ia-transformara-la-sociedad-mas-rapido-que-internet.webp",
+      "source": "El Dinero",
+      "sourceUrl": "https://eldinero.com.do/361228/jpmorgan-afirma-que-la-ia-transformara-la-sociedad-mas-rapido-que-internet"
+    },
+    {
+      "id": "juramentan-nuevo-director-del-hospital-antonio-musa-de-spm",
+      "categoryId": "health",
+      "title": "Juramentan nuevo director del Hospital Antonio Musa de SPM",
+      "summary": "El doctor Hugo René Sención Cherry asumió como director del Hospital Regional Antonio Musa, mientras que la doctora Darling Livet Santana Echavarría fue designada subdirectora. Ambos se comprometen a mejorar la calidad de los servicios de salud.",
+      "author": null,
+      "publishedAt": "2026-04-12T05:00:06.000Z",
+      "readTimeMinutes": 1,
+      "content": "El director ejecutivo del Servicio Nacional de Salud, Julio Landrón, juramentó a las nuevas autoridades del Hospital Regional Antonio Musa. El doctor Hugo René Sención Cherry asumió como director y la doctora Darling Livet Santana Echavarría como subdirectora.\n\nSención Cherry es especialista en Medicina Familiar y Comunitaria, con formación en sonografía general y una maestría en Salud Pública. Ha ocupado importantes cargos en varios hospitales y se compromete a ofrecer servicios de salud de calidad y humanizados.\n\nPor su parte, la doctora Santana Echavarría es médico epidemióloga con experiencia en salud ocupacional y gestión hospitalaria. Su formación incluye diplomados en prevención de riesgos laborales y planificación estratégica.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/juramentan-nuevo-director-del-hospital-antonio-musa-de-spm.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/juramentan-nuevo-director-del-hospital-antonio-musa-de-spm"
+    },
+    {
       "id": "abinader-encabeza-primera-graduacion-del-recinto-sur-de-la-universidad-isa-provi",
       "categoryId": "technology",
       "title": "Abinader encabeza primera graduación del recinto sur de la Universidad ISA, provincia San Juan",
