@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "sns-interviene-hospital-en-puerto-plata-tras-inundaciones",
+      "categoryId": "health",
+      "title": "SNS interviene Hospital en Puerto Plata tras inundaciones",
+      "summary": "El Servicio Nacional de Salud supervisó el Hospital Municipal Dolores de la Cruz en Puerto Plata tras inundaciones. Se ordenó la limpieza y reparación de equipos esenciales.",
+      "author": null,
+      "publishedAt": "2026-04-13T05:00:54.000Z",
+      "readTimeMinutes": 1,
+      "content": "El director del Servicio Nacional de Salud, doctor Julio Landrón, supervisó el Hospital Municipal Dolores de la Cruz en Montellanos, Puerto Plata, tras las inundaciones causadas por una vaguada. Se dispuso la limpieza y reparación de equipos esenciales para restablecer los servicios de salud.\n\nLandrón informó que algunos medicamentos fueron afectados y se ordenó su reposición inmediata. También se instruyó la limpieza profunda de las áreas impactadas por el lodo para mantener condiciones adecuadas en el hospital.\n\nA partir de las 4:00 p.m. del domingo, varias áreas del hospital comenzaron a operar normalmente. Se anunció la instalación de un hospital móvil en coordinación con el Centro de Operaciones de Emergencias para fortalecer la atención a la población afectada.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/sns-interviene-hospital-en-puerto-plata-tras-inundaciones.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/sns-interviene-hospital-en-puerto-plata-tras-inundaciones"
+    },
+    {
+      "id": "ofrecen-bono-para-tecnificar-el-riego-en-comunidades-del-sur",
+      "categoryId": "economy",
+      "title": "Ofrecen bono para tecnificar el riego en comunidades del Sur",
+      "summary": "La Dirección Ejecutiva de Tecnificación Nacional de Riego y el Banco Agrícola anunciaron una inversión para modernizar sistemas de riego en varias comunidades. Se ofrecerá una bonificación de hasta un 50% para pequeños proyectos seleccionados.",
+      "author": null,
+      "publishedAt": "2026-04-13T05:00:51.000Z",
+      "readTimeMinutes": 1,
+      "content": "La Dirección Ejecutiva de Tecnificación Nacional de Riego (TNR) y el Banco Agrícola (Bagrícola) han anunciado una inversión de RD$10,125,000.00 para modernizar los sistemas de riego en los municipios Padre Las Casas, Guayabal, Las Yayas de Viajama y Bohechío. Esta iniciativa, parte del Fondo de Fomento a la Tecnificación del Sistema de Riego (Fotesir), busca optimizar el uso del agua y aumentar la productividad agrícola.\n\nEl programa ofrecerá una bonificación de hasta un 50% a proyectos seleccionados, con el objetivo de fomentar la tecnificación del riego. Claudio Caamaño Vélez, director de la TNR, destacó la importancia del uso eficiente del agua para la sostenibilidad de la agricultura en estas comunidades.\n\nAdemás, se han convocado concursos públicos para otorgar bonos no reembolsables a proyectos que cumplan con los criterios establecidos. Las ediciones anteriores del programa han permitido reducir significativamente los costos de instalación de sistemas de riego y acelerar los tiempos de ejecución para los beneficiarios.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/ofrecen-bono-para-tecnificar-el-riego-en-comunidades-del-sur.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/ofrecen-bono-para-tecnificar-el-riego-en-comunidades-del-sur"
+    },
+    {
+      "id": "alcaldia-de-santiago-entrega-parque-en-sector-en-altos-rafey",
+      "categoryId": "urban",
+      "title": "Alcaldía de Santiago entrega parque en sector en Altos Rafey",
+      "summary": "La Alcaldía de Santiago inauguró un parque remozado en Altos de Rafey, como parte de su proceso de transformación urbana. La obra incluye áreas recreativas y deportivas para la comunidad.",
+      "author": null,
+      "publishedAt": "2026-04-13T05:00:50.000Z",
+      "readTimeMinutes": 1,
+      "content": "La Alcaldía de Santiago entregó un parque renovado en la comunidad de Altos de Rafey, financiado con fondos del presupuesto administrativo. El alcalde Ulises Rodríguez destacó que esta obra es parte de un esfuerzo por recuperar espacios públicos dignos y accesibles para los ciudadanos.\n\nEl parque incluye un área infantil con juegos recreativos, una cancha deportiva, y zonas verdes. También se realizaron trabajos de nivelación del terreno, drenaje pluvial, y se construyeron aceras y rampas. La obra fue supervisada por la Dirección de Obras Públicas Municipales y abarca un área de 1,834.51 metros cuadrados.\n\nLa comunidad valoró la entrega del parque como un símbolo de unidad y organización, resaltando la importancia de la cercanía de las autoridades para atender sus necesidades. En la inauguración estuvieron presentes varios funcionarios municipales y miembros de la comunidad.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/alcaldia-de-santiago-entrega-parque-en-sector-en-altos-rafey.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/alcaldia-de-santiago-entrega-parque-en-sector-en-altos-rafey"
+    },
+    {
+      "id": "auditoria-2023-2024-al-banco-agricola-revela-inconsistencias-y-deficiencias-en-l",
+      "categoryId": "economy",
+      "title": "Auditoría 2023-2024 al Banco Agrícola revela inconsistencias y deficiencias en la gestión",
+      "summary": "Una auditoría de BDO al Banco Agrícola para 2023-2024 muestra inconsistencias en la provisión de cartera vencida. La entidad no cumple con los requerimientos establecidos por el Reglamento de Evaluación de Activo.",
+      "author": null,
+      "publishedAt": "2026-04-13T10:00:22.000Z",
+      "readTimeMinutes": 1,
+      "content": "La auditoría realizada por BDO indica que el Banco Agrícola presenta deficiencias en la provisión de cartera de RD$3,467 millones y RD$1,239 millones para los años 2023 y 2024. A pesar de que la cartera vencida a más de 90 días está completamente provisionada, hay una deficiencia en la provisión de RD$77 millones para bienes recuperados en 2024.\n\nBDO señala que no fue posible determinar el efecto de realizar la evaluación y medición de riesgo de la cartera de crédito conforme al Reglamento de Evaluación de Activo. Además, se menciona que una resolución de 2014 que autorizaba la transferencia de RD$1,096 millones no está conforme con el Manual de Contabilidad para Instituciones Financieras ni con las Normas Internacionales de Información Financiera.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/auditoria-2023-2024-al-banco-agricola-revela-inconsistencias-y-deficiencias-en-l.webp",
+      "source": "El Dinero",
+      "sourceUrl": "https://eldinero.com.do/361491/auditoria-2023-2024-al-banco-agricola-revela-inconsistencias-y-deficiencias-en-la-gestion"
+    },
+    {
       "id": "abinader-encabeza-primera-graduacion-del-recinto-sur-de-la-universidad-isa-provi",
       "categoryId": "technology",
       "title": "Abinader encabeza primera graduación del recinto sur de la Universidad ISA, provincia San Juan",
