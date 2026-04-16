@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "ministerio-dominicano-apoyara-formacion-y-titulacion-artistas",
+      "categoryId": "technology",
+      "title": "Ministerio dominicano apoyará formación y titulación artistas",
+      "summary": "El Ministerio de Educación Superior, Ciencia y Tecnología se reunirá con representantes del sector artístico para fortalecer su capacitación. Se impulsarán programas académicos y certificaciones para reconocer el talento de músicos y artistas.",
+      "author": null,
+      "publishedAt": "2026-03-31T06:00:51.000Z",
+      "readTimeMinutes": 1,
+      "content": "El ministro de Educación Superior, Ciencia y Tecnología, Rafael Santos Badía, se reunió con representantes del sector artístico para discutir el apoyo a la formación de creadores. Se abordaron iniciativas para mejorar la capacitación y la inserción laboral de los miembros de la industria cultural.\n\nSe impulsarán programas académicos dirigidos a músicos y artistas que no cuentan con titulación formal. Se destaca la importancia de la certificación de competencias para reconocer el talento más allá del mérito académico.\n\nEstas acciones son parte de una reforma educativa que busca ampliar oportunidades y responder a las demandas del mercado laboral. Se espera que los artistas participen en la consulta nacional sobre la educación que desean para el futuro del país.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/ministerio-dominicano-apoyara-formacion-y-titulacion-artistas.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/ministerio-dominicano-apoyara-formacion-y-titulacion-artistas"
+    },
+    {
+      "id": "petroleo-texas-sube-este-lunes-a-325-se-coloca-a-102-dolares",
+      "categoryId": "economy",
+      "title": "Petróleo Texas sube este lunes a 3,25%, se coloca a 102 dólares",
+      "summary": "El petróleo intermedio de Texas (WTI) aumentó un 3,25% y superó los 100 dólares por barril. Este incremento se atribuye a la guerra en Oriente Medio.",
+      "author": null,
+      "publishedAt": "2026-03-31T08:00:59.000Z",
+      "readTimeMinutes": 1,
+      "content": "El petróleo intermedio de Texas (WTI) subió un 3,25% este lunes, alcanzando los 102,88 dólares por barril. Este es el primer cierre por encima de los 100 dólares desde julio de 2022. Los contratos de futuro del crudo para mayo aumentaron 3,24 dólares en comparación con el cierre anterior.\n\nEl aumento en los precios se relaciona con la guerra en Oriente Medio, que ha impactado el suministro de petróleo. Las declaraciones del presidente de Estados Unidos sobre Irán también han influido en este incremento, ya que se advirtió sobre posibles acciones contra la infraestructura petrolera iraní. En el último mes, el precio del petróleo ha aumentado un 46%.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/petroleo-texas-sube-este-lunes-a-325-se-coloca-a-102-dolares.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/petroleo-de-texas-supera-100-dolares-primera-vez-desde-2022"
+    },
+    {
+      "id": "aba-resalta-la-capacidad-de-la-rd-ante-contexto-global",
+      "categoryId": "economy",
+      "title": "ABA resalta la capacidad de la RD ante contexto global",
+      "summary": "La Asociación de Bancos Múltiples de la República Dominicana (ABA) destacó la fortaleza del país para enfrentar desafíos económicos globales. Resaltó la solidez del sistema financiero y su capacidad para mantener la estabilidad.",
+      "author": null,
+      "publishedAt": "2026-03-31T06:00:21.000Z",
+      "readTimeMinutes": 1,
+      "content": "La Asociación de Bancos Múltiples de la República Dominicana (ABA) subrayó que el país posee fundamentos sólidos para sostener su desempeño económico en un contexto internacional complicado. Esto se basa en las pruebas de estrés realizadas al sistema financiero, que muestran la capacidad del mismo para absorber tensiones sin comprometer su estabilidad.\n\nLa ABA también mencionó que la República Dominicana ha construido una base económica y financiera robusta en las últimas décadas, reflejada en un sistema bancario bien capitalizado y en una gestión de riesgos prudente. Esta capacidad de respuesta se considera el resultado de un crecimiento y estabilidad macroeconómica sostenida.\n\nAdemás, se destacó que el país ha mantenido condiciones de estabilidad en variables clave como la inflación y el tipo de cambio, lo que le permite absorber cambios en el escenario internacional sin afectar su actividad productiva y financiera.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/aba-resalta-la-capacidad-de-la-rd-ante-contexto-global.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/aba-resalta-la-capacidad-de-la-rd-ante-contexto-global"
+    },
+    {
+      "id": "enterate-ny-opinion",
+      "categoryId": "society",
+      "title": "Entérate NY (OPINION)",
+      "summary": "Se discuten temas de liderazgo y desarrollo en la comunidad dominicana en el exterior. La JCE avanza en la implementación de la nueva Cédula de Identidad y Electoral.",
+      "author": null,
+      "publishedAt": "2026-03-31T08:00:57.000Z",
+      "readTimeMinutes": 1,
+      "content": "Durante un encuentro del PLD, se mencionó la posible candidatura de Javier García para las elecciones de 2028, generando comentarios entre los asistentes. Además, se llevó a cabo el primer \"Foro de Líderes Dominicanos en EE. UU.\", que busca fortalecer conexiones entre líderes de la diáspora. \n\nLa Junta Central Electoral (JCE) está implementando una nueva Cédula de Identidad y Electoral, que promete mayor seguridad y facilitará diversos trámites. El proceso de cedulación para dominicanos en el exterior comenzará en mayo, permitiendo gestionar citas previas para obtener el documento.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/enterate-ny-opinion.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/enterate-ny-opinion-107"
+    },
+    {
       "id": "abinader-encabeza-primera-graduacion-del-recinto-sur-de-la-universidad-isa-provi",
       "categoryId": "technology",
       "title": "Abinader encabeza primera graduación del recinto sur de la Universidad ISA, provincia San Juan",
