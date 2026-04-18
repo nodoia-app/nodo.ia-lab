@@ -60,7 +60,7 @@
       "author": null,
       "publishedAt": "2026-04-17T10:19:35.241Z",
       "readTimeMinutes": 1,
-      "content": "Esta semana analizamos las búsquedas reales hechas por personas en tu ciudad dentro de Nodo. Los datos muestran con claridad hacia dónde se está moviendo la demanda local y qué oportunidades están apareciendo para los comercios.\n\nEn los últimos 7 días, las categorías con mayor crecimiento de interés fueron **Vehicles** y **Unclassified**. Esto indica un aumento de intención de compra en productos de alto valor, especialmente en transporte familiar y dispositivos personales.\n\nEntre las búsquedas que más se repitieron destacan términos como **\"toyota\"** y **\"ford\"**, lo que sugiere una combinación interesante entre consumo inmediato y decisiones de compra relevantes.\n\nAccede al análisis completo por ciudad, categoría y tendencia en **Nodo Insights Pro**.",
+      "content": "Esta semana analizamos las búsquedas reales hechas por personas en tu ciudad dentro de Nodo. Los datos muestran con claridad hacia dónde se está moviendo la demanda local y qué oportunidades están apareciendo para los comercios.\n\nEn los últimos 7 días, las categorías con mayor crecimiento de interés fueron **Vehicles** y **Unclassified**. \n\nEntre las búsquedas que más se repitieron destacan términos como **\"toyota\"** y **\"ford\"**.\n\nAccede al análisis completo por ciudad, categoría y tendencia en **Nodo Insights Pro**.",
       "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/lo-que-tu-ciudad-quiere-ahora-mismo-datos-reales-de-busqueda.webp",
       "source": "Nodo AI, Inc",
       "sourceUrl": "http://localhost:3001/analytics"
