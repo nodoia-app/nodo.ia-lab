@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "banco-central-la-inflacion-del-sobreviviente-opinion",
+      "categoryId": "economy",
+      "title": "Banco Central: La inflación del sobreviviente (OPINION)",
+      "summary": "El Banco Central defiende su metodología del Índice de Precios al Consumidor, pero se señala que no refleja la realidad de todos los hogares. La inflación afecta de manera diferente a los hogares de ingresos altos y bajos.",
+      "author": null,
+      "publishedAt": "2026-04-19T05:00:10.000Z",
+      "readTimeMinutes": 1,
+      "content": "El Banco Central sostiene que el Índice de Precios al Consumidor (IPC) se construye con técnica y estándares internacionales. Sin embargo, se argumenta que este indicador no refleja la realidad de todos los hogares, especialmente de los más pobres.\n\nLos hogares de ingresos bajos destinan una mayor parte de su ingreso a alimentos y bienes esenciales, lo que los hace más vulnerables a la inflación alimentaria. La defensa del IPC se centra en su metodología, pero se critica que no mide adecuadamente la carga cotidiana de los hogares más desfavorecidos.\n\nSe sugiere que, además del índice general, es necesario un seguimiento del costo de vida popular, observando los precios en colmados y mercados. La inflación se convierte en angustia para quienes dependen de compras pequeñas y precios variables.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/banco-central-la-inflacion-del-sobreviviente-opinion.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/banco-central-la-inflacion-del-sobreviviente-opinion"
+    },
+    {
+      "id": "la-economia-del-rebote",
+      "categoryId": "economy",
+      "title": "La economía del «rebote»",
+      "summary": "El sistema de salud dominicano enfrenta problemas estructurales que afectan la continuidad del tratamiento de pacientes críticos. La falta de recursos y decisiones financieras impactan negativamente en la atención médica.",
+      "author": null,
+      "publishedAt": "2026-04-19T05:00:55.000Z",
+      "readTimeMinutes": 1,
+      "content": "El \"rebote\" de pacientes críticos en la República Dominicana se ha convertido en un problema institucional, donde las decisiones sobre el tratamiento se ven influenciadas por factores económicos. Esto resulta en traslados que no responden a criterios clínicos, exponiendo a los pacientes a riesgos adicionales.\n\nEl sistema de salud presenta una inversión del 4.5 % al 5 % del PIB, pero el componente estatal es solo del 2.6 %. Más del 40 % del gasto en salud proviene del bolsillo de los ciudadanos, lo que convierte la enfermedad en un evento financieramente devastador.\n\nLa disponibilidad de cuidados intensivos es insuficiente, y el acceso depende de factores como el lugar y el momento. Esto contribuye a una alta mortalidad evitable, ya que los traslados innecesarios aumentan las complicaciones y reducen las posibilidades de recuperación. La falta de regulación y transparencia en la gestión de recursos agrava la situación.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/la-economia-del-rebote.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/la-economia-del-rebote"
+    },
+    {
+      "id": "proyectos-que-afectan-interes-nacional",
+      "categoryId": "economy",
+      "title": "Proyectos que afectan interés nacional",
+      "summary": "El presidente Abinader sometió un contrato de préstamo para un programa de agua potable en Punta Cana, lo que ha generado críticas sobre la inversión pública. Se denuncia la falta de agua en varias localidades del país.",
+      "author": null,
+      "publishedAt": "2026-04-19T05:00:48.000Z",
+      "readTimeMinutes": 1,
+      "content": "El presidente Abinader propuso un contrato de préstamo con el Banco Interamericano de Desarrollo para financiar un Programa Integral de Agua Potable en Punta Cana. Sin embargo, se cuestiona la necesidad de esta inversión, dado que no se ha reportado escasez de agua en esa área, mientras que otras regiones del país enfrentan problemas críticos de acceso al agua potable.\n\nSe mencionan localidades en el Gran Santo Domingo y otras provincias donde la falta de agua es recurrente, lo que sugiere que el gobierno no está priorizando las necesidades básicas de la población. Además, se critica el uso de fondos públicos para beneficiar a intereses privados, en lugar de abordar problemas de infraestructura y servicios esenciales en el país.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/proyectos-que-afectan-interes-nacional.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/proyectos-que-afectan-interes-nacional"
+    },
+    {
+      "id": "programa-coli-en-tu-escuela-promueve-juegos-s-domingo",
+      "categoryId": "society",
+      "title": "Programa «Colí en tu Escuela» promueve Juegos S. Domingo",
+      "summary": "El programa «Colí en tu Escuela» busca acercar los Juegos Centroamericanos y del Caribe a la comunidad educativa en la República Dominicana. Colí, la mascota oficial, promueve valores deportivos entre los estudiantes.",
+      "author": null,
+      "publishedAt": "2026-04-19T05:00:37.000Z",
+      "readTimeMinutes": 1,
+      "content": "El programa «Colí en tu Escuela» es una iniciativa del Comité Organizador de los Juegos Centroamericanos y del Caribe Santo Domingo 2026. Su objetivo es acercar el evento a la comunidad educativa, utilizando a Colí, la mascota oficial inspirada en el barrancolí, como embajador de valores deportivos.\n\nColí visita centros educativos del Distrito Nacional, donde interactúa con los estudiantes y les informa sobre la importancia de los Juegos. Las visitas tienen una duración aproximada de 40 minutos y incluyen sesiones fotográficas y entrega de material promocional.\n\nLa “Ruta Educativa Colí” comenzó recientemente, visitando varios centros educativos. Esta iniciativa forma parte de los esfuerzos para preparar los Juegos, que reunirán a unos seis mil atletas en 40 deportes del 24 de julio al 8 de agosto.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/programa-coli-en-tu-escuela-promueve-juegos-s-domingo.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/programa-coli-en-tu-escuela-promueve-juegos-s-domingo"
+    },
+    {
       "id": "alcaldia-del-distrito-nacional-construye-cancha-de-patinaje",
       "categoryId": "urban",
       "title": "Alcaldía del Distrito Nacional construye cancha de patinaje",
