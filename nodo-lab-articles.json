@@ -1,6 +1,71 @@
 {
   "articles": [
     {
+      "id": "el-precio-del-petroleo-texas-se-mantiene-con-tendencia-alcista",
+      "categoryId": "economy",
+      "title": "El precio del petróleo Texas se mantiene con tendencia alcista",
+      "summary": "El precio del petróleo West Texas Intermediate (WTI) continúa en aumento, superando los 105 dólares por barril. Este incremento se debe a tensiones geopolíticas y se ha mantenido en alza durante cuatro días consecutivos.",
+      "author": null,
+      "publishedAt": "2026-05-01T09:00:33.000Z",
+      "readTimeMinutes": 1,
+      "content": "El precio del petróleo WTI, que es referencia para los combustibles en la República Dominicana, se sitúa en 105,52 USD por barril para entrega en junio de 2026. Este aumento ha sido impulsado por tensiones geopolíticas, manteniéndose en ganancias durante cuatro días.\n\nDesde marzo, el precio medio ha subido significativamente desde los 91,38 USD, lo que representa un incremento superior al 9%. Las tensiones en Irán y los niveles de producción en EE. UU. son factores clave que afectan la volatilidad del WTI.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/el-precio-del-petroleo-texas-se-mantiene-con-tendencia-alcista.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/precios-del-petroleo-de-texas-suben-a-maximos-en-varios-anos"
+    },
+    {
+      "id": "laboratorios-referencia-impulsa-actualizacion-cientifica-en-la-rd",
+      "categoryId": "energy",
+      "title": "Laboratorios Referencia impulsa actualización científica en la RD",
+      "summary": "Referencia organizó la jornada 'RE-Actualiza Edición 2026' para especialistas en laboratorios clínicos. Se abordaron temas sobre calidad y seguridad en diagnósticos clínicos.",
+      "author": null,
+      "publishedAt": "2026-05-01T06:00:29.000Z",
+      "readTimeMinutes": 1,
+      "content": "La institución Referencia llevó a cabo la jornada 'RE-Actualiza Edición 2026' en el Hotel Renaissance Jaragua, reuniendo a especialistas del sector de laboratorios clínicos. Durante el evento, se discutieron temas clave para mejorar la calidad, seguridad y oportunidad de los diagnósticos clínicos en la República Dominicana.\n\nExpertos de diversas áreas compartieron conocimientos sobre procesos preanalíticos, microbiología, química bioanalítica, hematología, automatización y gestión de resultados. Referencia reafirmó su compromiso con la educación continua del personal de salud y la implementación de buenas prácticas en la atención de los pacientes.\n\nLa jornada incluyó presentaciones sobre la gestión del proceso analítico, la calidad de muestras microbiológicas, el tamizaje neonatal y el impacto de la automatización en el cuidado del paciente. La actividad concluyó con una reflexión sobre la interpretación de resultados en el contexto clínico.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/laboratorios-referencia-impulsa-actualizacion-cientifica-en-la-rd.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/laboratorios-referencia-impulsa-actualizacion-cientifica-en-la-rd"
+    },
+    {
+      "id": "opinion-son-las-remesas-no-el-turismo-las-que-mantienen-a-flote-a-rd",
+      "categoryId": "economy",
+      "title": "OPINION: Son las remesas, no el turismo, las que mantienen a flote a RD",
+      "summary": "Las remesas superan al turismo como principal soporte de la economía dominicana en 2026. A pesar de los altos ingresos del turismo, las remesas son más efectivas en el bienestar de la población.",
+      "author": null,
+      "publishedAt": "2026-05-01T06:00:25.000Z",
+      "readTimeMinutes": 1,
+      "content": "En 2026, las remesas se posicionan como el verdadero sostén de la economía dominicana, superando al turismo. Aunque el turismo generó ingresos significativos, las remesas representan una mayor circulación de dinero en el país, con un 98% de lo recibido quedándose en la economía local.\n\nEl turismo emplea a un gran número de personas, pero la mayoría tiene empleos informales y salarios bajos. En contraste, las remesas proporcionan ingresos directos a los hogares, lo que les permite financiar viviendas y pequeñas empresas. Además, las remesas son más resilientes ante crisis, recuperándose rápidamente tras caídas significativas.\n\nLa dependencia del turismo, que puede verse afectada por factores externos, contrasta con la estabilidad que ofrecen las remesas, que dependen del esfuerzo de los dominicanos en el extranjero. Esto resalta la necesidad de un enfoque más equilibrado en el desarrollo económico del país, priorizando a quienes realmente sostienen la economía.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/opinion-son-las-remesas-no-el-turismo-las-que-mantienen-a-flote-a-rd.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/opinion-son-las-remesas-no-el-turismo-las-que-mantienen-a-flote-a-rd"
+    },
+    {
+      "id": "educacion-continua-este-viernes-la-suspension-de-docencia-para-las-cuatro-provin",
+      "categoryId": "society",
+      "title": "Educación continua este viernes la suspensión de docencia para las cuatro provincias en alerta roja",
+      "summary": "El Ministerio de Educación mantiene la suspensión de clases en cuatro provincias debido a la alerta roja por condiciones meteorológicas. Se instó a la comunidad educativa a seguir las orientaciones de protección civil.",
+      "author": null,
+      "publishedAt": "2026-05-01T02:02:56.000Z",
+      "readTimeMinutes": 1,
+      "content": "El Ministerio de Educación de la República Dominicana ha decidido continuar con la suspensión de docencia este viernes en las provincias de Montecristi, Puerto Plata, Santiago Rodríguez y Valverde, que están en alerta roja por el Centro de Operaciones de Emergencias (COE).\n\nSe ha solicitado a los directores de centros educativos que mantengan medidas preventivas en las provincias en alerta amarilla, evaluando continuamente los riesgos y la posibilidad de suspender clases en áreas afectadas por las condiciones climáticas. La comunidad educativa debe estar atenta a los boletines oficiales y seguir las orientaciones de los organismos de protección civil.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/educacion-continua-este-viernes-la-suspension-de-docencia-para-las-cuatro-provin.webp",
+      "source": "N Digital",
+      "sourceUrl": "https://n.com.do/2026/04/30/educacion-continua-este-viernes-la-suspension-de-docencia-para-las-cuatro-provincias-en-alerta-roja"
+    },
+    {
+      "id": "tendencias-reales-de-busqueda-en-tu-ciudad-nodo-insights",
+      "categoryId": "economy",
+      "title": "Tendencias reales de búsqueda en tu ciudad (Nodo Insights)",
+      "summary": "Esta semana analizamos las búsquedas reales hechas por personas en tu ciudad dentro de Nodo.",
+      "author": null,
+      "publishedAt": "2026-05-01T10:21:35.400Z",
+      "readTimeMinutes": 1,
+      "content": "Esta semana analizamos las búsquedas reales hechas por personas en tu ciudad dentro de Nodo. Los datos muestran con claridad hacia dónde se está moviendo la demanda local y qué oportunidades están apareciendo para los comercios.\n\nEn los últimos 7 días, las categorías con mayor crecimiento de interés fueron **Vehicles** y **Real Estate**. Esto indica un aumento de intención de compra en productos de alto valor, especialmente en transporte familiar y dispositivos personales.\n\nEntre las búsquedas que más se repitieron destacan términos como **\"cars\"** y **\"apartments\"**, lo que sugiere una combinación interesante entre consumo inmediato y decisiones de compra relevantes.\n\nAccede al análisis completo por ciudad, categoría y tendencia en **Nodo Insights Pro**.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/tendencias-reales-de-busqueda-en-tu-ciudad-nodo-insights.webp",
+      "source": "Nodo AI, Inc",
+      "sourceUrl": "http://localhost:3001/analytics"
+    },
+    {
       "id": "alcaldia-del-distrito-nacional-construye-cancha-de-patinaje",
       "categoryId": "urban",
       "title": "Alcaldía del Distrito Nacional construye cancha de patinaje",
