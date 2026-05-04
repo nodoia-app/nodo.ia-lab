@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "opinion-el-cdp-ny-un-sello-de-goma-mudo",
+      "categoryId": "economy",
+      "title": "OPINIÓN: El CDP-NY, un sello de goma «mudo»",
+      "summary": "El Colegio Dominicano de Periodistas en Nueva York enfrenta críticas por no cumplir con su función de defensa y representación de los periodistas. Se plantea la necesidad de establecer un gremio más activo y comprometido con la formación y protección de sus miembros.",
+      "author": null,
+      "publishedAt": "2026-05-04T05:00:23.000Z",
+      "readTimeMinutes": 1,
+      "content": "El Colegio Dominicano de Periodistas (CDP) en Nueva York ha sido señalado por no cumplir adecuadamente su rol en la defensa y formación de los periodistas de la diáspora. A pesar de las contribuciones significativas de la comunidad dominicana al PIB, los comunicadores en el exterior carecen de un sindicato y de plataformas que los apoyen en su labor.\n\nSe sugiere que el CDP-NY debe negociar con medios locales para crear oportunidades laborales y establecer tarifas mínimas. Además, se propone la creación de programas de formación en colaboración con instituciones educativas que ofrezcan créditos académicos en periodismo digital y comunicación política.\n\nEl CDP-NY también enfrenta la crítica de no proporcionar apoyo legal a sus miembros, lo que deja a los periodistas vulnerables ante posibles demandas. Se enfatiza la importancia de establecer un departamento de defensa legal y de fomentar la unidad gremial entre los periodistas, independientemente de sus afiliaciones políticas.\n\nFinalmente, se destaca la necesidad de un relevo generacional en la dirección del CDP-NY, con un enfoque en atraer a los jóvenes y adaptarse a las nuevas tecnologías para seguir siendo relevante en la actualidad.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/opinion-el-cdp-ny-un-sello-de-goma-mudo.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/opinion-el-cdp-ny-un-sello-de-goma-mudo-2"
+    },
+    {
+      "id": "pregunta-de-fondo-como-se-distribuye-el-sacrificio",
+      "categoryId": "economy",
+      "title": "Pregunta de fondo: ¿cómo se distribuye el sacrificio?",
+      "summary": "El gobierno de Luis Abinader ha anunciado un paquete de medidas de austeridad en un contexto de crisis internacional. Estas medidas incluyen recortes en el gasto público y un recorte significativo a los fondos de los partidos políticos.",
+      "author": null,
+      "publishedAt": "2026-05-04T07:00:13.000Z",
+      "readTimeMinutes": 1,
+      "content": "El gobierno de Luis Abinader ha implementado un paquete de medidas de austeridad debido a la crisis internacional que afecta la economía dominicana. Las medidas incluyen la reducción del gasto público no esencial, la congelación de nuevas contrataciones, y la limitación de viáticos y viajes oficiales. Además, se ha decidido recortar en un 50% los fondos destinados a los partidos políticos.\n\nA pesar de estas acciones, persisten dudas sobre la equidad en la distribución del sacrificio. La austeridad parece centrarse en ajustes administrativos, dejando en el aire la necesidad de reformas estructurales más profundas. La percepción de desigualdad en la carga del ajuste podría afectar la legitimidad de estas medidas ante la ciudadanía.\n\nEl gobierno tiene la oportunidad de fortalecer su estrategia, pero esto requiere transparencia y señales claras de que el ajuste no solo afecta a los sectores más visibles. Sin un equilibrio en la carga del sacrificio, la austeridad podría volverse insostenible a nivel social.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/pregunta-de-fondo-como-se-distribuye-el-sacrificio.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/pregunta-de-fondo-como-se-distribuye-el-sacrificio"
+    },
+    {
+      "id": "crisis-petroleo-y-gasto-publico",
+      "categoryId": "economy",
+      "title": "Crisis, petróleo y gasto público",
+      "summary": "El Gobierno dominicano ha anunciado medidas para reducir el gasto público en respuesta a la crisis global del petróleo. Estas medidas incluyen recortes en diversas áreas, pero no abordan problemas estructurales del sistema fiscal.",
+      "author": null,
+      "publishedAt": "2026-05-04T09:00:00.000Z",
+      "readTimeMinutes": 1,
+      "content": "El Gobierno dominicano ha presentado un paquete de medidas para reducir el gasto público en aproximadamente RD$40,000 millones debido a la crisis global provocada por el aumento del petróleo. Los recortes incluyen áreas como combustible, publicidad y viáticos, pero evitan tocar aspectos estructurales del gasto.\n\nA pesar de los recortes, se mantiene un gasto tributario elevado, lo que genera contradicciones en la gestión fiscal. Además, el subsidio a los combustibles no está focalizado adecuadamente, beneficiando a grandes consumidores y distorsionando su objetivo original. La falta de mecanismos de control y evaluación en el sistema fiscal agrava la situación.\n\nLa reducción del financiamiento a partidos políticos se presenta como un gesto de austeridad, pero no resuelve problemas estructurales. La nómina pública y las transferencias a organismos autónomos no son abordadas, lo que sugiere que los ajustes pueden ser temporales y poco efectivos a largo plazo. Sin reformas profundas, las crisis seguirán resolviéndose de la misma manera.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/crisis-petroleo-y-gasto-publico.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/crisis-petroleo-y-gasto-publico"
+    },
+    {
+      "id": "analizando-el-nuevo-codigo-penal",
+      "categoryId": "society",
+      "title": "Analizando el nuevo Código Penal",
+      "summary": "El nuevo Código Penal de la República Dominicana entrará en vigencia el 6 de agosto de 2026, introduciendo cambios significativos en la legislación. Se destacan nuevas penas y la regulación de la divulgación de información secreta por profesionales.",
+      "author": null,
+      "publishedAt": "2026-05-04T08:00:29.000Z",
+      "readTimeMinutes": 1,
+      "content": "El nuevo Código Penal de la República Dominicana, que comenzará a aplicarse el 6 de agosto de 2026, incluye avances y retrocesos en la legislación penal. Se establecen penas más severas y la creación de nuevos delitos, lo que podría requerir la construcción de nuevas cárceles debido a la sobrepoblación en las existentes.\n\nUno de los aspectos destacados es el artículo 195, que establece sanciones para profesionales que divulguen información secreta sin consentimiento. Este artículo contempla penas de 15 días a un año de prisión y multas, pero también incluye excepciones que permiten la divulgación en ciertos casos, como cuando se informa al Ministerio Público.\n\nSin embargo, se han señalado contradicciones en la interpretación de estos artículos, especialmente en relación con los derechos fundamentales establecidos en la Constitución, que protege el secreto profesional. Se espera que se presenten recursos de inconstitucionalidad en respuesta a estas disposiciones.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/analizando-el-nuevo-codigo-penal.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/analizando-el-nuevo-codigo-penal"
+    },
+    {
       "id": "alcaldia-del-distrito-nacional-construye-cancha-de-patinaje",
       "categoryId": "urban",
       "title": "Alcaldía del Distrito Nacional construye cancha de patinaje",
