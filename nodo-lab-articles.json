@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "energia-y-turismo-lideran-para-prestamos-en-dolares",
+      "categoryId": "energy",
+      "title": "Energía y turismo lideran para préstamos en dólares",
+      "summary": "La cartera de crédito en moneda extranjera del sistema financiero dominicano creció impulsada por los sectores de energía y turismo. La morosidad se mantuvo estable en 0.6%.",
+      "author": null,
+      "publishedAt": "2026-05-14T06:59:26.000Z",
+      "readTimeMinutes": 1,
+      "content": "La cartera de crédito en moneda extranjera del sistema financiero dominicano mostró un crecimiento sostenido al cierre de 2025, con un aumento del 11%. Este crecimiento fue impulsado principalmente por los sectores de electricidad y turismo, que representan casi la mitad del financiamiento otorgado en dólares.\n\nEl sector de suministro de electricidad lidera con una participación del 19.4%, seguido por el turismo con 18.6%. La morosidad en la cartera en moneda extranjera se mantuvo estable en 0.6%, un nivel que ha permanecido constante durante los últimos cinco años. Además, la cobertura de provisiones para préstamos vencidos superiores a 90 días alcanzó 357.3%. \n\nLa exposición total en moneda extranjera, que incluye montos aprobados y no utilizados, ascendió a US$10,228.52 millones a diciembre de 2025. La composición de los deudores muestra que el 41.2% corresponde a generadores de divisas, mientras que el 58.8% son no generadores de divisas. La cobertura por garantías del segmento de no generadores se sitúa en un 63.0%.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/energia-y-turismo-lideran-para-prestamos-en-dolares.webp",
+      "source": "El Dinero",
+      "sourceUrl": "https://eldinero.com.do/364701/energia-y-turismo-lideran-para-prestamos-en-dolares"
+    },
+    {
+      "id": "el-proximo-salto-es-productividad",
+      "categoryId": "economy",
+      "title": "El próximo salto es productividad",
+      "summary": "América Latina ha avanzado en acumulación de capital y escolaridad, pero su productividad no ha crecido de manera proporcional. República Dominicana ha mostrado un avance significativo, pero enfrenta retos en productividad que deben ser abordados.",
+      "author": null,
+      "publishedAt": "2026-05-14T04:12:44.000Z",
+      "readTimeMinutes": 1,
+      "content": "América Latina ha acumulado capital e inversión, pero su productividad laboral ha disminuido en comparación con la OCDE. Aunque el PIB per cápita de República Dominicana se ha multiplicado por más de tres desde 1990, el crecimiento de su productividad total de los factores ha sido limitado.\n\nEl Banco Interamericano de Desarrollo indica que entre 2013 y 2023, el crecimiento económico dominicano fue impulsado principalmente por la acumulación de capital físico. Para mejorar la productividad, se deben abordar fricciones que limitan el valor generado por empresas y trabajadores.\n\nLa agenda debe enfocarse en facilitar la formalización de empresas, mejorar la conexión del talento con el mercado y reducir costos sistémicos de producción. Esto permitirá que la economía dominicana produzca más valor con los recursos existentes.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/el-proximo-salto-es-productividad.webp",
+      "source": "El Dinero",
+      "sourceUrl": "https://eldinero.com.do/364761/el-proximo-salto-es-productividad"
+    },
+    {
+      "id": "gobierno-manejo-de-la-crisis-y-el-dinero-para-los-paliativos",
+      "categoryId": "economy",
+      "title": "Gobierno, manejo de la crisis y el dinero para los paliativos",
+      "summary": "El Gobierno de República Dominicana enfrenta una situación de incertidumbre económica y geopolítica. Se están implementando medidas para paliar los efectos de la crisis, aunque se cuestiona su efectividad.",
+      "author": null,
+      "publishedAt": "2026-05-14T05:30:57.000Z",
+      "readTimeMinutes": 1,
+      "content": "La economía dominicana atraviesa una crisis marcada por la incertidumbre económica y geopolítica, influenciada por conflictos en Medio Oriente que afectan los precios del petróleo. El Gobierno ha tomado medidas similares a las de administraciones anteriores para mitigar los efectos de esta crisis, como revisar la política de gastos y priorizar subsidios.\n\nA pesar de las críticas de la oposición sobre la falta de un plan, se afirma que existe un plan en aplicación. Sin embargo, se reconoce que este no eliminará por completo los efectos de la crisis, sino que busca paliarlos. Además, se discute la necesidad de ajustar el gasto público para liberar recursos que ayuden a enfrentar la situación actual.\n\nSe menciona que con un recorte del 5% en ciertas partidas del presupuesto, se podrían obtener los fondos necesarios para enfrentar la crisis. La falta de acción en este sentido se atribuye a una supuesta falta de voluntad política por parte del Gobierno.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/gobierno-manejo-de-la-crisis-y-el-dinero-para-los-paliativos.webp",
+      "source": "El Dinero",
+      "sourceUrl": "https://eldinero.com.do/364749/gobierno-manejo-de-la-crisis-y-el-dinero-para-los-paliativos"
+    },
+    {
+      "id": "ve-impunidad-es-regla-en-rd-casos-corrupcion-se-diluyen",
+      "categoryId": "society",
+      "title": "Ve impunidad es «regla” en RD; casos corrupción se “diluyen”",
+      "summary": "Francisco Domínguez Brito, precandidato presidencial del PLD, afirmó que la impunidad es la norma en República Dominicana y que los casos de corrupción se diluyen con el tiempo. Criticó el aumento de la deuda pública y el manejo económico del Gobierno.",
+      "author": null,
+      "publishedAt": "2026-05-14T09:00:08.000Z",
+      "readTimeMinutes": 1,
+      "content": "Francisco Domínguez Brito, precandidato presidencial del Partido de la Liberación Dominicana, declaró que la impunidad ha sido la regla en República Dominicana. Aseguró que el sistema de justicia permite que los casos de corrupción se diluyan con el tiempo, lo que resulta en una falta de consecuencias para los responsables.\n\nAdemás, criticó el incremento de las nóminas públicas y el aumento de la deuda pública, así como los subsidios al sistema eléctrico. Domínguez Brito expresó su preocupación por la situación económica de los hogares dominicanos, mencionando que muchas familias enfrentan dificultades debido a que el salario no es suficiente. También destacó que la clase media ha recurrido al endeudamiento, lo que genera mayor estrés y tensión social en el país.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/ve-impunidad-es-regla-en-rd-casos-corrupcion-se-diluyen.webp",
+      "source": "Almomento",
+      "sourceUrl": "https://almomento.net/dice-la-impunidad-ha-sido-la-regla-en-republica-dominican"
+    },
+    {
       "id": "ministerio-dominicano-salud-descarta-circulacion-hantavirus",
       "categoryId": "health",
       "title": "Ministerio dominicano Salud descarta circulación hantavirus",
