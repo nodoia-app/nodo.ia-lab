@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "la-oms-declara-brote-de-ebola-en-republica-democratica-del-congo-como-una-emerge",
+      "categoryId": "technology",
+      "title": "La OMS declara brote de ébola en República Democrática del Congo como una emergencia global - BBC News Mundo",
+      "summary": "La OMS ha declarado el brote de ébola en la República Democrática del Congo como una emergencia de salud pública. Se han registrado casos confirmados y sospechosos en varias zonas de salud.",
+      "author": null,
+      "publishedAt": "2026-05-17T09:43:25.000Z",
+      "readTimeMinutes": 1,
+      "content": "La Organización Mundial de la Salud (OMS) ha declarado el brote de ébola en la República Democrática del Congo como una emergencia de salud pública de importancia internacional. Este brote, causado por el virus Bundibugyo, se ha presentado en la provincia de Ituri, donde se han reportado casos sospechosos y muertes.\n\nLa OMS ha confirmado ocho casos en laboratorio y ha advertido sobre el riesgo de propagación local y regional. Además, se ha registrado un caso en Kinshasa, la capital del país, y dos casos en Uganda. La OMS ha recomendado que se establezcan centros de operaciones de emergencia en la región para monitorear y aplicar medidas de prevención de infecciones.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/la-oms-declara-brote-de-ebola-en-republica-democratica-del-congo-como-una-emerge.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/c7v98l89z1eo"
+    },
+    {
+      "id": "aparecio-un-mundo-de-ensueno-la-historia-del-quimico-suizo-que-experimento-el-pr",
+      "categoryId": "technology",
+      "title": "\"Apareció un mundo de ensueño\": la historia del químico suizo que experimentó el primer viaje con LSD montado en una bicicleta - BBC News Mundo",
+      "summary": "Albert Hofmann, un químico suizo, experimentó su primer viaje con LSD en 1943, lo que lo llevó a un viaje en bicicleta inusual. Su descubrimiento del LSD tuvo un impacto significativo en la psiquiatría y la cultura.",
+      "author": null,
+      "publishedAt": "2026-05-17T09:51:39.000Z",
+      "readTimeMinutes": 1,
+      "content": "Albert Hofmann, un químico suizo, realizó un descubrimiento fortuito en 1943 al sintetizar el LSD. Su primera experiencia con la droga fue intrigante, pero al decidir tomarla tres días después, vivió visiones aterradoras durante un viaje en bicicleta. A medida que avanzaba, su percepción de la realidad se distorsionó, y los objetos en su hogar parecían cobrar vida.\n\nHofmann continuó experimentando con el LSD en las décadas siguientes, observando sus efectos. Informó a su jefe sobre su descubrimiento, y el LSD comenzó a distribuirse a hospitales psiquiátricos como un fármaco experimental. A pesar de su potencial terapéutico, el uso indiscriminado del LSD llevó a su regulación y prohibición en muchos países, aunque Hofmann mantuvo su fe en su uso adecuado en contextos médicos.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/aparecio-un-mundo-de-ensueno-la-historia-del-quimico-suizo-que-experimento-el-pr.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/c0e1qzp8xw5o"
+    },
+    {
+      "id": "africa-en-alerta-esta-es-la-variante-del-ebola-que-ha-dejado-decenas-de-muertos",
+      "categoryId": "technology",
+      "title": "África en alerta: esta es la variante del ébola que ha dejado decenas de muertos en RD Congo y ya tocó Uganda",
+      "summary": "Las autoridades africanas han confirmado casi 90 muertes por un nuevo brote de ébola de la cepa Bundibugyo. Esta variante no cuenta con una vacuna disponible.",
+      "author": null,
+      "publishedAt": "2026-05-17T02:45:27.000Z",
+      "readTimeMinutes": 1,
+      "content": "Las autoridades de salud en África han reportado un brote de ébola de la cepa Bundibugyo, que ha dejado casi 90 muertes, incluyendo 87 en la República Democrática del Congo y una en Uganda. La Organización Mundial de la Salud ha calificado esta situación como una emergencia de salud pública de importancia internacional.\n\nLa cepa Bundibugyo es una de las tres variantes del virus del ébola y no existe una vacuna específica para ella. Actualmente, se están desarrollando protocolos para evaluar la efectividad de la vacuna Ervebo, que se utiliza contra la variante Zaire, en la protección contra este nuevo brote.\n\nEl periodo de incubación del ébola puede durar hasta 21 días y los síntomas incluyen fiebre, vómitos y diarrea. La propagación del virus es motivo de preocupación debido a los movimientos transfronterizos en la región afectada.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/africa-en-alerta-esta-es-la-variante-del-ebola-que-ha-dejado-decenas-de-muertos.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/%C3%A1frica/20260517-%C3%A1frica-en-alerta-esta-es-la-variante-del-%C3%A9bola-que-ha-dejado-decenas-de-muertos-en-rd-congo-y-ya-toc%C3%B3-uganda"
+    },
+    {
+      "id": "petro-y-uribe-dos-liderazgos-en-la-sombra-en-las-elecciones-presidenciales-de-co",
+      "categoryId": "society",
+      "title": "Petro y Uribe: dos liderazgos en la sombra en las elecciones presidenciales de Colombia",
+      "summary": "Gustavo Petro y Álvaro Uribe son referentes de dos modelos políticos en Colombia que influirán en las elecciones presidenciales. Aunque no son candidatos, su impacto en la contienda es significativo.",
+      "author": null,
+      "publishedAt": "2026-05-16T20:38:50.000Z",
+      "readTimeMinutes": 1,
+      "content": "Gustavo Petro y Álvaro Uribe, aunque no se postulan, representan dos modelos políticos opuestos en Colombia que marcarán las elecciones del 31 de mayo. Analistas destacan su influencia en la polarización política y el declive de los partidos de centro.\n\nEl Pacto Histórico, liderado por Petro, obtuvo 62 escaños en el Congreso, mientras que el Centro Democrático de Uribe alcanzó 45. Esta polarización ha dificultado la gobernabilidad y ha generado un clima de crispación política. Los analistas sugieren que la falta de un sucesor claro para Uribe y la fragmentación de su partido son factores que afectan su relevancia actual.\n\nAmbos líderes son vistos como representaciones de corrientes sociales en Colombia. Uribe simboliza un orden conservador, mientras que Petro representa una nueva narrativa de inclusión y justicia social. A pesar de sus diferencias, ambos continúan siendo figuras influyentes en el panorama político del país.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/petro-y-uribe-dos-liderazgos-en-la-sombra-en-las-elecciones-presidenciales-de-co.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/am%C3%A9rica-latina/20260516-petro-y-uribe-dos-liderazgos-en-la-sombra-en-las-elecciones-presidenciales-de-colombia"
+    },
+    {
       "id": "sns-fija-plazo-de-15-dias-para-rescindir-contratos-que-respaldan-servicios-medic",
       "categoryId": "health",
       "title": "SNS fija plazo de 15 días para rescindir contratos que respaldan servicios médicos en hospitales públicos",
