@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "vehiculos-espias-la-enorme-cantidad-de-datos-que-tu-auto-recopila-de-ti-y-que-pu",
+      "categoryId": "technology",
+      "title": "Vehículos espías: la enorme cantidad de datos que tu auto recopila de ti (y qué puedes hacer para limitarla) - BBC News Mundo",
+      "summary": "Los automóviles modernos recopilan una gran cantidad de datos personales de los conductores, lo que plantea preocupaciones sobre la privacidad. Existen medidas que los usuarios pueden tomar para limitar esta recopilación.",
+      "author": null,
+      "publishedAt": "2026-05-18T08:22:45.000Z",
+      "readTimeMinutes": 1,
+      "content": "Los vehículos actuales son capaces de recolectar información detallada sobre los conductores, incluyendo datos de ubicación, comportamiento al volante, y hasta características personales como peso y expresiones faciales. Esta recopilación de datos puede influir en el costo del seguro de auto, ya que las compañías de seguros utilizan esta información para ajustar tarifas.\n\nAdemás, se anticipa que una nueva ley en EE.UU. aumentará la cantidad de datos que los automóviles pueden recopilar, incluyendo el uso de cámaras biométricas para monitorear el estado del conductor. Sin embargo, no hay regulaciones claras sobre cómo se manejarán estos datos, lo que genera inquietudes sobre la privacidad.\n\nLos conductores pueden tomar medidas para limitar la recopilación de datos, como no inscribirse en programas de telemetría de seguros y ajustar configuraciones de privacidad en sus vehículos. Sin embargo, la responsabilidad de proteger la privacidad no debería recaer únicamente en los usuarios.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/vehiculos-espias-la-enorme-cantidad-de-datos-que-tu-auto-recopila-de-ti-y-que-pu.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/c89304w4p44o"
+    },
+    {
+      "id": "por-que-se-puede-decir-que-las-plantas-ven-bbc-news-mundo",
+      "categoryId": "technology",
+      "title": "Por qué se puede decir que las plantas ven - BBC News Mundo",
+      "summary": "Las plantas pueden captar y procesar la luz de su entorno, lo que les permite interpretar información sobre su ambiente. Utilizan fotorreceptores para responder a diferentes longitudes de onda de luz.",
+      "author": null,
+      "publishedAt": "2026-05-18T09:59:42.000Z",
+      "readTimeMinutes": 1,
+      "content": "Las plantas, aunque no tienen ojos ni cerebro, pueden ser consideradas como organismos que 'ven' en un sentido amplio, ya que captan luz y la transforman en señales biológicas. Esta capacidad les permite interpretar su entorno y tomar decisiones sobre su desarrollo.\n\nLos fotorreceptores son biomoléculas que permiten a las plantas absorber luz y responder a ella. Existen diferentes tipos de fotorreceptores, como los fitocromos, que son sensibles a la luz roja y roja lejana, y otros que responden a la luz azul y ultravioleta. Estos fotorreceptores están distribuidos en diversos tipos celulares a lo largo de la planta.\n\nAdemás, las plantas pueden detectar la presencia de otras plantas a través de la relación entre la luz roja y la luz roja lejana, lo que les permite ajustar su crecimiento y arquitectura para competir por la luz. Esta capacidad tiene implicaciones importantes en la agricultura, ya que entender cómo funcionan los fotorreceptores puede ayudar a seleccionar variedades más eficientes en cultivos densos.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/por-que-se-puede-decir-que-las-plantas-ven-bbc-news-mundo.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/c70vn2rzj9no"
+    },
+    {
+      "id": "cuba-adquiere-drones-militares-en-medio-de-la-tension-con-ee-uu-esto-es-lo-que-s",
+      "categoryId": "technology",
+      "title": "¿Cuba adquiere drones militares en medio de la tensión con EE. UU.?: esto es lo que se sabe",
+      "summary": "Cuba reafirma su derecho a la legítima defensa en respuesta a acusaciones sobre la adquisición de drones militares. La información proviene de un reporte de 'Axios' que menciona la compra de más de 300 drones.",
+      "author": null,
+      "publishedAt": "2026-05-18T02:44:12.000Z",
+      "readTimeMinutes": 1,
+      "content": "Cuba ha declarado su derecho a la legítima defensa tras un reporte de 'Axios' que sugiere que el país ha adquirido más de 300 drones militares. Aunque la información no ha sido verificada, el Gobierno cubano ha respondido a las acusaciones, señalando que se prepara para enfrentar cualquier agresión externa.\n\nEl ministro de Relaciones Exteriores de Cuba, Bruno Rodríguez, afirmó que el país defiende la paz y se prepara para la defensa, criticando al Gobierno de EE. UU. por construir un expediente para justificar una guerra económica. Además, se ha difundido una guía de protección para la población cubana ante una posible intervención militar estadounidense.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/cuba-adquiere-drones-militares-en-medio-de-la-tension-con-ee-uu-esto-es-lo-que-s.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/am%C3%A9rica-latina/20260518-cuba-adquiere-drones-militares-en-medio-de-la-tensi%C3%B3n-con-ee-uu-esto-es-lo-que-se-sabe"
+    },
+    {
+      "id": "peru-oficializa-un-balotaje-entre-keiko-fujimori-y-roberto-sanchez-la-extrema-de",
+      "categoryId": "society",
+      "title": "Perú oficializa un balotaje entre Keiko Fujimori y Roberto Sánchez; la extrema derecha impugnará",
+      "summary": "El Jurado Nacional de Elecciones de Perú ratificó los resultados de la primera vuelta presidencial. Keiko Fujimori y Roberto Sánchez se enfrentarán en la segunda vuelta el 7 de junio.",
+      "author": null,
+      "publishedAt": "2026-05-17T19:02:11.000Z",
+      "readTimeMinutes": 1,
+      "content": "El Jurado Nacional de Elecciones (JNE) de Perú confirmó los resultados de la primera vuelta presidencial, donde Keiko Fujimori y Roberto Sánchez competirán en una segunda vuelta el 7 de junio. El presidente del JNE, Roberto Burneo, afirmó que las decisiones tomadas son inapelables y que cualquier solicitud adicional no cambiará los resultados.\n\nEl partido Renovación Popular ha solicitado la anulación de los resultados, argumentando que el JNE oficializó los resultados sin resolver más de 20 recursos presentados por ellos. A pesar de las irregularidades reportadas durante el proceso electoral, tanto la OEA como la Unión Europea consideraron los resultados como creíbles y transparentes. La segunda vuelta se llevará a cabo con la supervisión de la misión de observación electoral de la OEA.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/peru-oficializa-un-balotaje-entre-keiko-fujimori-y-roberto-sanchez-la-extrema-de.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/am%C3%A9rica-latina/20260517-per%C3%BA-oficializa-resultados-electorales-y-renovaci%C3%B3n-popular-anuncia-que-los-impugnar%C3%A1"
+    },
+    {
       "id": "la-oms-declara-brote-de-ebola-en-republica-democratica-del-congo-como-una-emerge",
       "categoryId": "technology",
       "title": "La OMS declara brote de ébola en República Democrática del Congo como una emergencia global - BBC News Mundo",
