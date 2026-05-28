@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "economia-colombia-en-cifras-como-recibe-la-economia-el-sucesor-de-gustavo-petro",
+      "categoryId": "economy",
+      "title": "Economía - Colombia en cifras ¿cómo recibe la economía el sucesor de Gustavo Petro?",
+      "summary": "Colombia se prepara para las elecciones presidenciales con un panorama económico marcado por un déficit fiscal y una deuda pública elevada. A pesar de la desaceleración en el crecimiento, se reportan mejoras en indicadores sociales como el desempleo y la pobreza.",
+      "author": null,
+      "publishedAt": "2026-05-28T03:14:53.000Z",
+      "readTimeMinutes": 1,
+      "content": "Colombia llega a las elecciones presidenciales con la necesidad de mejorar su desempeño económico, caracterizado por un déficit fiscal y una deuda pública alta. Aunque la economía ha mostrado señales de desaceleración, se han registrado avances en el ámbito social, como la disminución del desempleo y la pobreza.\n\nEl crecimiento del producto interno bruto (PIB) fue del 2,6% en 2025, tras un aumento del 1,5% en 2024. A pesar de evitar una recesión, el crecimiento ha sido moderado y ha enfrentado presiones fiscales. La inflación se desaceleró al 5,8% en abril, aunque se prevé un aumento.\n\nLa inversión extranjera directa ha mostrado debilidad, especialmente en sectores clave como petróleo y minería. El déficit fiscal se mantuvo en el 6,4% del PIB en 2025, y la deuda pública bruta es una de las más altas de la región. Las propuestas para abordar el déficit varían entre los candidatos a la presidencia.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/economia-colombia-en-cifras-como-recibe-la-economia-el-sucesor-de-gustavo-petro.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/programas/econom%C3%ADa/20260528-colombia-en-cifras-c%C3%B3mo-recibe-la-econom%C3%ADa-el-sucesor-de-gustavo-petro"
+    },
+    {
+      "id": "mientras-pelean-arriba-el-pueblo-abajo-se-muere-de-hambre-el-impacto-de-los-bloq",
+      "categoryId": "economy",
+      "title": "“Mientras pelean arriba, el pueblo abajo se muere de hambre”: el impacto de los bloqueos en Bolivia",
+      "summary": "Las protestas en Bolivia han generado una crisis de desabastecimiento, afectando la cadena de suministro y provocando escasez de alimentos, combustible y medicinas. Se reportan muertes por falta de atención médica debido a los bloqueos.",
+      "author": null,
+      "publishedAt": "2026-05-28T00:18:57.000Z",
+      "readTimeMinutes": 1,
+      "content": "Las recientes protestas en Bolivia han ocasionado una grave crisis de desabastecimiento, con pérdidas significativas en sectores productivos. Las ciudades de La Paz y El Alto enfrentan largas filas y especulación por productos básicos, así como escasez de combustible y medicinas. La situación ha llevado a la muerte de al menos cuatro personas por falta de atención médica.\n\nLos bloqueos han generado un impacto profundo en la vida cotidiana de los ciudadanos, incluyendo comerciantes y transportistas que no pueden operar normalmente. A pesar de los esfuerzos del gobierno para reducir tensiones, como la disminución de salarios, los manifestantes continúan exigiendo mejoras en la calidad de vida y condiciones laborales.\n\nLa crisis también afecta a la actividad económica, con reportes de carne y otros productos varados en distintas partes del país. La falta de oxígeno y medicamentos en hospitales ha creado una situación crítica para los pacientes, lo que agrava aún más la crisis social y económica en Bolivia.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/mientras-pelean-arriba-el-pueblo-abajo-se-muere-de-hambre-el-impacto-de-los-bloq.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/am%C3%A9rica-latina/20260528-mientras-pelean-arriba-el-pueblo-abajo-se-muere-de-hambre-el-impacto-de-los-bloqueos-en-bolivia"
+    },
+    {
+      "id": "el-sufrimiento-silencioso-de-los-ninos-en-gaza-que-han-perdido-la-capacidad-de-h",
+      "categoryId": "health",
+      "title": "El sufrimiento silencioso de los niños en Gaza que han perdido la capacidad de hablar - BBC News Mundo",
+      "summary": "Los niños en Gaza están sufriendo traumas severos que les han llevado a perder la capacidad de hablar. La violencia y la incertidumbre han afectado profundamente su desarrollo emocional y cognitivo.",
+      "author": null,
+      "publishedAt": "2026-05-28T03:43:56.000Z",
+      "readTimeMinutes": 1,
+      "content": "La violencia en Gaza ha provocado que muchos niños, como Adam, dejen de interactuar y hablar. Este comportamiento no es una elección consciente, sino una respuesta neurológica al estrés extremo y al trauma. La psicoterapeuta Katrin Glatz Brubakk ha documentado casos de niños que han perdido la habilidad de comunicarse debido a experiencias traumáticas.\n\nLos niños en Gaza enfrentan un entorno de constante peligro, lo que les genera un alto nivel de estrés. Este trauma afecta su desarrollo cerebral, ya que la amígdala se agranda y la corteza prefrontal se subdesarrolla. La falta de un entorno seguro y estable impide que estos niños puedan desarrollarse adecuadamente, lo que podría tener consecuencias a largo plazo en sus vidas.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/el-sufrimiento-silencioso-de-los-ninos-en-gaza-que-han-perdido-la-capacidad-de-h.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/cn8pjnl3m0go"
+    },
+    {
+      "id": "que-es-el-cortisol-que-funcion-cumple-esta-hormona-y-por-que-recomiendan-bajar-s",
+      "categoryId": "energy",
+      "title": "Qué es el cortisol, qué función cumple esta hormona y por qué recomiendan bajar sus niveles - BBC News Mundo",
+      "summary": "El cortisol es una hormona esencial para el cuerpo, involucrada en la respuesta al estrés y en diversas funciones metabólicas. Se recomienda no caer en mitos sobre sus efectos negativos sin un diagnóstico médico adecuado.",
+      "author": null,
+      "publishedAt": "2026-05-28T09:34:47.000Z",
+      "readTimeMinutes": 1,
+      "content": "El cortisol, conocido como la hormona del estrés, es producido por las glándulas suprarrenales y es crucial para varias funciones del organismo, como la regulación del metabolismo y la respuesta al estrés. Aunque se le atribuyen efectos negativos en redes sociales, expertos subrayan que no es un villano, sino una hormona necesaria para la vida.\n\nLos niveles de cortisol varían a lo largo del día y pueden aumentar en respuesta al estrés. Sin embargo, la relación entre altos niveles de cortisol y cambios físicos como aumento de peso o hinchazón puede ser engañosa, ya que estos síntomas pueden tener múltiples causas. Para determinar si los niveles de cortisol son elevados, se requiere un análisis médico.\n\nLos expertos aconsejan centrarse en reducir el estrés a través de hábitos saludables en lugar de obsesionarse con los niveles de cortisol. Consultar a un médico es fundamental si se presentan síntomas preocupantes relacionados con el estrés o cambios drásticos en el cuerpo.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/que-es-el-cortisol-que-funcion-cumple-esta-hormona-y-por-que-recomiendan-bajar-s.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/clyp01kddwko"
+    },
+    {
       "id": "invitad-del-dia-que-hay-detras-del-aumento-de-diagnosticos-por-enfermedades-ment",
       "categoryId": "health",
       "title": "Invitad@ del día - ¿Qué hay detrás del aumento de diagnósticos por enfermedades mentales a nivel global?",
