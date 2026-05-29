@@ -1,6 +1,71 @@
 {
   "articles": [
     {
+      "id": "economia-cae-el-desempleo-en-brasil-mientras-el-congreso-debate-reduccion-de-la",
+      "categoryId": "economy",
+      "title": "Economía - Cae el desempleo en Brasil mientras el Congreso debate reducción de la semana laboral",
+      "summary": "La tasa de desempleo en Brasil se redujo al 5,8%, interrumpiendo una serie de aumentos. Esto ocurre mientras se debate una enmienda constitucional para reducir la jornada laboral.",
+      "author": null,
+      "publishedAt": "2026-05-29T02:42:12.000Z",
+      "readTimeMinutes": 1,
+      "content": "La tasa de desocupación en Brasil se situó en 5,8% en la más reciente medición, marcando una disminución tras tres trimestres consecutivos de aumento. En el trimestre de febrero a abril de 2026, Brasil cerró con 6,3 millones de desempleados, lo que representa el 5,8% de la fuerza laboral.\n\nEl índice de informalidad también mostró un leve descenso, alcanzando el 37,2% de la población ocupada. Este dato es el más bajo registrado para este periodo, según el Instituto Brasileño de Geografía e Historia (IBGE).\n\nParalelamente, la Cámara de Diputados aprobó una enmienda constitucional que busca establecer un máximo de 40 horas de trabajo en cinco días, eliminando la jornada de seis días. Esta propuesta ha sido impulsada por el presidente Luiz Inácio Lula da Silva y se enviará a la Cámara Alta para su consideración.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/economia-cae-el-desempleo-en-brasil-mientras-el-congreso-debate-reduccion-de-la.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/programas/econom%C3%ADa/20260529-cae-el-desempleo-en-brasil-mientras-el-congreso-debate-reducci%C3%B3n-de-la-semana-laboral"
+    },
+    {
+      "id": "tu-avion-se-desvia-1000-millas-la-preocupante-guerra-invisible-del-gps-que-esta",
+      "categoryId": "technology",
+      "title": "\"Tu avión se desvía 1.000 millas\": la preocupante guerra invisible del GPS que está alterando el transporte aéreo - BBC News Mundo",
+      "summary": "La suplantación de GPS se ha vuelto común, afectando tanto a vuelos militares como comerciales. Los pilotos deben recurrir a sistemas de navegación alternativos debido a esta interferencia.",
+      "author": null,
+      "publishedAt": "2026-05-29T03:31:46.000Z",
+      "readTimeMinutes": 1,
+      "content": "La suplantación de GPS ha alterado el transporte aéreo, haciendo que aviones, incluidos los de la Fuerza Aérea Real Británica, indiquen ubicaciones incorrectas. Este fenómeno ocurre cuando se inundan áreas con señales que imitan las de los satélites GPS, lo que puede ser ejecutado por ejércitos para desorientar a las armas enemigas.\n\nMás de 100 aviones de pasajeros han transmitido ubicaciones erróneas debido a la suplantación, que se ha incrementado en regiones cercanas a conflictos bélicos. Los pilotos se ven obligados a utilizar sistemas de navegación menos precisos, aunque las autoridades aseguran que la seguridad no se ve comprometida.\n\nLa interferencia con el GPS no es ilegal y se permite por razones de seguridad. Sin embargo, expertos advierten que esto socava la seguridad en la aviación y sugieren la necesidad de desarrollar tecnologías más resistentes a estas interferencias.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/tu-avion-se-desvia-1000-millas-la-preocupante-guerra-invisible-del-gps-que-esta.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/cdjp03nmxxdo"
+    },
+    {
+      "id": "en-contexto-la-promesa-cumplida-de-trump-la-venganza-contra-sus-enemigos",
+      "categoryId": "society",
+      "title": "En Contexto - La promesa cumplida de Trump: la venganza contra sus enemigos",
+      "summary": "Donald Trump ha cumplido su promesa de ser la venganza para quienes considera afectados por la Administración Biden. Ha indultado procesados y creado fondos de indemnización.",
+      "author": null,
+      "publishedAt": "2026-05-29T00:36:16.000Z",
+      "readTimeMinutes": 1,
+      "content": "Donald Trump, en el contexto de su campaña electoral, prometió a sus aliados actuar como venganza contra aquellos que considera perjudicados por la Administración Biden. Actualmente, está cumpliendo esta promesa al indultar a procesados y establecer fondos de indemnización.\n\nAdemás, ha utilizado al Departamento de Justicia para combatir lo que criticó de su antecesor, es decir, el uso de la Justicia como arma política. Varios exfuncionarios, medios de comunicación y actores extranjeros han sido objeto de su atención.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/en-contexto-la-promesa-cumplida-de-trump-la-venganza-contra-sus-enemigos.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/programas/en-contexto/20260529-la-promesa-cumplida-de-trump-la-venganza-contra-sus-enemigos"
+    },
+    {
+      "id": "entre-pujanza-y-violencia-sera-antioquia-la-region-bisagra-de-las-presidenciales",
+      "categoryId": "technology",
+      "title": "Entre pujanza y violencia: ¿será Antioquia la región bisagra de las presidenciales en Colombia?",
+      "summary": "Antioquia es un departamento clave en las elecciones presidenciales de Colombia, enfrentando desafíos de seguridad y con una economía pujante. Los candidatos buscan captar el apoyo de esta región con propuestas diversas.",
+      "author": null,
+      "publishedAt": "2026-05-28T23:25:37.000Z",
+      "readTimeMinutes": 1,
+      "content": "Antioquia es un departamento crucial para los candidatos a la presidencia de Colombia, siendo el segundo más poblado y rico del país. En las elecciones del 31 de mayo, los candidatos Abelardo de la Espriella y Paloma Valencia buscan los votos de la derecha, mientras que Iván Cepeda representa a la izquierda, intentando obtener un apoyo significativo en esta región tradicionalmente conservadora.\n\nLa economía de Antioquia se destaca por su desarrollo industrial, con importantes sectores como confecciones textiles, alimentos y energía eléctrica. Actualmente, se están llevando a cabo grandes proyectos de infraestructura, como la hidroeléctrica Hidroituango y el túnel vial del Toyo, que buscan mejorar la competitividad de la región.\n\nSin embargo, Antioquia también enfrenta serios problemas de seguridad, con un aumento de la violencia y la presencia de grupos armados ilegales. Esto ha llevado a los candidatos a presentar propuestas que abordan la seguridad y el desarrollo social, reflejando la complejidad del contexto político y social del departamento.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/entre-pujanza-y-violencia-sera-antioquia-la-region-bisagra-de-las-presidenciales.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/am%C3%A9rica-latina/20260528-entre-pujanza-y-violencia-ser%C3%A1-antioquia-la-regi%C3%B3n-bisagra-de-las-presidenciales-de-colombia"
+    },
+    {
+      "id": "que-esta-buscando-la-gente-en-tu-ciudad-esta-semana",
+      "categoryId": "economy",
+      "title": "Qué está buscando la gente en tu ciudad esta semana",
+      "summary": "Esta semana analizamos las búsquedas reales hechas por personas en tu ciudad dentro de Nodo.",
+      "author": null,
+      "publishedAt": "2026-05-29T10:19:31.602Z",
+      "readTimeMinutes": 1,
+      "content": "Esta semana analizamos las búsquedas reales hechas por personas en tu ciudad dentro de Nodo. Los datos muestran con claridad hacia dónde se está moviendo la demanda local y qué oportunidades están apareciendo para los comercios.\n\nEn los últimos 7 días, las categorías con mayor crecimiento de interés fueron **Vehicles** y **Unclassified**. Esto indica un aumento de intención de compra en productos de alto valor, especialmente en transporte familiar y dispositivos personales.\n\nEntre las búsquedas que más se repitieron destacan términos como **\"mercedes\"** y **\"carro\"**, lo que sugiere una combinación interesante entre consumo inmediato y decisiones de compra relevantes.\n\nAccede al análisis completo por ciudad, categoría y tendencia en **Nodo Insights Pro**.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/que-esta-buscando-la-gente-en-tu-ciudad-esta-semana.webp",
+      "source": "Nodo AI, Inc",
+      "sourceUrl": "http://localhost:3000/analytics"
+    },
+    {
       "id": "invitad-del-dia-que-hay-detras-del-aumento-de-diagnosticos-por-enfermedades-ment",
       "categoryId": "health",
       "title": "Invitad@ del día - ¿Qué hay detrás del aumento de diagnósticos por enfermedades mentales a nivel global?",
