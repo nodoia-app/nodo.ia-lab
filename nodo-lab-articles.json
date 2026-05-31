@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "son-los-chequeos-medicos-de-los-presidentes-de-eeuu-un-mero-ejercicio-de-relacio",
+      "categoryId": "health",
+      "title": "¿Son los chequeos médicos de los presidentes de EE.UU. un mero ejercicio de relaciones públicas? - BBC News Mundo",
+      "summary": "Los chequeos médicos de los presidentes de EE.UU. son objeto de interés público y debate sobre su transparencia. Aunque los presidentes pueden compartir información sobre su salud, no están obligados a hacerlo.",
+      "author": null,
+      "publishedAt": "2026-05-30T22:36:47.000Z",
+      "readTimeMinutes": 1,
+      "content": "Los chequeos médicos anuales de los presidentes de EE.UU. han sido un tema de interés público, especialmente en el contexto de presidentes mayores. Estos exámenes no solo son una cuestión de salud, sino que también tienen un componente político, ya que los presidentes buscan proyectar vitalidad y poder. Sin embargo, no existe una obligación legal para que compartan su historial médico, lo que limita la transparencia en estos informes.\n\nHistóricamente, la divulgación de información médica ha variado. Desde el mandato de Lyndon B. Johnson, los resultados de los exámenes médicos comenzaron a hacerse públicos, aunque a menudo se limitan a detalles triviales. La salud del presidente también se considera una cuestión de seguridad nacional, ya que cualquier información divulgada podría ser conocida por adversarios extranjeros. En la actualidad, el interés por la salud de los presidentes ha aumentado, especialmente con la elección de mandatarios de mayor edad.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/son-los-chequeos-medicos-de-los-presidentes-de-eeuu-un-mero-ejercicio-de-relacio.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/cy92z0l9w2no"
+    },
+    {
+      "id": "el-director-de-la-oms-pide-combatir-el-ebola-en-el-epicentro-ante-mas-de-1000-ca",
+      "categoryId": "health",
+      "title": "El director de la OMS pide combatir el ébola en el epicentro ante más de 1.000 casos sospechosos",
+      "summary": "El director general de la OMS, Tedros Adhanom Ghebreyesus, enfatiza la importancia de la participación comunitaria en la lucha contra el brote de ébola en la República Democrática del Congo, donde hay más de 1.000 casos sospechosos.",
+      "author": null,
+      "publishedAt": "2026-05-30T13:34:02.000Z",
+      "readTimeMinutes": 1,
+      "content": "Tedros Adhanom Ghebreyesus, director general de la OMS, realizó una visita a la República Democrática del Congo para coordinar la respuesta al brote de ébola Bundibugyo. Durante su visita a Bunia, destacó que las comunidades locales deben jugar un papel crucial en la contención del virus, que se está propagando rápidamente.\n\nLa OMS reportó más de 1.000 casos sospechosos de ébola, y aunque se ha recibido ayuda internacional, la respuesta sigue siendo insuficiente. Tedros subrayó que el éxito de la estrategia depende de la apropiación de la misma por parte de los habitantes de las zonas afectadas. Además, se enfrenta a desafíos como la inseguridad y la falta de recursos para hacer frente a la emergencia.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/el-director-de-la-oms-pide-combatir-el-ebola-en-el-epicentro-ante-mas-de-1000-ca.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/%C3%A1frica/20260530-el-director-de-la-oms-pide-combatir-el-%C3%A9bola-en-el-epicentro-ante-m%C3%A1s-de-1-000-casos-sospechosos"
+    },
+    {
+      "id": "peru-cual-es-el-panorama-a-una-semana-del-balotaje-entre-fujimori-y-sanchez",
+      "categoryId": "technology",
+      "title": "Perú: ¿cuál es el panorama a una semana del balotaje entre Fujimori y Sánchez?",
+      "summary": "Perú se prepara para el balotaje entre Keiko Fujimori y Roberto Sánchez el 7 de junio. Ambos candidatos participarán en un único debate el 31 de mayo, donde se abordarán temas de interés para la clase media.",
+      "author": null,
+      "publishedAt": "2026-05-31T02:40:14.000Z",
+      "readTimeMinutes": 1,
+      "content": "El balotaje en Perú se llevará a cabo el 7 de junio, donde Keiko Fujimori y Roberto Sánchez competirán por la presidencia. Antes de las elecciones, se realizará un debate el 31 de mayo, en el que se espera que ambos candidatos eviten descalificaciones y agresiones, tal como lo solicitó el Tribunal de Honor del Pacto Ético Electoral.\n\nEl debate se centrará en cuatro ejes temáticos: seguridad ciudadana, fortalecimiento del Estado democrático y derechos humanos, educación y salud, y economía, empleo y reducción de la pobreza. Las encuestas muestran a Fujimori con una ligera ventaja, aunque un número significativo de votantes aún se encuentra indeciso.\n\nDesde el 1 de junio, comenzarán las restricciones electorales, prohibiendo la publicación de encuestas y la propaganda política, así como la venta de bebidas alcohólicas hasta el 8 de junio.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/peru-cual-es-el-panorama-a-una-semana-del-balotaje-entre-fujimori-y-sanchez.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/am%C3%A9rica-latina/20260531-per%C3%BA-cu%C3%A1l-es-el-panorama-a-una-semana-del-balotaje-entre-fujimori-y-s%C3%A1nchez"
+    },
+    {
+      "id": "cultura-amarga-navidad-y-el-afinador-dos-estrenos-de-cine-para-cerrar-mayo",
+      "categoryId": "entertainment",
+      "title": "Cultura - 'Amarga Navidad' y 'El afinador': dos estrenos de cine para cerrar mayo",
+      "summary": "Se presentan dos nuevos estrenos cinematográficos: 'Amarga Navidad' de Pedro Almodóvar y 'El afinador' de Daniel Roher. Ambos filmes llegan a la pantalla grande con diferentes enfoques y estilos.",
+      "author": null,
+      "publishedAt": "2026-05-31T01:26:39.000Z",
+      "readTimeMinutes": 1,
+      "content": "'Amarga Navidad' es la nueva película del cineasta español Pedro Almodóvar, que ha recibido críticas divididas tras su paso por el Festival de Cannes. Por otro lado, 'El afinador' es un thriller dirigido por el canadiense Daniel Roher, donde Leo Woodall interpreta a un afinador de piano que utiliza su oído supersensible para abrir cajas fuertes. Ambos filmes están disponibles en cines.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/cultura-amarga-navidad-y-el-afinador-dos-estrenos-de-cine-para-cerrar-mayo.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/programas/cultura/20260531-amarga-navidad-y-el-afinador-dos-estrenos-de-cine-para-cerrar-mayo"
+    },
+    {
       "id": "invitad-del-dia-que-hay-detras-del-aumento-de-diagnosticos-por-enfermedades-ment",
       "categoryId": "health",
       "title": "Invitad@ del día - ¿Qué hay detrás del aumento de diagnósticos por enfermedades mentales a nivel global?",
