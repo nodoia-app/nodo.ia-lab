@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "donald-trump-reconsidera-fondo-de-us1800-millones-para-sus-aliados",
+      "categoryId": "economy",
+      "title": "Donald Trump reconsidera fondo de US$1.800 millones para sus aliados",
+      "summary": "Donald Trump está reconsiderando un fondo de 1.800 millones de dólares destinado a sus aliados, que enfrenta desafíos legales y oposición dentro del Partido Republicano. El Departamento de Justicia ha suspendido temporalmente su implementación.",
+      "author": null,
+      "publishedAt": "2026-06-02T08:34:25.000Z",
+      "readTimeMinutes": 1,
+      "content": "Donald Trump está evaluando si continuar con un fondo de 1.800 millones de dólares creado para compensar a sus aliados. Esta decisión se produce tras la suspensión temporal de la implementación del fondo por parte del Departamento de Justicia, en cumplimiento de una orden judicial.\n\nEl fondo ha enfrentado críticas dentro del Partido Republicano, donde legisladores han expresado preocupaciones sobre la falta de supervisión en la distribución del dinero. Algunos republicanos han presionado para que se impongan límites o se descarte la idea del fondo por completo.\n\nEl Departamento de Justicia ha afirmado que cumplirá con la decisión judicial, aunque discrepa de ella. Además, se ha fijado una audiencia para el 12 de junio para discutir la posible extensión de la medida cautelar sobre el fondo.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/donald-trump-reconsidera-fondo-de-us1800-millones-para-sus-aliados.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260602-trump-reconsidera-fondo-de-compensaci%C3%B3n-de-1-800-millones-de-d%C3%B3lares-para-sus-aliados-ante-el-rechazo-republicano"
+    },
+    {
+      "id": "economia-florida-demanda-a-openai-y-sam-altman-por-presuntos-riesgos-de-chatgpt",
+      "categoryId": "technology",
+      "title": "Economía - Florida demanda a OpenAI y Sam Altman por presuntos riesgos de ChatGPT para menores de edad",
+      "summary": "El fiscal general de Florida presentó una demanda civil contra OpenAI y su CEO, Sam Altman, por los riesgos que ChatGPT representa para menores de edad. La demanda cuestiona los mecanismos de verificación de edad de la plataforma.",
+      "author": null,
+      "publishedAt": "2026-06-02T02:31:57.000Z",
+      "readTimeMinutes": 1,
+      "content": "El fiscal general de Florida ha presentado una demanda civil contra OpenAI, argumentando que ChatGPT representa riesgos para niños y adolescentes. La acción legal también incluye al director ejecutivo de OpenAI, Sam Altman, y critica la falta de mecanismos efectivos para verificar la edad de los usuarios.\n\nSegún el fiscal, OpenAI no ha tomado medidas suficientes para proteger a los menores que utilizan la herramienta. Se menciona que la plataforma puede resultar adictiva y que su capacidad para imitar comportamientos humanos podría llevar a los usuarios a compartir información personal.\n\nLa demanda también señala que la versión gratuita de ChatGPT carece de controles efectivos para comprobar la edad real de los usuarios. Aunque la versión de pago solicita información sobre la edad, no existen mecanismos robustos para verificarla ni herramientas para que los padres supervisen las conversaciones de los menores.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/economia-florida-demanda-a-openai-y-sam-altman-por-presuntos-riesgos-de-chatgpt.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/programas/econom%C3%ADa/20260602-florida-demanda-a-openai-y-sam-altman-por-presuntos-riesgos-de-chatgpt-para-menores-de-edad"
+    },
+    {
+      "id": "mundial-2026-blindado-funcionarios-federales-descartarian-redadas-migratorias-se",
+      "categoryId": "society",
+      "title": "¿Mundial 2026 blindado? Funcionarios federales descartarían redadas migratorias, según Los Ángeles",
+      "summary": "El sheriff del condado de Los Ángeles ha recibido garantías de que no habrá redadas del ICE durante los partidos de la Copa del Mundo. Se reforzará la seguridad en torno a los eventos, especialmente en los partidos de Irán.",
+      "author": null,
+      "publishedAt": "2026-06-02T02:23:48.000Z",
+      "readTimeMinutes": 1,
+      "content": "El sheriff del condado de Los Ángeles, Robert Luna, ha informado que funcionarios federales han asegurado que no se llevarán a cabo operaciones de control de inmigración durante los partidos de la Copa del Mundo en la ciudad. Esta declaración se realizó mientras se presentaban los planes de seguridad para los eventos que comienzan el 12 de junio.\n\nLuna también mencionó que habrá un aumento en la presencia policial en los partidos de Irán, debido a la situación actual entre Irán y Estados Unidos. Además, se implementarán restricciones estrictas sobre el uso de drones en las sedes del Mundial, con la capacidad de derribar drones que incumplan las normas de vuelo.\n\nEl fiscal del distrito de Los Ángeles advirtió que la presencia policial será notable y que se aplicarán sanciones severas a quienes cometan delitos durante el torneo.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/mundial-2026-blindado-funcionarios-federales-descartarian-redadas-migratorias-se.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/deportes/20260602-mundial-2026-blindado-funcionarios-federales-descartar%C3%ADan-redadas-migratorias-seg%C3%BAn-los-%C3%A1ngeles"
+    },
+    {
+      "id": "habia-olvidado-lo-que-se-siente-al-estar-al-aire-libre-como-es-la-primera-unidad",
+      "categoryId": "energy",
+      "title": "\"Había olvidado lo que se siente al estar al aire libre\": cómo es la primera unidad de cuidados intensivos ubicada en una azotea y rodeada de jardines - BBC News Mundo",
+      "summary": "Se ha inaugurado una unidad de cuidados intensivos al aire libre en la azotea de un hospital en el Reino Unido. Esta sala permite a los pacientes recibir atención médica mientras disfrutan de un entorno natural.",
+      "author": null,
+      "publishedAt": "2026-06-01T23:10:51.000Z",
+      "readTimeMinutes": 1,
+      "content": "Una nueva sala de cuidados intensivos al aire libre ha sido inaugurada en un hospital del Reino Unido, diseñada para mejorar el bienestar de los pacientes. Esta unidad, única en su tipo, permite a los pacientes conectarse a equipos médicos mientras están rodeados de naturaleza.\n\nLa sala cuenta con espacio para seis pacientes y está equipada con tomas de electricidad y oxígeno. Los médicos del hospital están monitoreando a los pacientes para evaluar si la exposición al aire libre contribuye a su recuperación. Se espera que esta innovación no solo beneficie a los pacientes, sino también al personal médico durante sus descansos.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/habia-olvidado-lo-que-se-siente-al-estar-al-aire-libre-como-es-la-primera-unidad.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/clypexw39ero"
+    },
+    {
       "id": "que-necesitan-de-la-espriella-y-cepeda-para-ganar-en-segunda-vuelta-y-convertirs",
       "categoryId": "economy",
       "title": "Qué necesitan De la Espriella y Cepeda para ganar en segunda vuelta y convertirse en presidente de Colombia - BBC News Mundo",
