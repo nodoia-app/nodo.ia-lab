@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "en-5-minutos-universidades-en-crisis-vale-aun-la-pena-un-titulo-universitario",
+      "categoryId": "society",
+      "title": "En 5 minutos - Universidades en crisis: ¿vale aún la pena un título universitario?",
+      "summary": "Las universidades a nivel mundial enfrentan una disminución en las matrículas, lo que cuestiona el valor de los títulos universitarios. Cada vez más jóvenes optan por alternativas educativas más rápidas y menos costosas.",
+      "author": null,
+      "publishedAt": "2026-06-02T20:02:29.000Z",
+      "readTimeMinutes": 1,
+      "content": "Las universidades en varios países de América, Asia y Europa están experimentando dificultades para llenar sus plazas, lo que ha llevado a una crisis de matrículas. Esta situación plantea interrogantes sobre el valor de los títulos universitarios en un contexto donde los jóvenes prefieren cursos especializados y certificaciones digitales.\n\nLa caída en la matrícula universitaria se da en medio de cambios significativos en el mercado laboral y el auge de la formación online. Cada vez más estudiantes buscan alternativas que les permitan incorporarse más rápidamente al mercado laboral y evitar el endeudamiento asociado a la educación universitaria. La situación actual puede ser vista como una transformación histórica en la percepción del valor de la educación superior.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/en-5-minutos-universidades-en-crisis-vale-aun-la-pena-un-titulo-universitario.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/programas/en-5-minutos/20260602-universidades-en-crisis-vale-a%C3%BAn-la-pena-un-t%C3%ADtulo-universitario"
+    },
+    {
+      "id": "iran-y-ee-uu-intensifican-las-hostilidades-en-medio-de-un-estancamiento-de-las-c",
+      "categoryId": "urban",
+      "title": "Irán y EE. UU. intensifican las hostilidades en medio de un estancamiento de las conversaciones",
+      "summary": "Las tensiones entre Irán y EE. UU. aumentan con ataques fallidos de misiles y drones. La diplomacia entre ambas naciones muestra pocos avances.",
+      "author": null,
+      "publishedAt": "2026-06-03T03:11:13.000Z",
+      "readTimeMinutes": 1,
+      "content": "Las hostilidades en el Golfo se intensificaron con ataques de misiles iraníes que fueron frustrados o fracasaron. El Comando Central de EE. UU. reportó que misiles dirigidos a Bahrein y Kuwait no alcanzaron sus objetivos, y que drones iraníes fueron derribados. En respuesta, fuerzas estadounidenses atacaron en la isla de Qeshm.\n\nDesde finales de febrero, Irán ha atacado repetidamente objetivos en la región del Golfo. El Comando Central afirmó que todos los ataques iraníes fueron infructuosos y que las fuerzas estadounidenses están preparadas para repeler cualquier agresión.\n\nA pesar de un acuerdo preliminar anunciado la semana pasada, ninguna de las partes lo ha ratificado. Los medios iraníes indican que no ha habido comunicación reciente con Washington, aunque el presidente Donald Trump asegura que las negociaciones continúan.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/iran-y-ee-uu-intensifican-las-hostilidades-en-medio-de-un-estancamiento-de-las-c.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/medio-oriente/20260603-ir%C3%A1n-y-ee-uu-intensifican-las-hostilidades-en-medio-de-un-estancamiento-de-las-conversaciones"
+    },
+    {
+      "id": "el-ministro-de-defensa-de-bolivia-renuncia-en-medio-de-las-protestas-contra-el-p",
+      "categoryId": "society",
+      "title": "El ministro de Defensa de Bolivia renuncia en medio de las protestas contra el presidente Paz",
+      "summary": "El ministro de Defensa de Bolivia renunció tras un mes de protestas antigubernamentales. Esta dimisión se suma a la del ministro de Educación.",
+      "author": null,
+      "publishedAt": "2026-06-03T02:18:02.000Z",
+      "readTimeMinutes": 1,
+      "content": "El ministro de Defensa de Bolivia, Marcelo Salinas, y la ministra de Educación, Beatriz García, renunciaron el 2 de junio en medio de protestas y bloqueos de carreteras. Estas manifestaciones son impulsadas por campesinos, obreros y seguidores del exmandatario Evo Morales, quienes exigen la salida del presidente Rodrigo Paz.\n\nLas ciudades más afectadas por los bloqueos son La Paz, El Alto y Oruro. Los sindicatos de campesinos y la Central Obrera Boliviana (COB) han participado activamente en estas protestas, demandando la reversión de medidas de austeridad y el control del costo de vida. Se reporta que Ernesto Justiniano ha sido designado como nuevo ministro de Defensa.\n\nEl conflicto comenzó con una huelga de trabajadores en mayo, lo que llevó a bloqueos que interrumpieron el acceso a las ciudades. El presidente Paz había anunciado cambios en su gabinete y medidas para declarar el estado de emergencia en respuesta a la situación.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/el-ministro-de-defensa-de-bolivia-renuncia-en-medio-de-las-protestas-contra-el-p.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/am%C3%A9rica-latina/20260603-el-ministro-de-defensa-de-bolivia-renuncia-en-medio-de-las-protestas-contra-el-presidente-paz"
+    },
+    {
+      "id": "la-polemica-por-los-exorbitantes-precios-del-transporte-publico-para-llegar-a-lo",
+      "categoryId": "economy",
+      "title": "La polémica por los exorbitantes precios del transporte público para llegar a los estadios del Mundial 2026 en EE.UU. - BBC News Mundo",
+      "summary": "Los altos precios del transporte público para asistir a los estadios del Mundial 2026 en EE.UU. han generado críticas. En Nueva York y Nueva Jersey, los costos de los billetes han sido objeto de controversia.",
+      "author": null,
+      "publishedAt": "2026-06-02T22:00:18.000Z",
+      "readTimeMinutes": 1,
+      "content": "Los precios del transporte público para el Mundial 2026 en EE.UU. han suscitado críticas entre aficionados y autoridades. En Nueva York y Nueva Jersey, el costo de un billete de tren de ida y vuelta al MetLife Stadium es de US$98, muy por encima del precio habitual de US$12. En Boston, el billete especial al Gillette Stadium cuesta US$80, cuatro veces más que en eventos deportivos normales.\n\nLa controversia se intensificó cuando NJ Transit anunció inicialmente un precio de US$150, lo que llevó a la FIFA a advertir sobre un posible efecto disuasorio en los aficionados. Aunque el precio se redujo, sigue siendo elevado en comparación con tarifas anteriores en otros Mundiales, donde se ofrecieron trenes gratuitos.\n\nAlgunas ciudades, como Miami, han optado por ofrecer transporte gratuito, mientras que otras han trasladado los costos a los aficionados. La FIFA ha modificado requisitos sobre el transporte, lo que ha generado un debate sobre quién debe asumir los costos de movilización de los aficionados.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/la-polemica-por-los-exorbitantes-precios-del-transporte-publico-para-llegar-a-lo.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/cvgz2519dvlo"
+    },
+    {
       "id": "que-necesitan-de-la-espriella-y-cepeda-para-ganar-en-segunda-vuelta-y-convertirs",
       "categoryId": "economy",
       "title": "Qué necesitan De la Espriella y Cepeda para ganar en segunda vuelta y convertirse en presidente de Colombia - BBC News Mundo",
