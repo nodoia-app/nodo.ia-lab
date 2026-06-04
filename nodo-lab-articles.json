@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "kim-jong-un-revela-planta-de-combustible-nuclear-y-advierte-que-reforzara-su-ars",
+      "categoryId": "technology",
+      "title": "Kim Jong-un revela planta de combustible nuclear y advierte que reforzará su arsenal de disuasión",
+      "summary": "Corea del Norte ha revelado una nueva instalación para la producción de combustible nuclear, mientras Kim Jong Un promete aumentar el arsenal nuclear del país. La planta utiliza tecnología avanzada, según medios estatales.",
+      "author": null,
+      "publishedAt": "2026-06-04T08:20:36.000Z",
+      "readTimeMinutes": 1,
+      "content": "Corea del Norte ha presentado una nueva instalación que se cree produce combustible para armas nucleares. Kim Jong Un ha declarado que el país ampliará sus fuerzas nucleares \"a un ritmo exponencial\". La agencia estatal KCNA informó que la planta utiliza tecnología más sofisticada, aunque no se dieron detalles sobre su ubicación o fecha de inicio de operaciones.\n\nLas fotografías mostraron lo que parece ser una sala de centrifugadoras, sugiriendo que la planta podría estar destinada al enriquecimiento de uranio. Kim visitó la instalación para revisar su funcionamiento y plan de producción a largo plazo, destacando la urgencia de reforzar la disuasión nuclear del país debido a amenazas no especificadas.\n\nAdemás, Kim afirmó que la capacidad de producción de materiales nucleares aptos para armas se ha más que duplicado en comparación con hace cinco años, aunque no hay formas de verificar esta afirmación de manera independiente. La revelación de esta instalación se produce menos de dos años después de que Corea del Norte presentara otra planta secreta de enriquecimiento de uranio.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/kim-jong-un-revela-planta-de-combustible-nuclear-y-advierte-que-reforzara-su-ars.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/asia-pac%C3%ADfico/20260604-corea-del-norte-presenta-una-planta-para-producir-combustible-para-armas-nucleares"
+    },
+    {
+      "id": "toda-mi-vida-estudie-como-los-virus-evolucionan-y-sobreviven-y-ahora-aplico-eso",
+      "categoryId": "technology",
+      "title": "\"Toda mi vida estudié cómo los virus evolucionan y sobreviven, y ahora aplico eso ante el agresivo cáncer cerebral que tengo\" - BBC News Mundo",
+      "summary": "Gonzalo Moratorio, virólogo y profesor, padece un glioblastoma y busca financiamiento para su tratamiento. A pesar de su enfermedad, continúa investigando formas de combatir este tipo de cáncer.",
+      "author": null,
+      "publishedAt": "2026-06-04T09:30:17.000Z",
+      "readTimeMinutes": 1,
+      "content": "Gonzalo Moratorio, responsable del Laboratorio de Evolución Experimental de Virus, fue diagnosticado con un glioblastoma hace un año. Su tratamiento ha sido financiado inicialmente por fondos familiares y donaciones, pero la inmunoterapia que recibe requiere medicamentos costosos que han sido difíciles de obtener. A pesar de esto, ha recurrido a la Justicia para garantizar su acceso a la medicación.\n\nMoratorio también busca participar en un ensayo clínico para una terapia experimental Car-T, que requiere un alto costo. A pesar de su situación, sigue investigando sobre glioblastomas, convencido de que lo aprendido puede ayudar a otros pacientes en el futuro. Su trabajo y dedicación a la ciencia continúan, incluso en medio de su lucha personal contra el cáncer.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/toda-mi-vida-estudie-como-los-virus-evolucionan-y-sobreviven-y-ahora-aplico-eso.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/c78k24vex9eo"
+    },
+    {
+      "id": "economia-trump-amenaza-con-nuevos-aranceles-a-60-economias-por-presuntas-practic",
+      "categoryId": "economy",
+      "title": "Economía - Trump amenaza con nuevos aranceles a 60 economías por presuntas prácticas de trabajo forzado",
+      "summary": "La Administración de Donald Trump evalúa imponer aranceles adicionales a más de 60 economías por presuntas prácticas de trabajo forzado. Esta medida busca presionar cambios en las cadenas globales de suministro.",
+      "author": null,
+      "publishedAt": "2026-06-04T02:25:28.000Z",
+      "readTimeMinutes": 1,
+      "content": "La Administración de Donald Trump está considerando la imposición de aranceles adicionales de 10% o 12,5% a más de 60 economías, incluyendo a China, Canadá, México y Brasil. Esta acción se basa en una investigación sobre trabajo forzoso cuyos resultados aún no han sido publicados.\n\nWashington afirma que estas economías no han tomado medidas adecuadas para detener el comercio de bienes producidos mediante trabajo forzado. La Casa Blanca busca reconstruir su estrategia comercial tras la anulación de aranceles de emergencia por parte del Tribunal Supremo de Estados Unidos.\n\nLos funcionarios del equipo económico de Trump argumentan que las mercancías producidas con trabajo forzado distorsionan los mercados internacionales y afectan la competitividad de las empresas estadounidenses. Entre los países señalados se encuentran también Ecuador, Argentina, El Salvador y Guatemala, así como varios países asiáticos y europeos.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/economia-trump-amenaza-con-nuevos-aranceles-a-60-economias-por-presuntas-practic.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/programas/econom%C3%ADa/20260604-trump-amenaza-con-nuevos-aranceles-a-60-econom%C3%ADas-por-presuntas-pr%C3%A1cticas-de-trabajo-forzado"
+    },
+    {
+      "id": "balotaje-en-peru-cuales-son-las-propuestas-de-keiko-fujimori-y-de-roberto-sanche",
+      "categoryId": "economy",
+      "title": "Balotaje en Perú: ¿cuáles son las propuestas de Keiko Fujimori y de Roberto Sánchez?",
+      "summary": "Keiko Fujimori y Roberto Sánchez presentan sus propuestas para el balotaje en Perú. Fujimori se enfoca en la inversión privada y la seguridad, mientras que Sánchez propone un mayor rol del Estado y redistribución de recursos.",
+      "author": null,
+      "publishedAt": "2026-06-03T20:29:03.000Z",
+      "readTimeMinutes": 1,
+      "content": "Keiko Fujimori, candidata de Fuerza Popular, propone un enfoque en la inversión privada como motor de crecimiento, con incentivos tributarios y estabilidad macroeconómica. Su plan incluye medidas para combatir la inseguridad, como la construcción de megapenales y la implementación de una red de videovigilancia. También plantea la telemedicina y el fortalecimiento de programas de salud y educación.\n\nPor otro lado, Roberto Sánchez, de Juntos por el Perú, presenta un plan que aboga por un mayor rol del Estado y la redistribución de recursos. Su propuesta incluye la nacionalización de activos estratégicos y una reforma educativa. En seguridad, su enfoque es institucional, proponiendo la creación de una Policía de Investigaciones y reformas internas en la institución policial.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/balotaje-en-peru-cuales-son-las-propuestas-de-keiko-fujimori-y-de-roberto-sanche.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/am%C3%A9rica-latina/20260603-balotaje-en-per%C3%BA-cu%C3%A1les-son-las-propuestas-de-keiko-fujimori-y-de-roberto-s%C3%A1nchez"
+    },
+    {
       "id": "que-necesitan-de-la-espriella-y-cepeda-para-ganar-en-segunda-vuelta-y-convertirs",
       "categoryId": "economy",
       "title": "Qué necesitan De la Espriella y Cepeda para ganar en segunda vuelta y convertirse en presidente de Colombia - BBC News Mundo",
