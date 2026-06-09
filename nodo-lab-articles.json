@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "economia-bolivia-anuncia-ayudas-economicas-mientras-los-bloqueos-agravan-la-cris",
+      "categoryId": "economy",
+      "title": "Economía - Bolivia anuncia ayudas económicas mientras los bloqueos agravan la crisis",
+      "summary": "El presidente boliviano, Rodrigo Paz, anunció un paquete de medidas económicas para mitigar el impacto de los bloqueos en el país. Las protestas continúan y las pérdidas económicas superan los 2.300 millones de dólares.",
+      "author": null,
+      "publishedAt": "2026-06-09T02:55:04.000Z",
+      "readTimeMinutes": 1,
+      "content": "El presidente de Bolivia, Rodrigo Paz, ha presentado un conjunto de medidas para abordar la crisis económica provocada por los bloqueos que afectan gran parte del país. Estas medidas incluyen la reprogramación de deudas bancarias y la creación de un fondo de garantías para el sector del transporte, así como recursos para pacientes con enfermedades graves.\n\nLas protestas, lideradas por sindicatos campesinos y otros grupos, exigen la renuncia de Paz y han rechazado el diálogo con el gobierno. A pesar de las nuevas medidas, las pérdidas económicas continúan acumulándose, afectando especialmente a las regiones andina y central del país, donde los bloqueos han causado desabastecimiento de productos esenciales.\n\nLos efectos de la crisis se reflejan en el cierre de negocios y despidos, lo que amenaza la supervivencia de pequeños emprendimientos. La Confederación Nacional de la Micro y Pequeña Empresa ha señalado que cerca del 90% de la población trabajadora depende de actividades independientes, las cuales están siendo gravemente afectadas por la situación actual.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/economia-bolivia-anuncia-ayudas-economicas-mientras-los-bloqueos-agravan-la-cris.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/programas/econom%C3%ADa/20260609-bolivia-anuncia-ayudas-econ%C3%B3micas-mientras-los-bloqueos-agravan-la-crisis"
+    },
+    {
+      "id": "como-los-recientes-ataques-de-iran-contra-israel-indican-que-teheran-se-siente-c",
+      "categoryId": "energy",
+      "title": "Cómo los recientes ataques de Irán contra Israel indican que Teherán se siente cada vez más fuerte - BBC News Mundo",
+      "summary": "Irán lanzó misiles y drones contra Israel en respuesta a ataques israelíes contra Hezbolá. Aunque el impacto militar fue limitado, la acción tiene implicaciones políticas significativas.",
+      "author": null,
+      "publishedAt": "2026-06-09T07:37:59.000Z",
+      "readTimeMinutes": 1,
+      "content": "Irán realizó ataques con misiles y drones contra Israel tras un bombardeo israelí en Líbano. Esta acción se considera diferente a represalias anteriores, ya que se llevó a cabo en apoyo a un aliado. A pesar de la presión militar y las sanciones, Irán ha mantenido su gobierno y su aparato de seguridad intactos.\n\nEl ataque podría interpretarse como un intento de disuasión, señalando que los ataques a sus aliados no serán considerados por separado de los ataques a Irán. Esto es relevante para Hezbolá y otros grupos aliados. La decisión de atacar se produce en un contexto donde se sugiere que podría haber un acuerdo diplomático cercano entre Irán y Estados Unidos.\n\nLas reacciones en Irán son mixtas, con algunos apoyando la acción y otros cuestionando las prioridades del gobierno. Existe preocupación sobre el rumbo de la confrontación y si esto podría llevar a un conflicto a gran escala. La situación refleja un liderazgo iraní que se siente más seguro y que podría estar buscando negociar desde una posición de fuerza.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/como-los-recientes-ataques-de-iran-contra-israel-indican-que-teheran-se-siente-c.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/cj4gdwv4lwdo"
+    },
+    {
+      "id": "cosmeticorexia-como-las-ninas-estan-cayendo-en-la-peligrosa-obsesion-de-tener-un",
+      "categoryId": "society",
+      "title": "Cosmeticorexia: cómo las niñas están cayendo en la peligrosa obsesión de tener una piel perfecta - BBC News Mundo",
+      "summary": "El fenómeno de la cosmeticorexia se refiere a la obsesión poco saludable por lograr una piel perfecta desde una edad temprana. Este comportamiento ha sido observado en niñas que utilizan múltiples productos cosméticos y pasan horas en redes sociales.",
+      "author": null,
+      "publishedAt": "2026-06-09T09:19:37.000Z",
+      "readTimeMinutes": 1,
+      "content": "La cosmeticorexia es un término acuñado para describir la obsesión por tener una piel perfecta, que afecta a niñas desde una edad temprana. Se ha observado que muchas de ellas utilizan hasta 10 productos diferentes al día y pasan horas viendo videos de cuidado de la piel en redes sociales. Este fenómeno ha llevado a un aumento en el uso de productos cosméticos entre los más jóvenes, lo que ha generado preocupaciones sobre su salud mental y física.\n\nUn estudio indica que casi la mitad de los niños de 9 a 12 años usa múltiples productos semanalmente, muchos de los cuales contienen ingredientes antienvejecimiento. Esto ha creado una industria millonaria en crecimiento, pero también ha suscitado llamados a la cautela por parte de reguladores y expertos en salud. La presión social y la influencia de las redes pueden llevar a los niños a desarrollar una imagen distorsionada de sí mismos, afectando su autoestima y bienestar emocional.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/cosmeticorexia-como-las-ninas-estan-cayendo-en-la-peligrosa-obsesion-de-tener-un.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/cp8rle1311zo"
+    },
+    {
+      "id": "asciende-a-37-el-numero-de-muertos-por-el-terremoto-de-magnitud-78-en-filipinas",
+      "categoryId": "energy",
+      "title": "Asciende a 37 el número de muertos por el terremoto de magnitud 7,8 en Filipinas",
+      "summary": "El número de muertos por el terremoto de magnitud 7,8 en Filipinas ha aumentado a 37. Las autoridades reportan más de 500 heridos y daños significativos en edificios.",
+      "author": null,
+      "publishedAt": "2026-06-08T22:15:51.000Z",
+      "readTimeMinutes": 1,
+      "content": "El 9 de junio, se reportó que el número de muertos por el terremoto de magnitud 7,8 en Filipinas ascendió a 37. Las autoridades informaron que más de 500 personas resultaron heridas, principalmente por el colapso de edificios y un tsunami de un metro que afectó las costas cercanas.\n\nEl epicentro del sismo se localizó en el mar, frente a Mindanao, a una profundidad de 33 kilómetros. En General Santos, varios edificios se derrumbaron, y se registraron daños significativos en otras áreas. Las réplicas del terremoto también se sintieron en diversas provincias, con al menos nueve réplicas fuertes reportadas.\n\nEl presidente Ferdinand Marcos Jr. ordenó la cancelación de clases y activó a los organismos de respuesta ante desastres. Las autoridades están evaluando los daños y han levantado la alerta de tsunami tras la disminución de la amenaza.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/asciende-a-37-el-numero-de-muertos-por-el-terremoto-de-magnitud-78-en-filipinas.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/asia-pac%C3%ADfico/20260608-terremoto-de-magnitud-7-8-en-filipinas-deja-al-menos-35-muertos-cientos-de-heridos-y-olas-gigantes"
+    },
+    {
       "id": "la-violencia-se-aduena-de-bolivia-decenas-de-heridos-incluidos-policias-en-inten",
       "categoryId": "economy",
       "title": "La violencia se adueña de Bolivia: decenas de heridos, incluidos policías, en intento de desbloqueo",
