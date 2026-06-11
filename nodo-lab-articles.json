@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "economia-la-ue-exige-a-meta-abrir-whatsapp-a-chatbots-rivales-y-amenaza-con-mult",
+      "categoryId": "economy",
+      "title": "Economía - La UE exige a Meta abrir WhatsApp a chatbots rivales y amenaza con multas millonarias",
+      "summary": "La Comisión Europea ordenó a Meta permitir el acceso de asistentes de inteligencia artificial competidores a WhatsApp. Esta medida se enmarca en una investigación antimonopolio y podría resultar en sanciones significativas para la empresa.",
+      "author": null,
+      "publishedAt": "2026-06-10T04:16:15.000Z",
+      "readTimeMinutes": 1,
+      "content": "La Comisión Europea ha solicitado a Meta que restablezca el acceso de chatbots y asistentes de inteligencia artificial de terceros a WhatsApp en un plazo de cinco días hábiles. Esta acción se produce en el contexto de una investigación sobre posibles prácticas anticompetitivas por parte de la compañía.\n\nLa decisión de la Comisión se basa en preocupaciones sobre el uso de la posición dominante de Meta para restringir el acceso de competidores a WhatsApp. Se argumenta que estas restricciones podrían infringir las normas de competencia europeas y causar daños irreparables en un mercado emergente.\n\nLa comisaria de Competencia, Teresa Ribera, enfatizó que la medida busca evitar un perjuicio grave para la competencia en el sector de la inteligencia artificial. La investigación formal se inició en diciembre, tras la modificación de las condiciones de acceso por parte de Meta en octubre de 2025.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/economia-la-ue-exige-a-meta-abrir-whatsapp-a-chatbots-rivales-y-amenaza-con-mult.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/programas/econom%C3%ADa/20260610-la-ue-exige-a-meta-abrir-whatsapp-a-chatbots-rivales-y-amenaza-con-multas-millonarias"
+    },
+    {
+      "id": "en-5-minutos-europa-cambia-las-reglas-de-la-migracion-que-implica-el-nuevo-pacto",
+      "categoryId": "society",
+      "title": "En 5 minutos - Europa cambia las reglas de la migración: ¿qué implica el nuevo pacto?",
+      "summary": "El 12 de junio entra en vigor el nuevo Pacto Europeo de Migración y Asilo, que busca reformar la distribución de responsabilidades entre los Estados miembros. Este acuerdo refleja un cambio en la forma en que Europa aborda la migración.",
+      "author": null,
+      "publishedAt": "2026-06-09T20:56:45.000Z",
+      "readTimeMinutes": 1,
+      "content": "El nuevo Pacto Europeo de Migración y Asilo se implementará el 12 de junio, abordando el debate sobre cómo repartir la responsabilidad de acoger a migrantes y solicitantes de asilo en la Unión Europea. Esta reforma no solo introduce cambios técnicos, sino que también indica una transformación en las políticas migratorias europeas.\n\nEl pacto plantea preguntas sobre un posible endurecimiento de las políticas migratorias y sus implicaciones para los países de primera entrada y para quienes buscan refugio en Europa. Se considera que esta reforma podría redefinir el modelo migratorio europeo en las próximas décadas.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/en-5-minutos-europa-cambia-las-reglas-de-la-migracion-que-implica-el-nuevo-pacto.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/programas/en-5-minutos/20260609-europa-cambia-las-reglas-de-la-migraci%C3%B3n-qu%C3%A9-implica-el-nuevo-pacto"
+    },
+    {
+      "id": "eeuu-lanza-ataques-contra-iran-como-represalia-por-el-derribo-de-un-helicoptero",
+      "categoryId": "technology",
+      "title": "EE.UU. lanza ataques contra Irán como represalia por el derribo de un helicóptero militar - BBC News Mundo",
+      "summary": "Estados Unidos realizó ataques militares contra Irán tras el derribo de un helicóptero Apache. El Mando Central de EE.UU. informó sobre la operación en respuesta a la agresión iraní.",
+      "author": null,
+      "publishedAt": "2026-06-10T06:47:13.000Z",
+      "readTimeMinutes": 1,
+      "content": "Estados Unidos llevó a cabo ataques militares contra Irán después de que se acusara al país de derribar un helicóptero Apache. El Mando Central de EE.UU. indicó que los ataques comenzaron en respuesta al incidente. Por su parte, el Cuerpo de la Guardia Revolucionaria Islámica de Irán afirmó haber atacado 21 objetivos en bases estadounidenses en la región.\n\nLos dos tripulantes del helicóptero derribado fueron rescatados por un dron marítimo de EE.UU. El Centcom informó que los soldados se encuentran en condición estable. La situación se desarrolla en un contexto de alta tensión regional, con informes de explosiones y actividad de defensa aérea en la costa del golfo Pérsico.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/eeuu-lanza-ataques-contra-iran-como-represalia-por-el-derribo-de-un-helicoptero.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/c70y4w32y9yo"
+    },
+    {
+      "id": "como-es-vivir-en-uno-de-los-5-paises-mas-seguros-del-mundo-bbc-news-mundo",
+      "categoryId": "energy",
+      "title": "Cómo es vivir en uno de los 5 países más seguros del mundo - BBC News Mundo",
+      "summary": "El Índice de Paz Global de 2026 clasifica a 163 naciones según 23 indicadores. Islandia, Nueva Zelanda, Suiza, Eslovenia e Irlanda son los cinco países más seguros del mundo.",
+      "author": null,
+      "publishedAt": "2026-06-09T23:47:01.000Z",
+      "readTimeMinutes": 1,
+      "content": "El Índice de Paz Global, elaborado por el Instituto para la Economía y la Paz, clasifica a 163 países en función de diversos indicadores relacionados con la seguridad y la violencia. En 2026, Islandia se mantiene como el país más seguro del mundo, seguido por Nueva Zelanda, Suiza, Eslovenia e Irlanda.\n\nIslandia ha liderado el índice desde 2008, destacándose por su baja violencia y escasa militarización. Nueva Zelanda ha mejorado su posición gracias a una reducción en las importaciones de armas. Suiza, que ha subido al tercer lugar, combina bajas tasas de criminalidad con una política de neutralidad militar. Eslovenia y Irlanda también destacan por sus altos niveles de seguridad y bajo gasto militar.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/como-es-vivir-en-uno-de-los-5-paises-mas-seguros-del-mundo-bbc-news-mundo.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/ckg8v287g8do"
+    },
+    {
       "id": "la-violencia-se-aduena-de-bolivia-decenas-de-heridos-incluidos-policias-en-inten",
       "categoryId": "economy",
       "title": "La violencia se adueña de Bolivia: decenas de heridos, incluidos policías, en intento de desbloqueo",
