@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "el-agotamiento-que-producen-las-apps-de-citas-y-4-consejos-para-evitarlo-bbc-new",
+      "categoryId": "technology",
+      "title": "El agotamiento que producen las apps de citas y 4 consejos para evitarlo - BBC News Mundo",
+      "summary": "Las aplicaciones de citas pueden causar agotamiento emocional en sus usuarios, afectando su salud mental. Se presentan cuatro consejos para mitigar este fenómeno.",
+      "author": null,
+      "publishedAt": "2026-06-15T09:31:48.000Z",
+      "readTimeMinutes": 1,
+      "content": "El uso de aplicaciones de citas ha sido asociado con un patrón de agotamiento emocional, similar al que se observa en entornos laborales estresantes. Los usuarios reportan sentimientos de soledad, ansiedad y depresión, especialmente aquellos que ya enfrentan dificultades emocionales. Este fenómeno se ha vuelto común, con muchos sintiendo que las aplicaciones no cumplen con sus expectativas de encontrar pareja.\n\nPara evitar el agotamiento, se sugieren cuatro estrategias: no depender únicamente de las aplicaciones para conocer personas, deslizar con intención y establecer límites de tiempo, apoyarse en amigos para compartir experiencias y saber cuándo es necesario alejarse de las aplicaciones. Estas medidas pueden ayudar a mantener una mejor salud mental y evitar la frustración que a menudo acompaña a la búsqueda de pareja en línea.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/el-agotamiento-que-producen-las-apps-de-citas-y-4-consejos-para-evitarlo-bbc-new.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/c042yrqv1y6o"
+    },
+    {
+      "id": "una-paz-con-puntos-por-definir-que-se-sabe-del-acuerdo-inicial-entre-ee-uu-e-ira",
+      "categoryId": "economy",
+      "title": "Una paz con puntos por definir: ¿Qué se sabe del acuerdo inicial entre EE. UU. e Irán anunciado por Pakistán?",
+      "summary": "Se ha anunciado un acuerdo preliminar entre Estados Unidos e Irán, mediado por Pakistán, que incluye la terminación de operaciones militares. Sin embargo, Irán establece condiciones para el alivio de sanciones.",
+      "author": null,
+      "publishedAt": "2026-06-15T04:11:11.000Z",
+      "readTimeMinutes": 1,
+      "content": "Un acuerdo preliminar entre Estados Unidos e Irán fue anunciado por el primer ministro pakistaní, quien destacó la terminación inmediata y permanente de operaciones militares en varios frentes. Este pacto, que se firmará el 19 de junio en Suiza, busca desactivar las hostilidades y extender un alto el fuego.\n\nA pesar de las declaraciones optimistas, Irán ha dejado claro que las negociaciones sobre un acuerdo más amplio comenzarán solo después de que se cumplan ciertos compromisos. Además, el vicecanciller iraní mencionó que el acuerdo debe incluir el alivio de sanciones, aunque no se especificó una apertura inmediata del Estrecho de Ormuz.\n\nLos mercados han reaccionado positivamente al anuncio, con caídas en los precios del petróleo. Sin embargo, se anticipa que el flujo de carburantes por el estrecho tomará tiempo en normalizarse, dependiendo de futuras negociaciones sobre el programa nuclear iraní.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/una-paz-con-puntos-por-definir-que-se-sabe-del-acuerdo-inicial-entre-ee-uu-e-ira.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/medio-oriente/20260615-una-paz-con-puntos-por-definir-qu%C3%A9-se-sabe-del-acuerdo-inicial-entre-ee-uu-e-ir%C3%A1n-anunciado-por-pakist%C3%A1n"
+    },
+    {
+      "id": "el-acuerdo-entre-eeuu-e-iran-es-un-bienvenido-regalo-de-cumpleanos-para-trump-pe",
+      "categoryId": "technology",
+      "title": "El acuerdo entre EE.UU. e Irán es un bienvenido regalo de cumpleaños para Trump, pero está envuelto en incertidumbre: análisis de la BBC - BBC News Mundo",
+      "summary": "El acuerdo para poner fin a las hostilidades entre EE.UU. e Irán presenta incertidumbres sobre su implementación. Las negociaciones sobre el enriquecimiento de uranio y el cumplimiento de compromisos son clave para su éxito.",
+      "author": null,
+      "publishedAt": "2026-06-15T07:41:41.000Z",
+      "readTimeMinutes": 1,
+      "content": "El anuncio del acuerdo entre EE.UU. e Irán ha sido recibido con optimismo, aunque persisten dudas sobre detalles cruciales. El vicepresidente de EE.UU. afirmó que el acuerdo incluye la verificación de que Irán no posea armas nucleares.\n\nSin embargo, hay incertidumbres sobre las restricciones al enriquecimiento de uranio y el futuro de las reservas de uranio altamente enriquecido de Irán. Se espera que estas cuestiones se aborden en negociaciones posteriores durante una prórroga de 60 días del alto el fuego actual.\n\nExpertos advierten que el transporte de petróleo a través del estrecho de Ormuz no volverá de inmediato a los niveles previos a la guerra. Además, la situación podría verse afectada por acciones de Israel, lo que añade un factor impredecible al acuerdo.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/el-acuerdo-entre-eeuu-e-iran-es-un-bienvenido-regalo-de-cumpleanos-para-trump-pe.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/c4gy07xrvejo"
+    },
+    {
+      "id": "eeuu-e-iran-anuncian-un-acuerdo-para-alcanzar-la-paz-y-reabrir-el-estrecho-de-or",
+      "categoryId": "technology",
+      "title": "EE.UU. e Irán anuncian un acuerdo para alcanzar la paz y reabrir el estrecho de Ormuz - BBC News Mundo",
+      "summary": "Estados Unidos e Irán han alcanzado un acuerdo de paz tras intensas conversaciones. Se espera que la firma oficial del acuerdo tenga lugar en Suiza.",
+      "author": null,
+      "publishedAt": "2026-06-15T02:53:14.000Z",
+      "readTimeMinutes": 1,
+      "content": "El primer ministro de Pakistán, Shehbaz Sharif, anunció que se ha llegado a un acuerdo de paz entre Estados Unidos e Irán. Ambas partes han declarado el cese inmediato y permanente de las operaciones militares en todos los frentes, incluido Líbano. La ceremonia de firma del acuerdo está programada para el próximo viernes en Suiza.\n\nEl presidente de Estados Unidos, Donald Trump, confirmó el acuerdo y autorizó la apertura del estrecho de Ormuz sin restricciones, así como el levantamiento del bloqueo naval de Estados Unidos. Por su parte, el viceministro de Asuntos Exteriores de Irán, Kazem Gharibabadi, también confirmó el acuerdo y el fin de las operaciones militares.\n\nEl acuerdo ha sido presentado por algunos medios iraníes como una victoria para Irán. Se espera que el vicepresidente de EE.UU. asista a la firma del acuerdo en Ginebra. Aunque el acuerdo busca aliviar tensiones, los detalles sobre el futuro del programa nuclear de Irán no han sido especificados.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/eeuu-e-iran-anuncian-un-acuerdo-para-alcanzar-la-paz-y-reabrir-el-estrecho-de-or.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/cgev1y580ydo"
+    },
+    {
       "id": "economia-la-ue-exige-a-meta-abrir-whatsapp-a-chatbots-rivales-y-amenaza-con-mult",
       "categoryId": "economy",
       "title": "Economía - La UE exige a Meta abrir WhatsApp a chatbots rivales y amenaza con multas millonarias",
