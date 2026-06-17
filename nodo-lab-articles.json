@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "abelardo-de-la-espriella-e-ivan-cepeda-como-se-comparan-las-propuestas-de-los-ri",
+      "categoryId": "economy",
+      "title": "Abelardo de la Espriella e Iván Cepeda: cómo se comparan las propuestas de los rivales en las elecciones a la presidencia de Colombia - BBC News Mundo",
+      "summary": "Abelardo de la Espriella e Iván Cepeda se enfrentan en el balotaje presidencial en Colombia. De la Espriella propone mano dura y crecimiento económico, mientras que Cepeda aboga por reformas sociales y protagonismo del Estado.",
+      "author": null,
+      "publishedAt": "2026-06-16T10:56:15.000Z",
+      "readTimeMinutes": 1,
+      "content": "En las elecciones presidenciales de Colombia, Abelardo de la Espriella e Iván Cepeda son los candidatos en la segunda vuelta. De la Espriella, un candidato de derecha, se presenta como un \"outsider\" con propuestas de mano dura y un enfoque en el crecimiento económico. Por otro lado, Cepeda, representante de la izquierda, busca continuar con el progresismo del actual presidente, ofreciendo reformas sociales y un mayor papel del Estado en la economía.\n\nAmbos candidatos tienen visiones distintas sobre cómo dirigir el país en los próximos cuatro años. La elección se llevará a cabo el 21 de junio, y los votantes tendrán la oportunidad de decidir entre estas dos propuestas contrastantes.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/abelardo-de-la-espriella-e-ivan-cepeda-como-se-comparan-las-propuestas-de-los-ri.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/cevlx1y9zr1o"
+    },
+    {
+      "id": "como-la-economia-de-eeuu-continua-superando-a-las-de-sus-rivales-contra-todo-pro",
+      "categoryId": "economy",
+      "title": "Cómo la economía de EE.UU. continúa superando a las de sus rivales contra todo pronóstico - BBC News Mundo",
+      "summary": "La economía estadounidense sigue creciendo a pesar de los desafíos globales. Factores como la inversión en capital y la producción de energía han contribuido a su resiliencia.",
+      "author": null,
+      "publishedAt": "2026-06-16T18:25:24.000Z",
+      "readTimeMinutes": 1,
+      "content": "La economía de EE.UU. ha mostrado un crecimiento estable a pesar de los impactos económicos globales, como los aranceles y el conflicto en Medio Oriente. La inversión de capital se mantiene en un 13,9% del PIB, lo que indica un dinamismo en el sector. Además, la producción de petróleo y gas a partir de esquisto ha reducido la vulnerabilidad del país frente a los precios del petróleo.\n\nA diferencia de Europa, que depende de contratos a largo plazo, EE.UU. ha adoptado un enfoque más flexible, lo que le ha permitido adaptarse mejor a las fluctuaciones del mercado. Sin embargo, la desigualdad y la inflación son preocupaciones que podrían afectar la estabilidad a largo plazo de la economía estadounidense. A pesar de estos riesgos, la economía sigue siendo robusta en comparación con otras economías avanzadas.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/como-la-economia-de-eeuu-continua-superando-a-las-de-sus-rivales-contra-todo-pro.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/c8025n5x383o"
+    },
+    {
+      "id": "por-que-iran-ve-su-acuerdo-con-eeuu-como-una-victoria-bbc-news-mundo",
+      "categoryId": "technology",
+      "title": "Por qué Irán ve su acuerdo con EE.UU. como una victoria - BBC News Mundo",
+      "summary": "Los dirigentes de Irán intentan enmarcar el acuerdo con Estados Unidos como una victoria, a pesar de la oposición interna y la presión económica. Altos funcionarios destacan que el pacto podría transformar la situación del país.",
+      "author": null,
+      "publishedAt": "2026-06-17T04:59:11.000Z",
+      "readTimeMinutes": 1,
+      "content": "Los líderes iraníes están tratando de presentar el memorando de entendimiento con Estados Unidos como un triunfo, a pesar de las dificultades económicas y la resistencia interna. Funcionarios como Mohammad Bagher Qalibaf y Masoud Pezeshkian han calificado el acuerdo como un gran paso hacia la victoria final y potencialmente transformador para Irán y la región.\n\nSin embargo, existen críticas dentro del país, incluso de sectores duros del Parlamento, que ven el acuerdo como una posible colonización por parte de Estados Unidos. A pesar de esto, algunos críticos han moderado su postura, lo que podría indicar un respaldo más amplio al acuerdo desde las altas esferas del poder.\n\nLa situación económica también juega un papel crucial, ya que la guerra y las sanciones han afectado gravemente a la población. Para muchos iraníes, el éxito del acuerdo se medirá en su capacidad para reducir precios y evitar un nuevo conflicto, más que en la retórica oficial de victoria.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/por-que-iran-ve-su-acuerdo-con-eeuu-como-una-victoria-bbc-news-mundo.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/crelq87zd5vo"
+    },
+    {
+      "id": "en-5-minutos-desapareceran-las-pensiones",
+      "categoryId": "economy",
+      "title": "En 5 minutos - ¿Desaparecerán las pensiones?",
+      "summary": "Expertos advierten sobre los retos que enfrenta el sistema de pensiones. El envejecimiento de la población y otros factores han reabierto el debate sobre su sostenibilidad.",
+      "author": null,
+      "publishedAt": "2026-06-16T20:58:42.000Z",
+      "readTimeMinutes": 1,
+      "content": "Las pensiones son fundamentales para el Estado del bienestar, pero enfrentan desafíos que ponen en duda su sostenibilidad. Expertos señalan que el envejecimiento de la población, la caída de la natalidad y los cambios en el mercado laboral son factores que afectan el futuro de las jubilaciones.\n\nEl debate sobre si el sistema de pensiones está en crisis se intensifica, planteando preguntas sobre la disponibilidad de recursos para las próximas generaciones. También se discuten alternativas para asegurar ingresos dignos durante la vejez.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/en-5-minutos-desapareceran-las-pensiones.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/programas/en-5-minutos/20260616-desaparecer%C3%A1n-las-pensiones"
+    },
+    {
       "id": "economia-la-ue-exige-a-meta-abrir-whatsapp-a-chatbots-rivales-y-amenaza-con-mult",
       "categoryId": "economy",
       "title": "Economía - La UE exige a Meta abrir WhatsApp a chatbots rivales y amenaza con multas millonarias",
