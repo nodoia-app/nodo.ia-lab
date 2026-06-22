@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "10-anos-del-brexit-el-estudio-que-calcula-cuanto-perdio-la-economia-de-reino-uni",
+      "categoryId": "economy",
+      "title": "10 años del Brexit: el estudio que calcula cuánto perdió la economía de Reino Unido por su salida de la Unión Europea - BBC News Mundo",
+      "summary": "Un estudio revela que la economía de Reino Unido sufrió un impacto del 6% en su Producto Interno Bruto debido al Brexit. La investigación analizó datos del Banco de Inglaterra para evaluar el crecimiento económico post-referéndum.",
+      "author": null,
+      "publishedAt": "2026-06-22T09:52:04.000Z",
+      "readTimeMinutes": 1,
+      "content": "Un análisis realizado por economistas con datos del Banco de Inglaterra indica que la economía de Reino Unido experimentó un impacto del 6% en su Producto Interno Bruto (PIB) tras el Brexit. Este estudio se centra en la pérdida de crecimiento y cómo habría evolucionado la economía si el país no hubiera votado a favor de abandonar la Unión Europea.\n\nEl estudio concluye que aproximadamente la mitad del impacto se debió a la sorpresa e incertidumbre tras el referéndum, mientras que el resto se atribuye al aumento de las barreras comerciales después de la salida de Reino Unido de la unión aduanera y el mercado único europeos en 2021. Sin embargo, algunos críticos argumentan que el estudio no considera adecuadamente otros factores que podrían haber influido en el desempeño económico.\n\nEl gobernador del Banco de Inglaterra, Andrew Bailey, ha señalado que el Brexit ha reducido el tamaño de los mercados de exportación, lo que ha tenido un efecto negativo en el crecimiento. A pesar de esto, también mencionó que el impacto en los servicios financieros no fue tan perjudicial como se había anticipado. Este estudio es el primero que utiliza información clave del Banco de Inglaterra sobre el sector empresarial británico para evaluar el impacto del Brexit.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/10-anos-del-brexit-el-estudio-que-calcula-cuanto-perdio-la-economia-de-reino-uni.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/c1wy32nd9n2o"
+    },
+    {
+      "id": "rusia-suspende-la-venta-de-combustible-en-crimea-tras-ataque-con-drones-de-ucran",
+      "categoryId": "economy",
+      "title": "Rusia suspende la venta de combustible en Crimea tras ataque con drones de Ucrania",
+      "summary": "Rusia ha detenido la venta de combustible en Crimea tras un ataque con drones de Ucrania que dejó cinco muertos y daños en infraestructuras energéticas. La suspensión afecta a las gasolineras y ha causado cortes de electricidad en la península.",
+      "author": null,
+      "publishedAt": "2026-06-21T19:03:20.000Z",
+      "readTimeMinutes": 1,
+      "content": "Rusia ha suspendido la venta de combustible en las gasolineras de Crimea tras un ataque con drones de Ucrania que resultó en la muerte de cinco personas y daños en varias infraestructuras. El gobernador de Crimea, Serguéi Aksyonov, anunció que el combustible solo se distribuirá a servicios públicos esenciales.\n\nAdemás, parte de la península se ha quedado sin electricidad debido a los daños en la red eléctrica. La empresa local Krymenergo informó sobre un corte parcial que afecta a varios distritos, mientras se realizan trabajos de reparación y restablecimiento.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/rusia-suspende-la-venta-de-combustible-en-crimea-tras-ataque-con-drones-de-ucran.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/europa/20260621-rusia-suspende-la-venta-de-combustible-en-crimea-tras-ataque-con-drones-de-ucrania"
+    },
+    {
+      "id": "de-la-espriella-celebra-pero-cepeda-pide-esperar-el-escrutinio-que-viene-tras-el",
+      "categoryId": "technology",
+      "title": "De la Espriella celebra, pero Cepeda pide esperar el escrutinio: ¿qué viene tras el apretado balotaje en Colombia?",
+      "summary": "Abelardo de la Espriella celebra su victoria en el balotaje presidencial, mientras Iván Cepeda anuncia impugnaciones de mesas. El escrutinio oficial determinará el resultado final.",
+      "author": null,
+      "publishedAt": "2026-06-22T04:09:27.000Z",
+      "readTimeMinutes": 1,
+      "content": "Abelardo de la Espriella, del partido ultraderechista, celebró los resultados del preconteo del balotaje presidencial en Colombia, donde obtuvo una ventaja mínima sobre su rival Iván Cepeda. Cepeda, del partido de izquierda, reconoció los datos preliminares, pero enfatizó que no son vinculantes y que se debe esperar el escrutinio oficial.\n\nEl presidente Gustavo Petro también destacó que la proclamación de un ganador debe esperar al escrutinio, dado que la diferencia entre los candidatos es muy estrecha. Cepeda anunció que su campaña impugnará 33.000 mesas de votación, mientras que la Registraduría Nacional defendió la solidez del conteo preliminar y recordó que cada partido puede verificar las actas junto a jueces y notarios.\n\nEl escrutinio es el proceso oficial donde se revisan y verifican las actas de votación, y aunque históricamente la diferencia entre el preconteo y el escrutinio es mínima, la situación actual podría generar tensiones en el país. La participación electoral fue alta, con más de 26 millones de votantes, lo que podría legitimar el resultado final.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/de-la-espriella-celebra-pero-cepeda-pide-esperar-el-escrutinio-que-viene-tras-el.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/am%C3%A9rica-latina/20260622-de-la-espriella-celebra-pero-cepeda-pide-esperar-el-escrutinio-qu%C3%A9-viene-tras-el-ajustado-balotaje-en-colombia"
+    },
+    {
+      "id": "keir-starmer-renuncia-como-primer-ministro-y-lider-del-partido-laborista-de-rein",
+      "categoryId": "society",
+      "title": "Keir Starmer renuncia como primer ministro y líder del Partido Laborista de Reino Unido - BBC News Mundo",
+      "summary": "Keir Starmer anunció su renuncia como líder del Partido Laborista y primer ministro del Reino Unido. Su dimisión fue comunicada al rey Carlos III.",
+      "author": null,
+      "publishedAt": "2026-06-22T08:51:34.000Z",
+      "readTimeMinutes": 1,
+      "content": "Keir Starmer renunció como líder del Partido Laborista y primer ministro del Reino Unido. Anunció su decisión en Downing Street, donde expresó su orgullo por haber llegado al cargo hace dos años. Starmer solicitó al Comité Ejecutivo Nacional del Partido Laborista que establezca un calendario para las candidaturas al liderazgo.\n\nHasta que se elija a su sucesor, Starmer continuará en el cargo de primer ministro. En su discurso, mencionó que heredó un partido en crisis y destacó su trabajo para erradicar el antisemitismo y restablecer la confianza en diversas áreas. Agradeció a su familia y colegas por su apoyo durante su mandato.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/keir-starmer-renuncia-como-primer-ministro-y-lider-del-partido-laborista-de-rein.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/cm2rkk7p6l2o"
+    },
+    {
       "id": "economia-la-ue-exige-a-meta-abrir-whatsapp-a-chatbots-rivales-y-amenaza-con-mult",
       "categoryId": "economy",
       "title": "Economía - La UE exige a Meta abrir WhatsApp a chatbots rivales y amenaza con multas millonarias",
