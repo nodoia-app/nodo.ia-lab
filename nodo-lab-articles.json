@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "economia-bolsas-mundiales-se-tinen-de-rojo-por-dudas-sobre-la-inteligencia-artif",
+      "categoryId": "economy",
+      "title": "Economía - Bolsas mundiales se tiñen de rojo por dudas sobre la inteligencia artificial y las tasas de interés",
+      "summary": "Las bolsas mundiales experimentaron pérdidas significativas debido a la incertidumbre sobre la inteligencia artificial y las posibles subidas de tasas de interés por parte de la Reserva Federal. Las acciones de empresas tecnológicas, especialmente en el sector de semiconductores, sufrieron caídas notables.",
+      "author": null,
+      "publishedAt": "2026-06-24T02:41:58.000Z",
+      "readTimeMinutes": 1,
+      "content": "Las acciones de empresas que se beneficiaron del auge de la inteligencia artificial tuvieron fuertes pérdidas el 23 de junio. Los inversionistas mostraron nerviosismo sobre la monetización del negocio y las expectativas de un aumento en las tasas de interés por parte de la Reserva Federal.\n\nNvidia, el fabricante de chips más valioso del mundo, vio caer su acción en un 4%, mientras que SpaceX, un nuevo jugador en la bolsa, perdió más de 600.000 millones de dólares en capitalización bursátil en pocos días. Otras acciones del sector también cayeron, afectando el índice Nasdaq Composite, que bajó un 2,2%.\n\nLas bolsas asiáticas comenzaron a recuperarse tras una caída significativa en el mercado surcoreano. Las acciones tecnológicas son sensibles a las tasas de interés, lo que ha llevado a un ambiente de incertidumbre en el mercado, especialmente en relación con la rentabilidad de las inversiones en inteligencia artificial.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/economia-bolsas-mundiales-se-tinen-de-rojo-por-dudas-sobre-la-inteligencia-artif.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/programas/econom%C3%ADa/20260624-bolsas-mundiales-se-ti%C3%B1en-de-rojo-por-dudas-sobre-la-inteligencia-artificial-y-las-tasas-de-inter%C3%A9s"
+    },
+    {
+      "id": "las-4-demandas-judiciales-en-eeuu-que-pueden-cambiar-como-operan-las-redes-socia",
+      "categoryId": "technology",
+      "title": "Las 4 demandas judiciales en EE.UU. que pueden cambiar cómo operan las redes sociales - BBC News Mundo",
+      "summary": "Las redes sociales enfrentan múltiples demandas en EE.UU. que podrían cambiar su funcionamiento. Estas acciones legales se centran en la seguridad de los usuarios, especialmente de los menores.",
+      "author": null,
+      "publishedAt": "2026-06-24T09:37:53.000Z",
+      "readTimeMinutes": 1,
+      "content": "Las redes sociales, como Meta y YouTube, están bajo un intenso escrutinio legal en EE.UU. debido a miles de demandas que alegan daños a los usuarios, especialmente a niños y adolescentes. Los resultados de estos juicios podrían modificar drásticamente cómo operan estas plataformas.\n\nExpertos legales indican que la creciente ola de litigios influye en la percepción pública y podría impactar futuras legislaciones. Entre los casos destacados se encuentra una demanda colectiva de más de mil distritos escolares que acusan a plataformas como Instagram y TikTok de diseñar sus servicios para ser adictivos, afectando la salud mental de los jóvenes.\n\nAdemás, Meta enfrenta acusaciones de violar la Ley de Protección de la Privacidad Infantil en Internet, lo que podría obligarla a mejorar sus controles de seguridad. También se han presentado casos individuales, como el de un niño que alega haber sido víctima de acoso en Roblox y Discord, y una demanda de un multimillonario contra Meta por anuncios fraudulentos.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/las-4-demandas-judiciales-en-eeuu-que-pueden-cambiar-como-operan-las-redes-socia.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/cvgd9x93y5eo"
+    },
+    {
+      "id": "doctrina-donroe-a-lo-que-de-que-esperar-de-la-relacion-colombia-ee-uu-con-de-la",
+      "categoryId": "energy",
+      "title": "¿Doctrina Donroe a lo que dé? Qué esperar de la relación Colombia - EE. UU. con De la Espriella en el poder",
+      "summary": "Abelardo De la Espriella, ganador de la segunda vuelta presidencial en Colombia, promete un enfoque en la seguridad y la lucha contra el narcotráfico en su relación con Estados Unidos. Se anticipa un alineamiento más estrecho entre ambos países.",
+      "author": null,
+      "publishedAt": "2026-06-24T04:04:07.000Z",
+      "readTimeMinutes": 1,
+      "content": "Abelardo De la Espriella ha ganado la segunda vuelta presidencial en Colombia, y se espera que su gobierno se enfoque en la seguridad y el combate al narcotráfico, alineándose con la agenda de Estados Unidos. De la Espriella ha agradecido el apoyo de Donald Trump y ha prometido que Colombia no será gobernada por un gobierno complaciente con el narcoterrorismo.\n\nAnalistas prevén que la relación entre Colombia y Estados Unidos se centrará en la lucha contra el narcotráfico, aunque también se menciona que podría haber un interés económico subyacente. Se espera que Colombia se convierta en un aliado clave para controlar el tránsito ilegal de migrantes hacia Estados Unidos.\n\nAdemás, se anticipa un cambio en la política energética, con un posible reavivamiento del comercio energético entre Colombia y Venezuela. La relación con Caracas podría ser más pragmática bajo el nuevo gobierno, a pesar de la retórica antichavista de De la Espriella.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/doctrina-donroe-a-lo-que-de-que-esperar-de-la-relacion-colombia-ee-uu-con-de-la.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/am%C3%A9rica-latina/20260624-colombia-trump-de-la-espriella-doctrina-donroe-a-lo-que-d%C3%A9-qu%C3%A9-esperar-de-la-relaci%C3%B3n"
+    },
+    {
+      "id": "iran-trump-la-desconfianza-persiste-en-el-golfo-pese-a-la-reanudacion-del-dialog",
+      "categoryId": "energy",
+      "title": "Irán - Trump: la desconfianza persiste en el Golfo pese a la reanudación del diálogo",
+      "summary": "Las monarquías del Golfo expresan desconfianza hacia el memorando firmado entre EE. UU. e Irán, considerándolo favorable a Teherán. Las preocupaciones se centran en la seguridad en el estrecho de Ormuz y el programa nuclear iraní.",
+      "author": null,
+      "publishedAt": "2026-06-23T23:42:00.000Z",
+      "readTimeMinutes": 1,
+      "content": "Las negociaciones entre EE. UU. e Irán en Suiza han generado inquietud en las monarquías del Golfo, que temen represalias iraníes. A pesar de la reactivación del diálogo, el memorando firmado es visto como demasiado favorable a Irán, lo que ha incrementado la desconfianza en la región.\n\nLos países del Consejo de Cooperación del Golfo (CCG) están preocupados por las concesiones estadounidenses y la posibilidad de que Irán obtenga ventajas en las negociaciones. La situación en el estrecho de Ormuz es crítica, ya que se considera vital para la seguridad y estabilidad regional. Irán ha insinuado que podría cobrar tasas a los buques que crucen el estrecho, lo que podría afectar el comercio internacional.\n\nA pesar de las tensiones, se han reanudado los contactos directos entre los países del CCG e Irán, lo que indica la necesidad de diálogo para abordar las preocupaciones de seguridad en la región.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/iran-trump-la-desconfianza-persiste-en-el-golfo-pese-a-la-reanudacion-del-dialog.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/medio-oriente/20260623-ir%C3%A1n-trump-la-desconfianza-persiste-en-el-golfo-pese-a-la-reanudaci%C3%B3n-del-di%C3%A1logo"
+    },
+    {
       "id": "economia-la-ue-exige-a-meta-abrir-whatsapp-a-chatbots-rivales-y-amenaza-con-mult",
       "categoryId": "economy",
       "title": "Economía - La UE exige a Meta abrir WhatsApp a chatbots rivales y amenaza con multas millonarias",
