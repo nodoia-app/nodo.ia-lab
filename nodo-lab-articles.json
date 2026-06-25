@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "economia-los-precios-del-petroleo-retroceden-a-niveles-previos-a-la-guerra-en-ir",
+      "categoryId": "economy",
+      "title": "Economía - Los precios del petróleo retroceden a niveles previos a la guerra en Irán",
+      "summary": "Los precios del petróleo han caído a su menor valor en cuatro meses, con el barril WTI cotizando por debajo de 70 dólares. Esto se debe a la reanudación del tránsito de buques por el estrecho de Ormuz.",
+      "author": null,
+      "publishedAt": "2026-06-25T04:17:58.000Z",
+      "readTimeMinutes": 1,
+      "content": "Los precios del petróleo han disminuido significativamente, alcanzando niveles no vistos desde antes del inicio del conflicto en Medio Oriente. El barril de petróleo WTI se cotizó sobre los 69 dólares, mientras que el Brent estuvo por debajo de 74 dólares.\n\nLa reanudación del tráfico de buques cisterna en el estrecho de Ormuz ha contribuido a esta caída, tras semanas de aumentos en los precios. La salida de más de 20 millones de barriles de crudo en las últimas 24 horas ha aliviado las preocupaciones sobre el suministro mundial de petróleo.\n\nA pesar de la mejora en el tránsito, la evacuación de marineros atrapados en el Golfo Pérsico tomará varias semanas. Además, la venta de petróleo iraní ha sido autorizada por Estados Unidos, lo que podría influir en el mercado a corto plazo.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/economia-los-precios-del-petroleo-retroceden-a-niveles-previos-a-la-guerra-en-ir.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/programas/econom%C3%ADa/20260625-precios-del-petr%C3%B3leo-retroceden-a-niveles-previos-a-la-guerra-en-ir%C3%A1n"
+    },
+    {
+      "id": "la-aplicacion-en-corea-del-sur-que-permite-a-las-mujeres-rastrear-a-sus-acosador",
+      "categoryId": "technology",
+      "title": "La aplicación en Corea del Sur que permite a las mujeres rastrear a sus acosadores en tiempo real - BBC News Mundo",
+      "summary": "Las autoridades surcoreanas han lanzado una aplicación que permite a las víctimas monitorear la ubicación de sus acosadores en tiempo real, utilizando datos de dispositivos de vigilancia electrónica. Esta función se implementa tras una modificación de la ley de vigilancia electrónica.",
+      "author": null,
+      "publishedAt": "2026-06-24T18:58:56.000Z",
+      "readTimeMinutes": 1,
+      "content": "La nueva aplicación del Ministerio de Justicia de Corea del Sur permite a las víctimas rastrear a sus acosadores en tiempo real, siempre que estos estén bajo vigilancia electrónica. Utiliza datos de localización de dispositivos como tobilleras electrónicas y envía alertas a un centro de control si el acosador se acerca a una distancia determinada.\n\nUna versión anterior de la aplicación no ofrecía esta funcionalidad, pero una modificación legal en diciembre de 2025 permitió su implementación. La aplicación también mostrará rutas y edificios cercanos para ayudar a las víctimas a escapar rápidamente.\n\nSin embargo, críticos señalan que la magnitud del acoso en Corea del Sur es parte de un problema más amplio de violencia contra las mujeres, que la tecnología por sí sola no puede resolver. Además, se ha planteado un debate sobre la privacidad y la efectividad de estas medidas, ya que solo un número limitado de agresores está obligado a llevar dispositivos de monitoreo electrónico.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/la-aplicacion-en-corea-del-sur-que-permite-a-las-mujeres-rastrear-a-sus-acosador.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/c621qdz5r48o"
+    },
+    {
+      "id": "en-directo-aumentan-las-ofertas-de-ayuda-internacional-tras-los-dos-terremotos-q",
+      "categoryId": "society",
+      "title": "En directo: aumentan las ofertas de ayuda internacional tras los dos terremotos que golpearon Venezuela",
+      "summary": "La Guaira fue declarada 'zona de desastre' tras dos terremotos en Venezuela. Estados Unidos, China y varios países europeos ofrecen asistencia.",
+      "author": null,
+      "publishedAt": "2026-06-25T07:22:13.000Z",
+      "readTimeMinutes": 1,
+      "content": "Dos terremotos de magnitud 7,2 y 7,5 sacudieron el centro de Venezuela el 24 de junio, causando al menos 32 muertos. La Guaira fue declarada 'zona de desastre' debido al colapso de edificios y graves daños estructurales.\n\nEquipos de emergencia y residentes están buscando víctimas entre los escombros. Estados Unidos anunció el despliegue inmediato de equipos de rescate y asistencia médica. Italia y Bélgica también se ofrecieron a movilizar apoyo humanitario a través del Mecanismo de Protección Civil de la Unión Europea.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/en-directo-aumentan-las-ofertas-de-ayuda-internacional-tras-los-dos-terremotos-q.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/am%C3%A9rica-latina/20260625-en-directo-delcy-rodr%C3%ADguez-declara-la-guaira-zona-de-desastre-tras-dos-fuertes-terremotos-en-venezuela"
+    },
+    {
+      "id": "en-directo-marco-rubio-rechaza-control-irani-de-ormuz-tras-amenaza-de-los-guardi",
+      "categoryId": "society",
+      "title": "En directo: Marco Rubio rechaza control iraní de Ormuz tras amenaza de los Guardianes a buques extranjeros",
+      "summary": "Marco Rubio afirmó que Estados Unidos no aceptará que el estrecho de Ormuz pertenezca a ningún país. Los Guardianes de la Revolución de Irán amenazaron con medidas contra buques sin autorización.",
+      "author": null,
+      "publishedAt": "2026-06-25T06:29:57.000Z",
+      "readTimeMinutes": 1,
+      "content": "Marco Rubio, secretario de Estado de EE. UU., rechazó la afirmación de los Guardianes de la Revolución de Irán sobre el control del estrecho de Ormuz. Aseguró que Estados Unidos no aceptará que esta vía estratégica pertenezca a ningún Estado y que busca un acuerdo con Irán, aunque no a cualquier precio.\n\nLos Guardianes de la Revolución de Irán advirtieron que cualquier buque que cruce el estrecho de Ormuz deberá contar con su autorización. Esta situación se da en el contexto de tensiones entre Irán y Estados Unidos, así como en medio de la actividad militar en el sur del Líbano, donde el ejército israelí reportó la muerte de un soldado durante una operación.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/en-directo-marco-rubio-rechaza-control-irani-de-ormuz-tras-amenaza-de-los-guardi.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/medio-oriente/20260625-en-directo-los-guardianes-de-la-revoluci%C3%B3n-amenazan-a-barcos-que-crucen-ormuz-sin-permiso-de-ir%C3%A1n"
+    },
+    {
       "id": "economia-la-ue-exige-a-meta-abrir-whatsapp-a-chatbots-rivales-y-amenaza-con-mult",
       "categoryId": "economy",
       "title": "Economía - La UE exige a Meta abrir WhatsApp a chatbots rivales y amenaza con multas millonarias",
