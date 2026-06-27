@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "a-mas-de-un-mes-del-brote-de-ebola-en-la-rdc-los-medicos-advierten-que-la-epidem",
+      "categoryId": "health",
+      "title": "A más de un mes del brote de ébola en la RDC, los médicos advierten que \"la epidemia va a durar\"",
+      "summary": "Médicos en la RDC informan sobre el avance del brote de ébola, a pesar de algunos tratamientos exitosos. La situación sigue siendo grave en las zonas afectadas.",
+      "author": null,
+      "publishedAt": "2026-06-26T20:57:33.000Z",
+      "readTimeMinutes": 1,
+      "content": "Más de un mes después de la declaración oficial del brote de ébola en la RDC, los médicos advierten que la epidemia continuará. Aunque se han reportado tratamientos exitosos en Mongbwalu, la preocupación persiste debido al aumento de casos en 34 zonas afectadas.\n\nLos profesionales de la salud han expresado su inquietud por la falta de información clara sobre la distribución de los casos. A pesar de algunos avances en la atención médica, como la instalación de un laboratorio local, el rastreo de contactos sigue siendo insuficiente, lo que complica el control de la epidemia. Además, la desconfianza de la población hacia las autoridades y los procedimientos de entierro está dificultando la respuesta a la crisis.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/a-mas-de-un-mes-del-brote-de-ebola-en-la-rdc-los-medicos-advierten-que-la-epidem.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/%C3%A1frica/20260626-a-m%C3%A1s-de-un-mes-del-brote-de-%C3%A9bola-en-la-rdc-los-m%C3%A9dicos-advierten-que-la-epidemia-va-a-durar"
+    },
+    {
+      "id": "trump-endurece-su-ofensiva-contra-los-impuestos-digitales-y-eleva-la-tension-con",
+      "categoryId": "economy",
+      "title": "Trump endurece su ofensiva contra los impuestos digitales y eleva la tensión con la Unión Europea",
+      "summary": "El presidente de Estados Unidos, Donald Trump, anunció que impondrá un arancel del 100% a las importaciones de países que apliquen impuestos sobre servicios digitales. La Unión Europea respondió que considerará esta medida como injustificada y reaccionará con firmeza.",
+      "author": null,
+      "publishedAt": "2026-06-27T01:12:37.000Z",
+      "readTimeMinutes": 1,
+      "content": "Donald Trump advirtió que cualquier país que implemente un impuesto sobre servicios digitales a empresas estadounidenses será sancionado con un arancel del 100% sobre sus mercancías. Esta declaración intensifica las tensiones comerciales entre Estados Unidos y la Unión Europea, que prometió responder rápidamente.\n\nTrump mencionó que el nuevo gravamen se aplicaría de inmediato y prevalecería sobre acuerdos comerciales existentes. La Comisión Europea calificó la amenaza de injustificada y defendió su derecho a regular las actividades económicas en su territorio, subrayando que todos los impuestos son no discriminatorios.\n\nLa disputa se enmarca en un contexto más amplio de tensiones entre Estados Unidos y la UE sobre el control regulatorio de las grandes empresas tecnológicas. La UE ha implementado normativas que buscan responsabilizar a las plataformas digitales por los contenidos que alojan.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/trump-endurece-su-ofensiva-contra-los-impuestos-digitales-y-eleva-la-tension-con.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260627-trump-endurece-su-ofensiva-contra-los-impuestos-digitales-y-eleva-la-tensi%C3%B3n-con-la-uni%C3%B3n-europea"
+    },
+    {
+      "id": "por-que-venezuela-es-tan-propensa-a-sufrir-terremotos-destructivos-y-como-se-com",
+      "categoryId": "technology",
+      "title": "Por qué Venezuela es tan propensa a sufrir terremotos destructivos (y cómo se comparan los de esta semana con los del pasado) - BBC News Mundo",
+      "summary": "Los recientes terremotos en Venezuela han resaltado la vulnerabilidad del país a estos desastres naturales. La geología y la historia del territorio contribuyen a la alta sismicidad en la región.",
+      "author": null,
+      "publishedAt": "2026-06-27T07:36:37.000Z",
+      "readTimeMinutes": 1,
+      "content": "Venezuela es propensa a terremotos debido a su ubicación cerca del límite de dos placas tectónicas: la del Caribe y la sudamericana. Esta interacción provoca acumulación de energía que, al liberarse, genera movimientos sísmicos significativos. Las fallas geológicas en el norte del país, como las de Boconó, El Pilar y San Sebastián, aumentan la probabilidad de sismos destructivos.\n\nRecientemente, dos terremotos de magnitudes 7,2 y 7,5 causaron cientos de muertes y miles de heridos, además de daños materiales extensos. La infraestructura del país, deteriorada por años de falta de inversión, ha contribuido a la gravedad de estos desastres. La alta concentración de población en zonas de riesgo sísmico, donde vive aproximadamente el 80% de los venezolanos, agrava aún más la situación en caso de terremotos.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/por-que-venezuela-es-tan-propensa-a-sufrir-terremotos-destructivos-y-como-se-com.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/cpv3d2ynz7xo"
+    },
+    {
+      "id": "turistas-ante-la-justicia-por-racismo-brasil-refuerza-su-cruzada-contra-la-discr",
+      "categoryId": "society",
+      "title": "Turistas ante la Justicia por racismo: Brasil refuerza su cruzada contra la discriminación",
+      "summary": "Una turista colombiana fue imputada por racismo tras un incidente en una favela de Río de Janeiro. Este caso se suma a otros recientes que involucran a extranjeros en comportamientos discriminatorios en Brasil.",
+      "author": null,
+      "publishedAt": "2026-06-27T02:06:12.000Z",
+      "readTimeMinutes": 1,
+      "content": "Una turista colombiana fue acusada de racismo después de dejar un plátano en la bolsa de un bailarín callejero en una favela de Río de Janeiro. El incidente fue grabado por cámaras de seguridad y denunciado a la policía. La mujer, parte de un grupo de turistas, salió del país al día siguiente y ahora deberá responder ante la Justicia brasileña desde Colombia.\n\nEste caso no es aislado, ya que otros turistas iberoamericanos también han enfrentado problemas legales por comportamientos racistas en Brasil. En lo que va del año, se han reportado varios incidentes similares, incluyendo a tenistas y a una turista argentina que fue juzgada por insultos racistas en un restaurante.\n\nLas autoridades brasileñas han intensificado sus esfuerzos contra el racismo, considerando que este problema es estructural en el país. En 2025, se registraron más de 7.000 denuncias de racismo, lo que refleja un aumento en la disposición de las víctimas para reportar estos delitos. Sin embargo, el sistema judicial aún enfrenta desafíos para abordar efectivamente estas denuncias.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/turistas-ante-la-justicia-por-racismo-brasil-refuerza-su-cruzada-contra-la-discr.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/am%C3%A9rica-latina/20260627-turistas-ante-la-justicia-por-racismo-brasil-refuerza-su-cruzada-contra-la-discriminaci%C3%B3n"
+    },
+    {
       "id": "economia-la-ue-exige-a-meta-abrir-whatsapp-a-chatbots-rivales-y-amenaza-con-mult",
       "categoryId": "economy",
       "title": "Economía - La UE exige a Meta abrir WhatsApp a chatbots rivales y amenaza con multas millonarias",
