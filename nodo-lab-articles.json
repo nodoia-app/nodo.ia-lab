@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "trump-y-el-repunte-de-la-derecha-en-latinoamerica-como-queda-lula-en-pleno-ano-e",
+      "categoryId": "technology",
+      "title": "Trump y el repunte de la derecha en Latinoamérica: ¿cómo queda Lula en pleno año electoral?",
+      "summary": "Luiz Inácio Lula da Silva enfrenta un año electoral complicado en Brasil, marcado por el ascenso de candidatos de derecha en Latinoamérica. Lula ha solicitado a Donald Trump que se mantenga al margen de las elecciones brasileñas.",
+      "author": null,
+      "publishedAt": "2026-06-29T02:34:15.000Z",
+      "readTimeMinutes": 1,
+      "content": "Luiz Inácio Lula da Silva se prepara para un año electoral decisivo en Brasil, donde se enfrenta a un panorama complicado tras el ascenso de candidatos de derecha en la región. Lula ha solicitado a Donald Trump que se mantenga al margen de las elecciones, consciente de la influencia que el expresidente estadounidense ha tenido en otros países latinoamericanos.\n\nEl impacto de las elecciones en Perú y Colombia, donde han ganado candidatos alineados con la derecha, podría ser mínimo en el electorado brasileño, según expertos. Sin embargo, la agenda internacional de Lula podría verse afectada por la tendencia hacia la extrema derecha en la región, lo que complica sus planes de integración regional.\n\nTrump ha expresado su interés en las elecciones brasileñas a través de sus redes sociales, lo que ha generado tensiones entre ambos líderes. Lula ha respondido a las críticas de Trump, defendiendo la soberanía de Brasil y sugiriendo que el presidente estadounidense no comprende la situación política del país.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/trump-y-el-repunte-de-la-derecha-en-latinoamerica-como-queda-lula-en-pleno-ano-e.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/am%C3%A9rica-latina/20260629-trump-y-el-repunte-de-la-derecha-en-latinoam%C3%A9rica-c%C3%B3mo-queda-lula-en-pleno-a%C3%B1o-electoral"
+    },
+    {
+      "id": "el-campo-de-golf-en-la-guaira-que-era-un-simbolo-de-opulencia-y-ahora-es-el-refu",
+      "categoryId": "energy",
+      "title": "El campo de golf en La Guaira que era un símbolo de opulencia y ahora es el refugio ante la devastación por los terremotos en Venezuela - BBC News Mundo",
+      "summary": "El campo de golf en La Guaira, que antes simbolizaba la opulencia, ahora sirve como refugio y hospital improvisado tras los devastadores terremotos en la región.",
+      "author": null,
+      "publishedAt": "2026-06-28T21:24:08.000Z",
+      "readTimeMinutes": 1,
+      "content": "El campo de golf del Caraballeda Golf & Yacht Club ha sido transformado en un centro de atención para las víctimas de los terremotos en Venezuela. En su césped, se ha establecido un hospital improvisado para atender a los heridos y se han habilitado áreas para la llegada de suministros y refugio para familias afectadas.\n\nLa devastación en Caraballeda es notable, con numerosos edificios colapsados y escombros por doquier. La situación ha llevado a la movilización de equipos de rescate internacionales y a la ayuda de la sociedad civil, que se ha organizado para asistir a los damnificados. Sin embargo, la cantidad de estructuras no intervenidas refleja que la ayuda no ha sido suficiente.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/el-campo-de-golf-en-la-guaira-que-era-un-simbolo-de-opulencia-y-ahora-es-el-refu.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/c4gyv1eknxyo"
+    },
+    {
+      "id": "iran-ataca-a-bahrein-y-kuwait-y-amenaza-con-suspender-las-negociaciones-tras-nue",
+      "categoryId": "energy",
+      "title": "Irán ataca a Bahrein y Kuwait y amenaza con suspender las negociaciones tras nuevos ataques de EE. UU.",
+      "summary": "Irán ha llevado a cabo ataques con drones y misiles contra Bahrein y Kuwait, advirtiendo sobre la suspensión de negociaciones con Estados Unidos. La situación en el estrecho de Ormuz también se ha visto afectada por estos eventos.",
+      "author": null,
+      "publishedAt": "2026-06-29T03:29:04.000Z",
+      "readTimeMinutes": 1,
+      "content": "Irán lanzó ataques con drones y misiles contra Bahrein y Kuwait, en respuesta a recientes ataques aéreos de Estados Unidos. El país advirtió que podría suspender las negociaciones para poner fin a la guerra si continúan los ataques de Washington. Además, Irán amenazó con cerrar el estrecho de Ormuz, vital para el tráfico de petróleo y gas natural.\n\nLa Guardia Revolucionaria iraní se atribuyó la responsabilidad de los ataques. Kuwait informó que sus defensas aéreas interceptaron drones y misiles iraníes, mientras que Bahrein reportó daños en un edificio residencial sin víctimas mortales. El Ministerio de Relaciones Exteriores de Bahrein calificó los ataques como una escalada peligrosa y un patrón sistemático de agresiones por parte de Irán.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/iran-ataca-a-bahrein-y-kuwait-y-amenaza-con-suspender-las-negociaciones-tras-nue.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/medio-oriente/20260629-ir%C3%A1n-ataca-a-bahrein-y-kuwait-y-amenaza-con-suspender-las-negociaciones-tras-nuevos-ataques-de-ee-uu"
+    },
+    {
+      "id": "terremotos-en-venezuela-el-padre-que-espera-en-un-hospital-de-la-guaira-a-que-ap",
+      "categoryId": "society",
+      "title": "Terremotos en Venezuela | El padre que espera en un hospital de La Guaira a que aparezca su hijo de 10 años desaparecido: \"Estoy seguro de que debe estar buscándome\" - BBC News Mundo",
+      "summary": "En La Guaira, familiares buscan a sus seres queridos tras los terremotos. Un padre espera en un hospital por su hijo de 10 años desaparecido.",
+      "author": null,
+      "publishedAt": "2026-06-28T21:36:00.000Z",
+      "readTimeMinutes": 1,
+      "content": "En las afueras del Hospital José María Vargas, se vive un ambiente de desesperación tras los terremotos en Venezuela. Muchas personas esperan noticias de familiares desaparecidos, mientras las autoridades han colocado una lista de pacientes hospitalizados para ayudar en la búsqueda.\n\nAlí Rodríguez, un mototaxista que estuvo atrapado bajo los escombros, se niega a abandonar el hospital, aferrado a la esperanza de que su hijo de 10 años aparezca. Su esposa ha sido trasladada a otro hospital y él permanece en el lugar esperando noticias.\n\nLa presidenta interina de Venezuela, Delcy Rodríguez, informó que 33 personas fueron encontradas con vida, mientras que el número de muertos ha ascendido a 1.450 y hay 3.150 heridos. La ONU estima que hay alrededor de 50.000 desaparecidos, muchos de los cuales podrían estar bajo los escombros.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/terremotos-en-venezuela-el-padre-que-espera-en-un-hospital-de-la-guaira-a-que-ap.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/cvg7xp87w2po"
+    },
+    {
       "id": "economia-la-ue-exige-a-meta-abrir-whatsapp-a-chatbots-rivales-y-amenaza-con-mult",
       "categoryId": "economy",
       "title": "Economía - La UE exige a Meta abrir WhatsApp a chatbots rivales y amenaza con multas millonarias",
