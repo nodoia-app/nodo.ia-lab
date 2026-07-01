@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "economia-regularizacion-masiva-en-espana-12-millones-de-migrantes-esperan-integr",
+      "categoryId": "economy",
+      "title": "Economía - Regularización masiva en España: 1,2 millones de migrantes esperan integrarse a la economía",
+      "summary": "El plan de regularización migratoria en España recibió más de un millón de solicitudes, superando las expectativas. Esta medida busca integrar a migrantes indocumentados a la economía formal.",
+      "author": null,
+      "publishedAt": "2026-07-01T02:37:57.000Z",
+      "readTimeMinutes": 1,
+      "content": "El Gobierno español cerró el periodo de solicitudes para un plan extraordinario de regularización migratoria, alcanzando más de un millón de aplicaciones. Esta iniciativa estaba dirigida a migrantes indocumentados que residían en España antes del 1 de enero de 2026 y que cumplían ciertos requisitos.\n\nLos solicitantes podrán obtener un permiso temporal de residencia y trabajo renovable por un año, lo que les permitirá integrarse al sistema laboral y fiscal del país. El presidente Pedro Sánchez defendió esta medida como una estrategia económica necesaria, argumentando que sin inmigración, España podría perder un 19% de su PIB hacia 2050.\n\nEl Gobierno sostiene que la regularización permitirá incorporar a cientos de miles de trabajadores a la economía formal, aumentando la recaudación de impuestos y reforzando el sistema de seguridad social. Además, se anunció un plan de integración con un presupuesto de 505 millones de euros para facilitar el acceso de los migrantes a empleo, educación, vivienda y atención sanitaria.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/economia-regularizacion-masiva-en-espana-12-millones-de-migrantes-esperan-integr.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/programas/econom%C3%ADa/20260701-regularizaci%C3%B3n-masiva-en-espa%C3%B1a-1-2-millones-de-migrantes-esperan-integrarse-a-la-econom%C3%ADa"
+    },
+    {
+      "id": "llegue-ultima-pero-me-siento-ganadora-la-inspiradora-historia-de-ely-la-mujer-de",
+      "categoryId": "technology",
+      "title": "\"Llegué última pero me siento ganadora\": la inspiradora historia de Ely, la mujer de 64 años que soñaba con correr una maratón y la terminó en más de 7 horas - BBC News Mundo",
+      "summary": "Ely, una mujer de 64 años, completó la Maratón de Santiago en más de 7 horas, enfrentando diversos desafíos. A pesar de su tiempo, se siente ganadora por haber cruzado la meta.",
+      "author": null,
+      "publishedAt": "2026-07-01T09:38:06.000Z",
+      "readTimeMinutes": 1,
+      "content": "Ely, a sus 64 años, completó la Maratón de Santiago en 7 horas, 18 minutos y 34 segundos. A pesar de la artrosis en las rodillas y el poco tiempo de entrenamiento, logró correr los 42 kilómetros. Su objetivo no era marcar un tiempo, sino llegar a la meta y recibir su medalla.\n\nDurante la carrera, enfrentó dificultades como la falta de agua y perderse en el camino, pero continuó a su propio ritmo. Al final, fue la última en cruzar la meta, pero se sintió emocionada y feliz por su logro.\n\nEly comenzó a correr a los 55 años y ha seguido participando en carreras de 4 y 10 kilómetros. Su historia es un ejemplo de perseverancia y superación personal, y ha recibido apoyo y reconocimiento por su esfuerzo.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/llegue-ultima-pero-me-siento-ganadora-la-inspiradora-historia-de-ely-la-mujer-de.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/cwy0n0qe2e9o"
+    },
+    {
+      "id": "mercosur-cierra-su-cumbre-con-la-mira-en-japon-y-reclamos-por-el-acuerdo-con-la",
+      "categoryId": "economy",
+      "title": "Mercosur cierra su cumbre con la mira en Japón y reclamos por el acuerdo con la UE",
+      "summary": "Mercosur concluyó su 68ª Cumbre de Jefes de Estado con el anuncio del inicio de negociaciones para un Acuerdo de Asociación Económica con Japón. También se abordaron reclamos sobre el acuerdo con la Unión Europea, que quedaron sin resolver.",
+      "author": null,
+      "publishedAt": "2026-07-01T01:22:47.000Z",
+      "readTimeMinutes": 1,
+      "content": "En la 68ª Cumbre de Jefes de Estado, Mercosur anunció el inicio formal de negociaciones para un Acuerdo de Asociación Económica con Japón, que se considera un tratado de libre comercio. Uruguay, que asumió la presidencia semestral del bloque, buscará acercar posiciones con Tokio en los próximos meses.\n\nAdemás, la cumbre abordó la implementación del acuerdo de libre comercio con la Unión Europea, donde se discutió la distribución de cuotas, un tema que sigue sin resolverse. El presidente de Paraguay, Santiago Peña, hizo un llamado a que esta asignación se realice con justicia, reconociendo que la discusión es compleja y se retomará en octubre.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/mercosur-cierra-su-cumbre-con-la-mira-en-japon-y-reclamos-por-el-acuerdo-con-la.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/am%C3%A9rica-latina/20260701-mercosur-cierra-su-cumbre-con-la-mira-en-jap%C3%B3n-y-reclamos-por-el-acuerdo-con-la-ue"
+    },
+    {
+      "id": "trump-pierde-ante-la-corte-suprema-de-eeuu-la-batalla-por-acabar-con-la-ciudadan",
+      "categoryId": "society",
+      "title": "Trump pierde ante la Corte Suprema de EE.UU. la batalla por acabar con la ciudadanía por nacimiento - BBC News Mundo",
+      "summary": "La Corte Suprema de EE.UU. anuló la orden ejecutiva de Trump para limitar la ciudadanía por nacimiento. La decisión reafirma el derecho a la ciudadanía para todos los nacidos en el país.",
+      "author": null,
+      "publishedAt": "2026-06-30T15:31:38.000Z",
+      "readTimeMinutes": 1,
+      "content": "La Corte Suprema de Estados Unidos decidió mantener el derecho a la ciudadanía por nacimiento, anulando la orden ejecutiva del presidente Donald Trump. Con seis votos a favor y tres en contra, los jueces ratificaron el precedente de hace 150 años que otorga automáticamente la ciudadanía a todos los bebés nacidos en el país.\n\nTrump había intentado eliminar este derecho, argumentando que permitía que extranjeros indocumentados se beneficiaran de las leyes estadounidenses. Sin embargo, la Corte consideró que su decisión es una derrota significativa para el presidente. Los defensores de los derechos de los inmigrantes celebraron el fallo, afirmando que reafirma la 14ª enmienda de la Constitución.\n\nEl juez John Roberts, quien redactó la resolución, destacó que la ciudadanía es un derecho fundamental que debe ser garantizado a todos los nacidos en el territorio estadounidense, independientemente del estatus de sus padres. Esta decisión se considera un hito histórico en la interpretación de la ciudadanía en EE.UU.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/trump-pierde-ante-la-corte-suprema-de-eeuu-la-batalla-por-acabar-con-la-ciudadan.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/czde8n7dr0jo"
+    },
+    {
       "id": "economia-la-ue-exige-a-meta-abrir-whatsapp-a-chatbots-rivales-y-amenaza-con-mult",
       "categoryId": "economy",
       "title": "Economía - La UE exige a Meta abrir WhatsApp a chatbots rivales y amenaza con multas millonarias",
