@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "economia-rusia-prohibe-exportar-diesel-para-contener-una-creciente-escasez-de-co",
+      "categoryId": "economy",
+      "title": "Economía - Rusia prohíbe exportar diésel para contener una creciente escasez de combustible",
+      "summary": "Rusia ha suspendido las exportaciones de diésel para abordar una creciente escasez de combustible en el país. Esta medida se toma en medio de ataques de Ucrania que han afectado las refinerías rusas.",
+      "author": null,
+      "publishedAt": "2026-07-09T02:14:50.000Z",
+      "readTimeMinutes": 1,
+      "content": "Rusia ha decidido prohibir la exportación de diésel para enfrentar una crisis de abastecimiento de combustible. Esta acción se produce en un contexto de ataques ucranianos que han impactado las refinerías y depósitos de combustible en el país. El presidente ruso ha afirmado que el sistema energético tiene un alto margen de resistencia, a pesar de las dificultades actuales.\n\nEl viceprimer ministro ha indicado que la situación es complicada y que Rusia necesitará importar combustibles para compensar el déficit. Esta decisión es inusual para un país que es uno de los mayores productores y exportadores de petróleo del mundo. Las estaciones de servicio están experimentando racionamiento y escasez, lo que ha generado largas filas y preocupación entre la población.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/economia-rusia-prohibe-exportar-diesel-para-contener-una-creciente-escasez-de-co.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/programas/econom%C3%ADa/20260709-rusia-proh%C3%ADbe-exportar-di%C3%A9sel-para-contener-una-creciente-escasez-de-combustible"
+    },
+    {
+      "id": "la-escasez-de-combustible-en-rusia-esta-causando-estragos-pero-presionara-a-puti",
+      "categoryId": "economy",
+      "title": "La escasez de combustible en Rusia está causando estragos, pero ¿presionará a Putin para cambiar de estrategia en la guerra de Ucrania? - BBC News Mundo",
+      "summary": "Rusia enfrenta una grave escasez de combustible, con largas colas en las gasolineras y un aumento en los precios. La situación ha generado frustración entre los ciudadanos y ha llevado a racionamientos en varias regiones.",
+      "author": null,
+      "publishedAt": "2026-07-09T03:50:57.000Z",
+      "readTimeMinutes": 1,
+      "content": "La escasez de combustible en Rusia ha provocado largas colas en las gasolineras, incluso en Moscú, donde las autoridades no pueden garantizar suficiente gasolina y diésel. Los ciudadanos expresan frustración y preocupación por la falta de petróleo, mientras que algunos responsabilizan a la falta de preparación y a los ataques ucranianos.\n\nLa guerra en Ucrania ha comenzado a afectar la vida cotidiana de los rusos, con un aumento en los ataques a refinerías de petróleo. La situación ha llevado a racionamientos y restricciones en el uso de bidones de gasolina en varias localidades. Además, se han reportado peleas en las colas y la instalación de baños portátiles para los conductores.\n\nLas encuestas indican que la aprobación de Putin ha disminuido, y muchos rusos se sienten pesimistas sobre la economía. Expertos sugieren que la crisis del combustible podría impactar negativamente el crecimiento económico del país, aunque algunos analistas creen que Putin podría intensificar su postura en lugar de ceder ante la presión.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/la-escasez-de-combustible-en-rusia-esta-causando-estragos-pero-presionara-a-puti.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/cvg499xl6qno"
+    },
+    {
+      "id": "muere-a-los-75-anos-bonnie-tyler-la-cantante-britanica-de-total-eclipse-of-the-h",
+      "categoryId": "entertainment",
+      "title": "Muere a los 75 años Bonnie Tyler, la cantante británica de “Total Eclipse of the Heart” que reinó en los años 80 - BBC News Mundo",
+      "summary": "Bonnie Tyler, famosa por su éxito \"Total Eclipse of the Heart\", ha fallecido a los 75 años en Portugal. Su muerte fue anunciada como inesperada y consecuencia de una enfermedad.",
+      "author": null,
+      "publishedAt": "2026-07-09T09:51:11.000Z",
+      "readTimeMinutes": 1,
+      "content": "La cantante Bonnie Tyler, conocida por su icónica canción \"Total Eclipse of the Heart\", ha fallecido a los 75 años en un hospital de Faro, Portugal. Un comunicado en su página web informó que su muerte fue \"inesperada\" y se debió a la enfermedad por la que estaba siendo tratada.\n\nTyler había sido sometida a una cirugía intestinal de emergencia en mayo y había estado en coma para facilitar su recuperación. Aunque su estado había mostrado signos de mejora, seguía siendo grave en la unidad de cuidados intensivos. La familia y el equipo de la cantante han pedido privacidad para afrontar esta tragedia.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/muere-a-los-75-anos-bonnie-tyler-la-cantante-britanica-de-total-eclipse-of-the-h.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/cn8km15lm83o"
+    },
+    {
+      "id": "iran-se-dispone-a-enterrar-al-ayatola-ali-jamenei-en-mashhad-tras-seis-dias-de-h",
+      "categoryId": "society",
+      "title": "Irán se dispone a enterrar al ayatolá Alí Jameneí en Mashhad, tras seis días de homenajes",
+      "summary": "Irán llevará a cabo el entierro del ayatolá Alí Jameneí en Mashhad, tras seis días de homenajes. La ceremonia se desarrolla en un contexto de tensiones con Estados Unidos.",
+      "author": null,
+      "publishedAt": "2026-07-09T09:15:26.000Z",
+      "readTimeMinutes": 1,
+      "content": "El funeral del ayatolá Alí Jameneí concluirá en Mashhad, donde será enterrado después de un recorrido por lugares emblemáticos en Irán e Irak. Las ceremonias han estado marcadas por la ausencia de su hijo y sucesor, lo que ha generado especulaciones sobre el estado de salud y el poder en Irán.\n\nLa conexión ferroviaria entre Teherán y Mashhad fue suspendida tras ataques estadounidenses recientes. Se espera que una gran multitud asista a los funerales, que se iniciarán a las 14:00 horas. En Irak, el cortejo fúnebre fue acompañado por miles de personas en ciudades sagradas del islam chií, como Nayaf y Karbala.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/iran-se-dispone-a-enterrar-al-ayatola-ali-jamenei-en-mashhad-tras-seis-dias-de-h.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/asia-pac%C3%ADfico/20260709-ir%C3%A1n-se-dispone-a-enterrar-al-ayatol%C3%A1-al%C3%AD-jamene%C3%AD-en-mashhad-tras-seis-d%C3%ADas-de-homenajes"
+    },
+    {
       "id": "economia-la-ue-exige-a-meta-abrir-whatsapp-a-chatbots-rivales-y-amenaza-con-mult",
       "categoryId": "economy",
       "title": "Economía - La UE exige a Meta abrir WhatsApp a chatbots rivales y amenaza con multas millonarias",
