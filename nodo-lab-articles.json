@@ -1,6 +1,71 @@
 {
   "articles": [
     {
+      "id": "economia-volkswagen-plantea-un-recorte-de-hasta-100000-empleos-y-enfrenta-protes",
+      "categoryId": "economy",
+      "title": "Economía - Volkswagen plantea un recorte de hasta 100.000 empleos y enfrenta protestas sindicales",
+      "summary": "Volkswagen anunció un plan de transformación que podría resultar en la eliminación de hasta 100.000 empleos, lo que ha generado protestas en Alemania. La compañía busca reducir su capacidad de producción y simplificar su portafolio de vehículos.",
+      "author": null,
+      "publishedAt": "2026-07-10T03:29:25.000Z",
+      "readTimeMinutes": 1,
+      "content": "Volkswagen ha presentado un plan de transformación para adaptarse a los cambios en la industria automotriz, que incluye una reducción de su capacidad de producción de 12 millones a aproximadamente 9 millones de vehículos anuales. Además, la empresa planea disminuir a la mitad su oferta de modelos y reducir la complejidad de su gama de vehículos en un 75%. \n\nEste plan podría llevar a la eliminación de hasta 100.000 empleos a nivel mundial hacia el final de esta década. Aunque no se han confirmado despidos específicos, la preocupación ha aumentado tras informes de medios alemanes sobre un posible ajuste laboral mayor al previamente anunciado. Las protestas masivas en las fábricas de Volkswagen han sido convocadas por el sindicato IG Metall, que argumenta que los trabajadores no deben cargar con el costo de la transformación industrial.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/economia-volkswagen-plantea-un-recorte-de-hasta-100000-empleos-y-enfrenta-protes.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/programas/econom%C3%ADa/20260710-volkswagen-plantea-un-recorte-de-hasta-100-000-empleos-y-enfrenta-protestas-sindicales"
+    },
+    {
+      "id": "es-como-estar-en-el-infierno-asi-se-vive-la-ola-de-calor-en-europa",
+      "categoryId": "urban",
+      "title": "“Es como estar en el infierno”, así se vive la ola de calor en Europa",
+      "summary": "El Reino Unido enfrenta temperaturas superiores a los 36 grados, lo que ha llevado a la cancelación de clases en más de mil colegios. La falta de infraestructura adecuada agrava la situación en el transporte público y en edificios históricos como el Parlamento.",
+      "author": null,
+      "publishedAt": "2026-07-10T04:20:04.000Z",
+      "readTimeMinutes": 1,
+      "content": "El Reino Unido ha experimentado un aumento significativo en las temperaturas, superando los 36 grados, lo que ha generado caos en diversas áreas, incluyendo la educación y el transporte. Más de mil colegios han cerrado debido a la incapacidad de garantizar un ambiente adecuado para los estudiantes.\n\nLas altas temperaturas también han afectado el transporte público, donde los icónicos buses y el metro de Londres se han vuelto incómodos debido a la falta de ventilación. La situación es crítica, ya que muchas infraestructuras no están preparadas para estas condiciones extremas.\n\nExpertos advierten sobre la necesidad urgente de adaptar la infraestructura del país para enfrentar el cambio climático, ya que las proyecciones indican que las temperaturas seguirán aumentando en el futuro. La salud pública también se ve amenazada, con un incremento en los riesgos asociados a las altas temperaturas.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/es-como-estar-en-el-infierno-asi-se-vive-la-ola-de-calor-en-europa.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/europa/20260710-es-como-estar-en-el-infierno-as%C3%AD-se-vive-la-ola-de-calor-en-europa"
+    },
+    {
+      "id": "mohammed-alwahidi-los-palestinos-lloran-la-muerte-en-un-ataque-israeli-del-hombr",
+      "categoryId": "society",
+      "title": "Mohammed al‑Wahidi: los palestinos lloran la muerte en un ataque israelí del hombre que organizaba proyecciones de los partidos del Mundial entre las ruinas de Gaza - BBC News Mundo",
+      "summary": "La muerte de Mohammed al-Wahidi en un ataque israelí ha causado gran dolor en Gaza, donde era conocido por su labor humanitaria. Al-Wahidi organizaba proyecciones de partidos del Mundial para ofrecer momentos de alegría a las familias en medio del conflicto.",
+      "author": null,
+      "publishedAt": "2026-07-10T09:46:57.000Z",
+      "readTimeMinutes": 1,
+      "content": "Mohammed al-Wahidi, un trabajador humanitario, fue asesinado en un ataque aéreo israelí. Era reconocido por su trabajo en la distribución de ayuda y por organizar proyecciones de partidos del Mundial en Gaza. Su muerte ha generado una ola de condolencias en redes sociales, donde se compartieron recuerdos de su labor.\n\nAl-Wahidi, de 65 años, había coordinado asistencia alimentaria y ayudado a establecer campamentos para familias desplazadas. Su iniciativa de proyecciones de fútbol buscaba brindar un respiro a las familias, especialmente a los niños, en medio de la guerra. La comunidad lo recordará por su amabilidad y dedicación a ayudar a los demás.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/mohammed-alwahidi-los-palestinos-lloran-la-muerte-en-un-ataque-israeli-del-hombr.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/cx2vzv9g3jzo"
+    },
+    {
+      "id": "como-los-trabajadores-del-sector-de-la-ia-estan-disparando-con-sus-ganancias-los",
+      "categoryId": "economy",
+      "title": "Cómo los trabajadores del sector de la IA están disparando con sus ganancias los precios de la vivienda en San Francisco - BBC News Mundo",
+      "summary": "Los precios de las viviendas en San Francisco han aumentado significativamente, impulsados por los altos salarios de los trabajadores del sector de la inteligencia artificial. En mayo de 2026, el precio promedio de venta alcanzó un máximo histórico de US$1,76 millones.",
+      "author": null,
+      "publishedAt": "2026-07-09T20:57:08.000Z",
+      "readTimeMinutes": 1,
+      "content": "En San Francisco, los precios de las propiedades han aumentado drásticamente, especialmente en áreas de lujo como Duboce Triangle. Un apartamento de tres habitaciones se vendió por casi US$3 millones, con el vendedor considerando aceptar acciones de empresas de inteligencia artificial como forma de pago.\n\nEl precio promedio de las viviendas en la ciudad subió un 19% en marzo de 2026, y continuó aumentando en los meses siguientes. Este crecimiento se atribuye a los altos salarios y bonificaciones de los empleados de IA, que han revitalizado el mercado inmobiliario tras la recesión provocada por la pandemia.\n\nA pesar de la tendencia al alza, algunos economistas advierten que la situación podría cambiar debido a despidos en grandes empresas tecnológicas y la posible necesidad de trabajadores menos especializados en el futuro. Sin embargo, el auge actual parece estar lejos de terminar, con muchas propiedades vendiéndose rápidamente y a precios superiores a los iniciales.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/como-los-trabajadores-del-sector-de-la-ia-estan-disparando-con-sus-ganancias-los.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/c8d23regzyjo"
+    },
+    {
+      "id": "que-esta-buscando-la-gente-en-tu-ciudad-esta-semana",
+      "categoryId": "economy",
+      "title": "Qué está buscando la gente en tu ciudad esta semana",
+      "summary": "Esta semana analizamos las búsquedas reales hechas por personas en tu ciudad dentro de Nodo.",
+      "author": null,
+      "publishedAt": "2026-07-10T10:19:16.500Z",
+      "readTimeMinutes": 1,
+      "content": "Esta semana analizamos las búsquedas reales hechas por personas en tu ciudad dentro de Nodo. Los datos muestran con claridad hacia dónde se está moviendo la demanda local y qué oportunidades están apareciendo para los comercios.\n\nEn los últimos 7 días, las categorías con mayor crecimiento de interés fueron **Unclassified** y **Vehicles**. Esto indica un aumento de intención de compra en productos de alto valor, especialmente en transporte familiar y dispositivos personales.\n\nEntre las búsquedas que más se repitieron destacan términos como **\"mercedes\"** y **\"mercedes clase\"**, lo que sugiere una combinación interesante entre consumo inmediato y decisiones de compra relevantes.\n\nAccede al análisis completo por ciudad, categoría y tendencia en **Nodo Insights Pro**.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/que-esta-buscando-la-gente-en-tu-ciudad-esta-semana.webp",
+      "source": "Nodo AI, Inc",
+      "sourceUrl": "http://localhost:3000/analytics"
+    },
+    {
       "id": "economia-la-ue-exige-a-meta-abrir-whatsapp-a-chatbots-rivales-y-amenaza-con-mult",
       "categoryId": "economy",
       "title": "Economía - La UE exige a Meta abrir WhatsApp a chatbots rivales y amenaza con multas millonarias",
