@@ -1,6 +1,58 @@
 {
   "articles": [
     {
+      "id": "por-que-el-declive-de-poblacion-deja-al-descubierto-las-antiguas-divisiones-de-a",
+      "categoryId": "economy",
+      "title": "Por qué el declive de población deja al descubierto las antiguas divisiones de Alemania - BBC News Mundo",
+      "summary": "El declive de la población en Alemania Oriental revela divisiones históricas. Las tasas de natalidad han caído y se prevé un aumento en la escasez de mano de obra.",
+      "author": null,
+      "publishedAt": "2026-07-11T03:57:23.000Z",
+      "readTimeMinutes": 1,
+      "content": "La población en los cinco estados que formaban parte de la República Democrática de Alemania ha disminuido un 16% desde la reunificación. Este fenómeno se agrava por la baja tasa de natalidad y la migración hacia el oeste, donde las oportunidades son mayores. En el estado de Alta Sajonia, la caída ha sido del 26%, lo que ha llevado a una escasez de trabajadores capacitados y a un aumento en la popularidad del partido Alternativa para Alemania (AfD).\n\nLas proyecciones demográficas indican que para 2070, la población de Alemania podría seguir disminuyendo, especialmente en las regiones orientales. Esto plantea desafíos significativos para el sistema de bienestar social, ya que una población envejecida requiere más servicios de salud y cuidado social, mientras que la fuerza laboral se reduce. La situación actual refleja las consecuencias de la reunificación y la transformación económica que ha afectado a estas comunidades.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/por-que-el-declive-de-poblacion-deja-al-descubierto-las-antiguas-divisiones-de-a.webp",
+      "source": "BBC Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/articles/cj3g2n8n876o"
+    },
+    {
+      "id": "cuba-sufre-nuevo-apagon-general-el-segundo-en-cinco-dias",
+      "categoryId": "energy",
+      "title": "Cuba sufre nuevo apagón general, el segundo en cinco días",
+      "summary": "Cuba experimenta un nuevo apagón general, el segundo en cinco días, afectando a la isla en medio de una crisis energética. La Unión Eléctrica de Cuba reporta una desconexión total del sistema eléctrico nacional.",
+      "author": null,
+      "publishedAt": "2026-07-10T21:39:11.000Z",
+      "readTimeMinutes": 1,
+      "content": "Cuba ha sufrido un nuevo apagón generalizado, el segundo en cinco días, según la compañía de electricidad. Este corte se produjo a las 16:30 hora local y es el cuarto apagón en menos de seis meses.\n\nLa crisis energética se ha visto agravada por el bloqueo petrolero de Estados Unidos, lo que ha complicado la reactivación del sistema eléctrico. La producción de electricidad depende de centrales térmicas obsoletas y generadores de respaldo alimentados con diésel importado.\n\nEl gobierno cubano ha invertido en energía solar para reducir la dependencia del petróleo. Entre 2025 y principios de 2026, se instalaron 56 parques solares que generan más de 1.000 MW, representando el 10% de la producción total de electricidad del país.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/cuba-sufre-nuevo-apagon-general-el-segundo-en-cinco-dias.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/minuto-a-minuto/20260710-cuba-sufre-nuevo-apag%C3%B3n-general-el-segundo-en-cinco-d%C3%ADas"
+    },
+    {
+      "id": "un-clima-que-ya-no-existe-el-calor-extremo-pone-a-prueba-los-limites-de-europa",
+      "categoryId": "energy",
+      "title": "\"Un clima que ya no existe\": el calor extremo pone a prueba los límites de Europa",
+      "summary": "El calor extremo en Europa ha llevado a un aumento significativo de incendios y muertes. Las condiciones climáticas actuales superan los límites de adaptación de las sociedades europeas.",
+      "author": null,
+      "publishedAt": "2026-07-11T02:43:50.000Z",
+      "readTimeMinutes": 1,
+      "content": "El incendio en Almería ha sido el más letal de la temporada en España, con al menos 12 muertos. Este evento es parte de un verano marcado por olas de calor consecutivas en Europa, donde Francia y el Reino Unido enfrentan temperaturas récord y condiciones climáticas extremas. Los científicos advierten que la adaptación a estos fenómenos avanza más lentamente que el aumento de las temperaturas.\n\nFrancia ha registrado su junio más caluroso, con 72 departamentos en alerta roja. En el Reino Unido, las casas y el sistema de transporte no están preparados para el clima actual, lo que ha llevado a la cancelación de clases en más de mil colegios. Las muertes relacionadas con el calor han aumentado significativamente, con miles de fallecimientos reportados en ambos países.\n\nLa situación ha llevado a la implementación de medidas de emergencia, como la distribución de equipos de climatización en hospitales en Francia. Los expertos señalan que el calor extremo está alcanzando los límites de la capacidad de las sociedades para hacer frente a estas condiciones.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/un-clima-que-ya-no-existe-el-calor-extremo-pone-a-prueba-los-limites-de-europa.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/europa/20260711-un-clima-que-ya-no-existe-el-calor-extremo-pone-a-prueba-los-l%C3%ADmites-de-europa"
+    },
+    {
+      "id": "mundial-2026-merino-sella-un-sufrido-triunfo-de-espana-sobre-belgica-para-avanza",
+      "categoryId": "society",
+      "title": "Mundial 2026: Merino sella un sufrido triunfo de España sobre Bélgica, para avanzar a semifinales",
+      "summary": "España logró un triunfo 2-1 sobre Bélgica en los cuartos de final del Mundial 2026, asegurando su lugar en semifinales. Mikel Merino anotó el gol decisivo en los minutos finales del partido.",
+      "author": null,
+      "publishedAt": "2026-07-10T22:14:57.000Z",
+      "readTimeMinutes": 1,
+      "content": "La selección española se enfrentó a Bélgica en un partido complicado, donde logró una victoria 2-1. Fabián Ruiz abrió el marcador para España, aprovechando un rebote tras un disparo de Dani Olmo. Mikel Merino, quien ingresó como suplente, selló la victoria con otro gol en los minutos finales, también tras un rebote.\n\nBélgica mostró una sólida defensa, complicando el juego a España. A pesar de esto, logró igualar el partido con un gol de Charles De Ketelaere. Sin embargo, la efectividad de España en los rebotes fue clave para su triunfo. Con esta victoria, España avanza a semifinales, donde se enfrentará a Francia.",
+      "imgsource": "https://bucket-stagginh.up.railway.app:443/nodo-listings/mundial-2026-merino-sella-un-sufrido-triunfo-de-espana-sobre-belgica-para-avanza.webp",
+      "source": "France 24 Español",
+      "sourceUrl": "https://www.france24.com/es/deportes/20260710-mundial-2026-merino-sella-un-sufrido-triunfo-de-espa%C3%B1a-sobre-b%C3%A9lgica-para-avanzar-a-semifinales"
+    },
+    {
       "id": "economia-la-ue-exige-a-meta-abrir-whatsapp-a-chatbots-rivales-y-amenaza-con-mult",
       "categoryId": "economy",
       "title": "Economía - La UE exige a Meta abrir WhatsApp a chatbots rivales y amenaza con multas millonarias",
